@@ -1,0 +1,13 @@
+FuiDNp = |"2","1","Hl","D8eO","tiGrK3","PFc5II"|~|"1vrR4","Frf","tGEp3","uX","ByReIa"|
+kqgXh = |"tAzSA","Nfcle","Gcjb7","RR4"|~|"tAzSA","EXLAxl","l0WZ4","2x9"|
+nAn1Ec = |"2KymFZ","GcU","d0qB"|+|"2KymFZ"|
+uGMtOt6 = |"DIvFN","CUVGWjq","HV0d","HpTAF"|^|"sgMT","Hyu4g","YfeG"|
+a9xraVK = |"OTL","ac50H","BIz1","Ocmia"|+|"fm","t","3h","OTL","u","vRIp2D"|
+61VZd = |"NmD","zVfcd6","221IBe","5o","37nv"|^|"5bawYU","NmD","5o","zVfcd6","SRVoWb","QOdCFVd","nG2k"|
+ivztK = 61VZd - nAn1Ec
+kxNn0V7 = ivztK - a9xraVK
+KXSE43A = |"yUQJeT","8JbC","bbuEzR","TA","axy","1OEXxcK"|
+QstnM = |"axy","yUQJeT","TA"|
+QstnM@KXSE43A
+.p
+.l

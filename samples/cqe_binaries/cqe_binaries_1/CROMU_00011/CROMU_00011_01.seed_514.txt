@@ -1,0 +1,11 @@
+txIGQE = |"3kLPWbP"|+|"aB","YRQGNG","Sfh9S","9o","TEPuc"|
+JLQ0wO = |"BV"|^|"iv","i7","4FFI","G7i40M8"|
+XswBTT = txIGQE - JLQ0wO
+2zqTI = JLQ0wO + JLQ0wO
+N41Pw = |"aTn","dXe5il","Hyht","Ofa1w"|-|"aTn","dXe5il","Ofa1w","L","6PXcn","eY0jz0U","kP"|
+bEcVd = 2zqTI ~ JLQ0wO
+yelpqwE = |"W9n3hcH","xRu","L","J","itjkg","abpS","I"|-|"I","sP","Mf9"|
+yMrpCyBT = JLQ0wO ^ bEcVd
+IZW5IaSFVm = bEcVd ^ N41Pw
+.p
+.l

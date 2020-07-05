@@ -1,0 +1,19 @@
+lcrEQv1 = |"ZMBf","FG9XpS"|^|"K8hAby","eXq","QlZa","5x","HK6yZhE","5OkF1V"|
+SJUDIN = |"8nX","rbu","X969d1","mhkzCr","D4yhRDh","1yi"|
+cpV8pz = |"rbu","1yi","Duf6iKGNfL"|
+cpV8pz@SJUDIN
+NuFZq = SJUDIN - lcrEQv1
+KTSlK = |"7Lc7","aj","f","C4h","NUtL6","2","J44e"|+|"J44e","wQ"|
+G0su5cn = |"ot8","gTT","FQ3F","H50f3NI","N5nH","njk0","2tx","oM","EY","5cwc"|
+FTWm1v = |"njk0","OxXWLVH8RL"|
+FTWm1v@G0su5cn
+QXgAn = cpV8pz - G0su5cn
+F8Ac0d = QXgAn ~ FTWm1v
+BXzve = |"o","kjxdZT"|~|"Di","o","UvBI","w","T51qGL","QK7Zam"|
+3O4JXPQ = |"APw1Pm","0x0F7jC"|~|"lprcqq"|
+GbOll = FTWm1v - F8Ac0d
+BLcbt = |"0xp6izr","c","Xrn","tJ","7XaT","E"|-|"E","kts6","HyXDOZ","Xrn","c","S","eiKpc"|
+Mfgjt7V = BLcbt + 3O4JXPQ
+56AXpnr = KTSlK - G0su5cn
+.p
+.l

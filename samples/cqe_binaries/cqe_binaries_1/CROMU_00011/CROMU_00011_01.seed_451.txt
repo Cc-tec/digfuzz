@@ -1,0 +1,11 @@
+W3Te9 = |"OGfrR2O","9VpVX","5m","z0tI","p1zQ6B","cVMvX"|^|"lGHt","6F0nH","cVMvX","R9","Evnk","j7c","ADPSL"|
+dicsgrumC = W3Te9 ^ W3Te9
+90naI = W3Te9 - W3Te9
+jRG7Pz = |"pMRd","D","ipniV","fHXenlx"|~|"cuH","KjS"|
+UVKG3iV = |"gKQ3X","m84ou","1f","jBk"|^|"cl"|
+iCRuKZ = UVKG3iV + UVKG3iV
+j5eLIxT = |"9f","nOS112","m"|-|"dVkAny8","zAz9b1","9qUtW","ckD"|
+Nxz7oH2 = iCRuKZ ^ dicsgrumC
+N4CsM = |"5i"|^|"fP1hC","pT7kP","gj"|
+.p
+.l

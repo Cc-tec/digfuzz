@@ -1,0 +1,15 @@
+0IUXXN = |"U4","YjZj3JF","OJZkZ","nvY1","hZ","ffc","Vu"|-|"hZ","Kr4k","OJZkZ","YjZj3JF","U4","2HT"|
+gAJ5a = 0IUXXN ~ 0IUXXN
+LMJ0AM = 0IUXXN ~ gAJ5a
+qVWWeu = gAJ5a + LMJ0AM
+kLQSv = LMJ0AM + LMJ0AM
+ek7CMCo8 = qVWWeu ^ gAJ5a
+P0gwjO4 = 0IUXXN ~ gAJ5a
+QPq5Ef = |"v","Rkb02v"|+|"u","B0s","adDc"|
+JYxhHhq = P0gwjO4 - qVWWeu
+AEZp4 = LMJ0AM - 0IUXXN
+9OU9zrw = |"0Wh","TqEh","6d","w6oCWUl","jPLZU9q","uKb2f","21q","4rWK"|
+TpQH9 = |"w6oCWUl"|
+TpQH9@9OU9zrw
+.p
+.l

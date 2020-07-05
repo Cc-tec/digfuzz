@@ -1,0 +1,17 @@
+ocjdl = |"OTcjVgg","eDtl","Ds3TH8","uqZDN2","kRmen","ca","WhheZcy"|~|"BTF","Xe2GnPh","ca","OTcjVgg","agAU6"|
+dDvLoUP = ocjdl - ocjdl
+fGifWj = |"Du","Vjl","iR","lbe6","we","DolmAVd","Bx","AXmUuwO"|
+XuwQmQm = |"lbe6","AH7olAwgrY"|
+XuwQmQm@fGifWj
+XV4gBk = |"ZQ9fyt","Lr","UhpntqQ","bhEIwcX","AEoX","jUqvm9","Bf"|
+PkW3Px = |"UhpntqQ"|
+PkW3Px@XV4gBk
+FGJXxG = |"plizF","4Sw"|^|"803k","GtYegtk","hG","lhuqzV","NNB6nkx","RFy"|
+kIm17LE8 = XuwQmQm ^ dDvLoUP
+VOY6I = XuwQmQm + kIm17LE8
+hQ3YzK = |"Znog1q","89","ElgUf","kNYx0FS","MtueL","UWGC4oC"|
+P4SAExw = |"kNYx0FS","89","MtueL","ElgUf"|
+P4SAExw@hQ3YzK
+rFGKF = |"MO","lz","Dv","90Tx"|^|"2maX","aIX","xBsF","MO","HLF","AH"|
+.p
+.l

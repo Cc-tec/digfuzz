@@ -1,0 +1,15 @@
+zDs1Tz = |"eQt","5","Sg2X"|+|"IQNqTp","JeFq"|
+QBT50aB = |"DO","y0U82AR","VGD","zoVVSW","qupXL","Qe","V4cMkS","sbnLk","g2uaOE"|
+sbqJLv = |"qupXL","zoVVSW","Qe","VGD","g2uaOE","y0U82AR","sbnLk","V4cMkS"|
+sbqJLv@QBT50aB
+3I4nD = |"XWfZ","ozdm","xvY","falMsEs","MRljW","sr","YYlAh","2y3c","ya","7cTX"|
+Q6TBCQ3 = |"YYlAh","XWfZ","xvY","falMsEs","sr","7cTX"|
+Q6TBCQ3@3I4nD
+4G8nM = zDs1Tz - QBT50aB
+HK8fl = |"BZKEs","l","6"|+|"VUjIB","EP"|
+yv5ovH = |"TDMJCw5","aJBH25h","Qv","LE","43q","itsU","mJn"|~|"o2FL","sugQj","5mQ","mJn","VmFg","Qv"|
+796KfYb = |"pm","4LE"|+|"o9QzUe","pm","od","ePMl"|
+B40PyLk = HK8fl ~ zDs1Tz
+vKCFX = |"cb9X9PM","dze","8qcUTP"|-|"YGt","cb9X9PM","YHApPfb","Ub"|
+.p
+.l

@@ -1,0 +1,14 @@
+bsnKgR6 = |"CJ4","dy452c","dF0r","wOt","7v1rs","UaNZJ"|
+C0szUwD = |"UaNZJ"|
+C0szUwD@bsnKgR6
+69yMGk = bsnKgR6 - bsnKgR6
+M02CO = |"ZO9d","nIwJUt0","8R6KL","mu7n","PiIxefg","NcxE8zT"|^|"tE4dOKf","eyRgLH"|
+iBvwon = |"G","6I9"|+|"Eo","oC","tLS","cbyMyX","LRMophO"|
+8XQkpA = C0szUwD - 69yMGk
+rWgVr = |"0KbQt4A","jA1jI","ud","hzPImIw","idF6kR","6RnSPJ","8GqykF"|^|"TMUai7c"|
+ip3Xer = 8XQkpA ~ M02CO
+n1LdZC = |"QFQAz"|+|"Yqab6fx","IY"|
+8hrdMsJ = 8XQkpA + 69yMGk
+l8TWOU = |"Ho7tcr","t9PD","z","xM","syumOZ"|~|"le59","z"|
+.p
+.l

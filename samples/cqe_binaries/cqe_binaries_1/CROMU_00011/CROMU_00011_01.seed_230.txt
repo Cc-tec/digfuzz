@@ -1,0 +1,16 @@
+XTu176Y = |"0","A","tJIVv","O1kKSLp"|~|"d2","O1kKSLp","mk"|
+YrGVHbuD = XTu176Y ^ XTu176Y
+Qwrac9ezds = XTu176Y ^ XTu176Y
+0MopCY = |"t","3Z","VgzF4","hcpPY"|+|"SdA"|
+aOc0ct = YrGVHbuD + Qwrac9ezds
+6CqfUZ = aOc0ct + YrGVHbuD
+BFBOGmC = aOc0ct - XTu176Y
+azkwP = |"ijeQ2E","Hc02","X6PK","fVg","qWuNf2d"|^|"jBmaxIq","ijZa3WR","JZWC"|
+Eq8lW = |"9Wa","luskY","JdS","Ehe0g","MsfUW","Oz","WLljr0r"|
+BvJuL0t = |"MsfUW","Ehe0g","luskY","WLljr0r"|
+BvJuL0t@Eq8lW
+r5Thg5anOj = 6CqfUZ ^ aOc0ct
+CPffxKNv0 = aOc0ct ^ Eq8lW
+V4xS8A = |"wZDzoyn","CTdCil7","fTUQGVd"|+|"CTdCil7","mT61R","696md7y","5C","w1l8M","fdPWZEQ","aXqX4"|
+.p
+.l

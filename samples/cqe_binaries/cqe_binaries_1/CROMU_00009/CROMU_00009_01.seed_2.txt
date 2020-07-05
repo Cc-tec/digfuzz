@@ -1,0 +1,8 @@
+echo "aaaa" > /testfile
+dump /testfile
+echo "\x41\x42\x43\x44" > /testfile2
+dump /testfile2
+mkfolder "test folder"
+echo "\x41\x42\x43\x44" > "/test folder/testfile3"
+dump "/test folder/testfile3"
+delete "/test folder//testfile3"

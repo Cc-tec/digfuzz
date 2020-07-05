@@ -1,0 +1,20 @@
+MQrKUA = |"dge1Z","ca2fg","EXhf","Eo8Fbi"|^|"7WqsBo0","Lh4cMr","KbX"|
+xIuHp9PouV = MQrKUA ^ MQrKUA
+9UGhN = xIuHp9PouV ^ xIuHp9PouV
+QYQfyEwD = MQrKUA ^ xIuHp9PouV
+TFm49h = 9UGhN ^ xIuHp9PouV
+Y9XrK4B = xIuHp9PouV + xIuHp9PouV
+SB6HzOFS = TFm49h ^ 9UGhN
+ShpJdm = |"F5K2H","N5EiHC","mIchkk","jff","WG9dxoR","6IHX8"|-|"2Ims6","q","FMIO","n"|
+PxMApDw = Y9XrK4B + xIuHp9PouV
+pDXSPNJ = |"EhSuR","LcaRz3O","mS","rCFlRut","Lde83"|~|"rCFlRut","LcaRz3O","uFAB"|
+Fn8WwC = |"KXy3","g5","SQV","3GdSzA","gCX","rWZ","uD","2dg"|
+jdYZB = |"3GdSzA","gCX","rWZ","g5"|
+jdYZB@Fn8WwC
+dTZrF = |"Nhuds","r","50","7m","K2"|~|"waR5zEI","7m","fMaIain","mYZ","K2","81f"|
+g7rHSwl = 9UGhN + PxMApDw
+DFnWR = |"bJrH","m6","dIdW2i","b7Lzjz","QMm","H3","PnZWt","oxd","WT2dg"|
+awRmw1 = |"dIdW2i","PnZWt","H3","QMm","oxd","m6","bJrH","WT2dg","qrgGRMNLxh"|
+awRmw1@DFnWR
+.p
+.l

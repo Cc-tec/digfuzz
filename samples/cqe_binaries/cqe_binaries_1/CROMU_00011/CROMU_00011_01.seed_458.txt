@@ -1,0 +1,14 @@
+J1vmOIP = |"Wy","raYK","Q","XGMc","6NK"|+|"hTYSq","KNqV5CZ","Q","oG","bCU"|
+VCORVR = |"F7Za6","Y","Pw"|~|"9j6PP4","y3yJpk","j3LT"|
+1cNIC1bX1n = VCORVR ^ J1vmOIP
+nWpYjDGm = 1cNIC1bX1n ^ VCORVR
+c6Ajngy = |"aBDI74X","7V","O0e"|^|"kaAsbDy","HZLg4v7","Olz","7V"|
+46csG = nWpYjDGm ^ c6Ajngy
+Rahm4vV = |"gQ8","gAZyhG","JKwK4","ZaQgSn1","Mb3mX","WOl8"|
+VyV9U = |"ZaQgSn1","Mb3mX","gQ8"|
+VyV9U@Rahm4vV
+fSKaN = |"wD9weY","M9fCyvP"|+|"o7pNziv","dRb","o","TT","n8g","myFyXd"|
+wsa8N = |"K","vut","7OD","9","a","awaks","A"|-|"K","MoS5n7n","b8k0jJy","i8","vut","G","ZzNc9ul"|
+3QbH57X = Rahm4vV + 1cNIC1bX1n
+.p
+.l

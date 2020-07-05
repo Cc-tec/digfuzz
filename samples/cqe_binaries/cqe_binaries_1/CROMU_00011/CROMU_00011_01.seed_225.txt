@@ -1,0 +1,10 @@
+LcGsM = |"TdootT","8RM7","r","B0vZ"|+|"b8rJJOx","FZ","tChVjY","0j4pm"|
+bADu9 = |"LhfQW","QqP"|^|"3tbAFy","RLY","rHlO","Xqvj","THhJxBc"|
+R6Pdo = LcGsM ~ bADu9
+tcEMHxC = LcGsM ~ LcGsM
+jwabh = |"kD","Nvi","8rpv","zLI","yP01u6s"|-|"xtg","oO","yP01u6s","n0SR","RSbNG","kD","0LYhI7S"|
+M4n9l1D = LcGsM - jwabh
+EgTfCIN = |"enWqC","gG8l","1y9nIj"|-|"l","drcRPz","enWqC","c7","jLxf","TA8"|
+chegZh2pUl = EgTfCIN ^ jwabh
+.p
+.l

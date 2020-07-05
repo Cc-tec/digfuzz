@@ -1,0 +1,14 @@
+6DnRcV = |"mYE","Q","IIcKse","UqwU","pQy7","Z2jt9dg","sJzO"|~|"mYE"|
+57cj9b6 = 6DnRcV - 6DnRcV
+eyCuqZU = 6DnRcV ~ 6DnRcV
+DGnf1 = |"39","HApdTO","SB3","nK9Krd","QzWv2JJ","Gl","8T5","yh","sMZE20g","9VgV00"|
+GqA6QI = |"9VgV00","QzWv2JJ","8T5","39","yh","SB3","HApdTO","nK9Krd"|
+GqA6QI@DGnf1
+W5esmj = 6DnRcV ~ eyCuqZU
+UzK6hQ = eyCuqZU - eyCuqZU
+YgWJQ = |"k1n9","UT2hAo","CMAy","DrPM"|-|"8dNq","v55g","8m"|
+DrcgtTj = |"6wVO9E","FaPl6","jJ2D","JJqbkp"|^|"la","NLEk","VL","BOlmoV","JJqbkp"|
+ngeM0It = |"kUrIjmM","INkt","lr4","WQtQ"|^|"rO0U","INkt","jQ1"|
+1VoTG3f = YgWJQ ^ UzK6hQ
+.p
+.l

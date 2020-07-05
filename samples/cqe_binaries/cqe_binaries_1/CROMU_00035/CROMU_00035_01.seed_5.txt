@@ -1,0 +1,15 @@
+2014
+2
+1
+22
+6
+44
+add file vOwB5o 5
+DnF1cadd file xP2jnPGz 49
+8c3dE0YDePlOz4lINPtvTpIJCGTu8vuUYIEnR1wCDTzjmUN3aadd user nP2qTHl
+get userlist
+delete user nP2qTHl
+add directory aR6hZW
+add file XwErgfI4eJ 29
+30UeYkyaXkgms8TmM8hVUP9dUCUEldelete filebytes XwErgfI4eJ 28
+exit

@@ -1,0 +1,16 @@
+Xw1EW = |"mbrXyK","7KZ"|^|"AyenVc","cyIHrYr","5Fpbhz","DCyxjA","aIFRV","N7yD","GD"|
+CJ5gi = Xw1EW - Xw1EW
+VoxLW = |"nFx","cNDkR","Zz8L","zHvpA3"|-|"Obf0","zHvpA3","0l","yTyi","cNDkR","4XHLlX","nFx"|
+h3bxAk = CJ5gi + VoxLW
+9ghv8 = |"t","Ct","QSbL","M6e8","V75Q","I"|+|"QSbL"|
+eaT8Xrd = |"ZglECz","gO","dyB"|~|"nVinh","SPp","I6zgVxB"|
+qzUbEx = |"19OJ5Rq","YToAkP","aWk","9ywm6","l1V"|~|"9ywm6"|
+hCL90H = |"RT7e","K","9eVea9","Mgyw","cXK","uDq7Hs","Qrk5n69"|~|"9eVea9","QbIx"|
+KAwEjiRRjj = VoxLW ^ Xw1EW
+4IwrP = |"LP6wk","JkeOl","U9","P5BdkR","4QP0q","cLhAm","enOsIp"|~|"bM","AiEi","U9"|
+TqakspP = VoxLW - hCL90H
+qdKds4L = |"K","u3VOo","oaop","Z8r","ng","Sb"|~|"2r","C3z1Ppo","02R","XMnYGQH","71","akXn","u3VOo"|
+Z5L1aK = qdKds4L ~ KAwEjiRRjj
+0CFog = hCL90H + TqakspP
+.p
+.l

@@ -1,0 +1,19 @@
+LTM1q = |"T3vejA","vytC","hxO","e"|+|"pP5","3DfzX","Nxh"|
+yZ38ygS = |"oH","C8U86y","IRgS8sF","3Fg","zMmvvt","yFl5jaE","8KJawd3"|~|"VuyDv1v","B","yj86Q","4","dzx"|
+MiMXTX = yZ38ygS ^ yZ38ygS
+69hznE = |"dRfU","Vymly","F","U78l","M","w","XBD"|+|"dBuRo","mkxPa1","Ply2vJw","loP","M","ZJ7hY4d","U78l"|
+S7SPlf = 69hznE - yZ38ygS
+Kx1UrS8 = 69hznE + S7SPlf
+RkG9c = |"M7eW","wc6rV","rPuP","NWh5k"|~|"cr2f2N","rPuP","NWh5k","suH"|
+qlkjL = |"xLYFIv","sJC9","3mFH","03I","yjVF","Bt","m7ttiY","EovGf","ZB"|
+tk8l0om = |"yjVF","djboBhO5bR"|
+tk8l0om@qlkjL
+xtzTi3 = |"81k"|^|"81k","LK6ru9","2Zn","3Qhc8xo","BRrrLn"|
+DNFol = |"l5cO"|^|"Vz9qS","0UHLu","XIi"|
+Ydn2x = qlkjL - RkG9c
+cas32ZP = |"zjKw","R","P","2hkSHV","8QKNqXN"|-|"Uz3A","MqK3OF","BiI"|
+MZ6mugI = RkG9c ~ LTM1q
+GUCyJr = |"p7","b"|+|"ZizEFpz","2mJN","p7"|
+kDKjP4b = |"Ci2","aXS","PO","b7UM"|~|"5e87","dkAlS","b7UM","jjVoo"|
+.p
+.l

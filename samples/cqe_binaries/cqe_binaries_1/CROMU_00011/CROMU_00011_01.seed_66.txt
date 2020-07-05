@@ -1,0 +1,22 @@
+nmubu7 = |"N","D","APnaFm1","ht4K"|+|"LDb","0hR","wrI","EtKdEcC","R3U7GZ","D"|
+fkB98 = nmubu7 ^ nmubu7
+OHQnxN = |"IDa12H","d5Vj6w","SaW4VLz","LI9MEjl","l3JWvo","XTI","OM","hs","Xzhhv4","IcM"|
+BekCHcd = |"IDa12H","l3JWvo","SaW4VLz"|
+BekCHcd@OHQnxN
+DYxNI = |"FR","Iv7cjP","yaU","LKQ","I"|+|"mK5Zw","J","KY"|
+FERxSX = nmubu7 + BekCHcd
+fgtKu = FERxSX - OHQnxN
+SJbQFye = |"NINjn"|+|"X9","NINjn","Xlhkthl","gRE"|
+VBZycr = BekCHcd + fgtKu
+4tkm3 = SJbQFye ^ FERxSX
+7IR01 = |"Nfvz","ROeACs","QqA","io7RVX","xUJ","3GF","YH"|+|"AhXHo","2IUsC","Nfvz"|
+y8GZS0 = |"drWTY","qyCqT","aNZp","L1Sfr","989au3M","ubVet"|
+IVJoU = |"989au3M","drWTY","aNZp","ubVet","hJRLtTegiG"|
+IVJoU@y8GZS0
+Dlclb6 = |"wjy4N","TMJw8Zl","TjlqGws","VvDYM7","C8JnLj","mLra"|
+IZlG4X = |"wjy4N","C8JnLj","TjlqGws","mLra","klk2I6Bun5"|
+IZlG4X@Dlclb6
+c2bwiO = 4tkm3 + OHQnxN
+ISDl1y = BekCHcd ^ OHQnxN
+.p
+.l

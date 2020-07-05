@@ -1,0 +1,13 @@
+4rI7HC = |"QDZmG","Qs","a7NfB4","BPBKC"|^|"vFb7Z"|
+hfrDHIpY9 = 4rI7HC ^ 4rI7HC
+FMSQIr = 4rI7HC ^ 4rI7HC
+TBhTx = FMSQIr ^ FMSQIr
+yZG2Xp9E8 = TBhTx ^ hfrDHIpY9
+GsCxAZl = yZG2Xp9E8 ~ 4rI7HC
+PJJmru = |"17"|+|"lzkg","J"|
+HZasOu = hfrDHIpY9 + hfrDHIpY9
+hLhbv = |"3Op","0pGiUT6"|+|"WrK","6N","ao1dv","NczxOwN"|
+SS68q = |"nTsve","xp3eD","M"|+|"xp3eD","2lYYx7e","4Uoa3","KUNKiB"|
+Z3OnqX = hfrDHIpY9 + yZG2Xp9E8
+.p
+.l

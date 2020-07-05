@@ -1,0 +1,36 @@
+2
+{Planet}{     Name    }  Dd6RC17   { #Name}    {   Mass}  0.46497   {  #Mass     }     {    Period    }     1.45238 {   #Period    }     {   Gravity     } 1.10484   {    #Gravity     } { Perihelion   }   2.00000   {  #Perihelion }    {  Aphelion   }    0.70000  {#Aphelion    } {    ERadius }  0.47368   {     #ERadius } {   Radius}     4.89189    { #Radius  }     {    OrbitSpeed    } 0.60326 {   #OrbitSpeed    } {     Population     }     2232    {  #Population     }     {#Planet}
+1
+2
+{Planet}{     Name }    zRwjE     {    #Name    }{   Mass   }    0.24074     {    #Mass }     {   Period  }     1.01709{     #Period    }    { Gravity   }  1.18667{   #Gravity }{    Perihelion    }    9.10000 {#Perihelion  }    { Aphelion   }    0.49133   {    #Aphelion}{     ERadius   }     0.59341{     #ERadius} {    Radius     }0.28395     { #Radius  } {     OrbitSpeed   }1.21384    {    #OrbitSpeed  }     {  Population  }     2923{     #Population     }  {     Country     }   {    Population    }    17033 {   #Population    }{    Border    }0.33333 0.76800 0.11475 1.43878    {#Border     }{  Border  }0.02174 15.50000 0.94853 0.96721{#Border  }{    Border  }   0.24457 0.76543 0.50526 0.21519 {   #Border }{Name   }  XM65Hdg{ #Name}{  Language     }     NPPFpO    {    #Language  }{     Language     }    hOrOtvZcn    { #Language    }{Capitol    }     xWjhosu    {   #Capitol    }{  Territory    }  {     Established }-1700  {  #Established    }{ Border   }   0.33333 0.22556 2.33333 0.68783  { #Border     }{   Name    } WJjc6mC     {     #Name }{   Founder    }  0jDHpntnzqd  { #Founder    }{Population }27965    {    #Population     }{County  }   {     Name}    yM0Tn8nlzF  { #Name    }{    Density     }  5.13333 {#Density    }{   Area  }  0.97110{ #Area  }{Seat   }  uAKZK   { #Seat     }{   Border    }     4.05263 8.83333 25.85714 0.45294{#Border}{  Border }   2.37500 0.23158 2.80702 15.75000     { #Border    }{  Population  }7039     {     #Population }{City}   { Url     }  http://RWTLMELScUAOA.com{#Url }{    Mayor  }RmxyjmzzExcfx{#Mayor   }{ Border   } 1.09150 0.29240 0.48925 1.77941    { #Border}{    Border} 0.13534 5.44444 0.95161 0.97531   {     #Border }{     Name   }    4JyDfKE   {   #Name   }{   Population  }   30539     {     #Population }  {  #City} {#County  }{#Territory }{ #Country     }     {#Planet}
+1
+3
+jSMaL6sv9S
+1
+2
+{Planet}{  Name   }   ePQ71uq     {#Name} {Mass  } 1.01449{    #Mass     }    { Period }     0.43114    {   #Period }  {  Gravity  }0.98571{    #Gravity    } {     Perihelion }   0.02817  {   #Perihelion    }  {Aphelion   }    0.35678   { #Aphelion    }     {    ERadius     }     3.70588  {   #ERadius}     { Radius     }1.16667{  #Radius  }     {OrbitSpeed  }    0.23333     {   #OrbitSpeed }   { Population  }     2615  {     #Population}    {#Planet}
+3
+nl6uoGTQcif
+1
+4
+5
+8
+0.90476
+8
+0.08333
+6
+7.09091
+2
+0.65138
+7
+1.34559
+6
+0.40909
+4
+0.80000
+6
+0.43382
+14
+2
+{Planet}{ Name    }     0EvfMsoPH  {   #Name     }    { Mass} 1.35294{#Mass     } {   Period  } 0.92908    {   #Period    } {    Gravity}    0.81481  {     #Gravity}   { Perihelion } 0.27451 {    #Perihelion }    {   Aphelion}0.61261 {   #Aphelion     }{    ERadius   }  1.31034   {     #ERadius  }     {     Radius}    1.39655     {   #Radius}    {   OrbitSpeed} 0.52577     {#OrbitSpeed  }  { Population }  3843   {     #Population     }     {#Planet}
+5

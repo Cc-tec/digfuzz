@@ -1,0 +1,11 @@
+vlQJh = |"i489","yDRCk2S","zdq2"|-|"LPxaL7","ABO","Uv7w","vlI","g3G"|
+tPfLkO = vlQJh ~ vlQJh
+342OA = tPfLkO ^ tPfLkO
+grNtZ4R = 342OA - tPfLkO
+DNRIs = |"0cFiwu","yDkx","a42Cbs","6knn","IUvtM","I","83Kh"|+|"AiL0H","I","s1W","tH","vyLKApX","NGCa"|
+uMH9cN3 = |"h76Cn"|^|"4sNx1HQ"|
+GKDehj = |"hA","1ZWcCQi","d0t","c","6zm8","imE","G"|-|"G","3hJ","imE"|
+jbxIc = |"DKs3lIL"|~|"WLa","X","6ua8","iDf","JID3t"|
+Adtol = |"rdcQIR","oOjgbF","Ai","hm","S3jYZl4"|~|"Ai","IEqq9R","gh","EOF5ZdT","D"|
+.p
+.l

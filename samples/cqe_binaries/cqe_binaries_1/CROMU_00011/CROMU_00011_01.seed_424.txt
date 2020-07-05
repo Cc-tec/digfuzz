@@ -1,0 +1,12 @@
+SWFF3h = |"5l","eWuq7S","GA1","TuFiQ8","9N2zrl","b8IWKvF","lsr","Rb6Mxi","kXfPuaZ"|
+e0PZzwq = |"lsr","b8IWKvF","Rb6Mxi","eWuq7S","5l"|
+e0PZzwq@SWFF3h
+2WFl7UXdOg = e0PZzwq ^ SWFF3h
+XuW73scd0v = SWFF3h ^ 2WFl7UXdOg
+gi1yaN = |"0d8xnmj","yZSA2Ig","W","R"|-|"D4","W","6e0j6"|
+1Y5uA = |"n2WY9"|^|"qOlz","9KasJ"|
+PDdfcG = 2WFl7UXdOg ^ SWFF3h
+AnEccU = 1Y5uA - 2WFl7UXdOg
+5qxxCC18 = PDdfcG ^ XuW73scd0v
+.p
+.l

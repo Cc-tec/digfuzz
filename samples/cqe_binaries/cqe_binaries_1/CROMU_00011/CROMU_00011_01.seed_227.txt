@@ -1,0 +1,21 @@
+ex76Qy = |"FtjqVRI","5BAsKI"|~|"FtjqVRI","0mbmJ","Oky1"|
+Wc5NQ4 = |"8BN44","ZoNgTDR","Ks","6whN","BLgc","bSixNZh","8wKCb","LVqxLOl"|
+gsADH = |"LVqxLOl","8BN44","BLgc","8wKCb","Ks","bSixNZh","6whN","SMJMyIN6Lx"|
+gsADH@Wc5NQ4
+8WS5bn = ex76Qy - gsADH
+rJCX4S = |"yUM8","mv0OZWi","fBL","xdtK2kw","3z","9b6bfuN","9cd"|^|"9b6bfuN","4C95V"|
+fyXv2cR = Wc5NQ4 ~ ex76Qy
+PZPPc4TXQS = rJCX4S ^ Wc5NQ4
+du7DdC = gsADH + Wc5NQ4
+JIrklE = |"VtJdEy","0B","62lF","yenp","BqL0","hN1iRi"|
+wX6PsSt = |"62lF","yenp","VCK4MGt2oK"|
+wX6PsSt@JIrklE
+nAw5zAk = |"ySX","9ojczy","c275lR","el7z0FX","qYJb","UaMP5","gP"|
+L4fRl32 = |"el7z0FX","ySX","9ojczy","c275lR"|
+L4fRl32@nAw5zAk
+VbEdmFP4Uz = L4fRl32 ^ wX6PsSt
+oH67IB = |"2Wfh","C","wXm","wnbA0S"|~|"W6tfNZ1"|
+AoIsX = |"IITi6h","dWqd","XKIyv","xvolU","CvoCtvp","fA"|^|"CvoCtvp"|
+e3EPo = ex76Qy - wX6PsSt
+.p
+.l

@@ -1,0 +1,65 @@
+2
+{Planet}{    Name     }  JloehFY  {   #Name    }  { Mass}     24.37500 {     #Mass   }   {   Period}    1.14286 {     #Period   }{Gravity}    1.01639   {  #Gravity     }    {Perihelion    } 0.30263 {     #Perihelion }   {    Aphelion  }   0.35593  {   #Aphelion     }  {ERadius    }   2.00000{ #ERadius}     {     Radius }0.39695   {    #Radius    }    {    OrbitSpeed  }     0.51079{  #OrbitSpeed  }  { Population   }    1315   {     #Population} {    Country   }  { Population     }     13594 { #Population    }{Border}     0.67416 0.14286 0.69492 2.34848  {    #Border    }{Border }   1.04412 1.42308 1.35252 3.55000   {#Border    }{     Name  }blenMfHTjT{   #Name}{     Language  }    IswtgN{#Language  }{Language  }  SdIMybZD    { #Language   }{    Capitol    }  SGhiIwM{    #Capitol }{Territory}{Established   }     -1031  {#Established }{ Border    }  0.01739 0.57971 0.83929 4.41463     {    #Border   }{    Name } db8OPCx {#Name  }{  Founder     }   gaKwG0xxHyk4     {    #Founder    }{ Population   } 24739{#Population }{County }{  Name     }  ENNyhEa5LG{     #Name  }{ Density}    7.08000  {    #Density    }{  Area   } 0.21788    {  #Area  }{  Seat  }     xvbOLOpZY{  #Seat  }{ Border  }   42.00000 2.62500 1.20192 1.73913     {#Border   }{     Border     }  0.41237 0.41414 2.01370 14.00000  {#Border    }{  Population  }   15658 {  #Population    }{     City   }    {  Url     }    http://z35OUwtffv8fis.com     {    #Url   }{ Mayor   }     ayRrIHvkxJdr8Ohhtq  {  #Mayor   }{   Border }     2.41935 0.60000 0.81609 0.75635   {    #Border }{Name}    nXaAoJjjM {  #Name  }{     Population     }31331{     #Population     } { #City  }  {    #County}{    #Territory     }{ #Country     }     {#Planet}
+4
+1
+4
+0.31214
+7
+4.95652
+7
+1.15686
+1
+2
+2.00000
+4
+0.72340
+2
+0.66854
+11
+Bo2GY1O4o
+5
+0.03150
+6
+0.41243
+14
+2
+{Planet}{ Name}   jjpNLnm9dY     {#Name }  {   Mass } 0.29268  {     #Mass     }   {   Period    } 1.84091    {    #Period    }     {    Gravity }   0.01852{ #Gravity  }     {  Perihelion }  0.22024   { #Perihelion  }{ Aphelion    }0.54054 {     #Aphelion   }     {  ERadius     }     0.80978   {#ERadius}  {  Radius   }  0.99324     {  #Radius    }  {  OrbitSpeed}0.38000 {     #OrbitSpeed  }  {     Population   }2737    {  #Population   } {  Country }    {   Population  }   27926{ #Population     }{Border  }     3.12069 1.67961 1.86154 0.79508     {    #Border  }{     Border  }  1.46269 0.53846 3.17544 0.68605     {  #Border  }{Name     }    QrovvL8h{#Name     }{Language   }  AeSeijBc    {   #Language    }{   Capitol   }  pCZCyo     {   #Capitol   }{     Territory} {  Established    } 570{ #Established    }{ Border   }     0.93567 0.43590 0.76699 0.32804{     #Border  }{    Name }  ddBd0dI9    {    #Name   }{  Founder   }  gCAp9WD2lE     {   #Founder    }{     Population  }11327  {    #Population   }{   County   }    {     Name }  v8SMaMN   {   #Name    }{ Density  }    0.31724  {  #Density     }{Area  }   0.07831{  #Area}{    Seat  }vNgUN{#Seat    }{     Border   }0.95312 0.88235 0.46667 1.38889     {  #Border    }{     Border}     0.77852 1.08824 1.08108 0.52688  {    #Border}{ Population }     16192{   #Population   }{  City }     {   Url}     http://z2SOlRqrKHERd5o.com {  #Url}{ Mayor   }     CrYN65WfDu     {#Mayor}{   Border  }0.08235 0.63793 1.32632 8.45455    {     #Border}{  Name  }  19DC5u{  #Name}{Population     }17600{#Population    }    {     #City}    {  #County }    { #Territory}{ #Country   }    { Country   }    {  Population     } 31573 { #Population     }{ Border    }     2.63889 0.76119 0.94595 0.60221 { #Border }{   Border}  1.03109 0.02151 0.31538 1.37815 {   #Border  }{    Border  }   1.28571 2.14634 0.36879 0.67073   { #Border    }{   Border    }    2.29487 0.67760 0.38636 3.30189{     #Border  }{Name    }   e7ojmg8qj   {#Name}{  Language     } irWQQ     {    #Language  }{  Capitol}    JrwXifxLU   {    #Capitol     }{ Territory  }   { Established } 488  { #Established }{     Border }   4.25000 0.49296 2.12987 0.42056    {#Border     }{  Name    }   oR7qVhF0YC{   #Name  }{    Founder    }p4334XGjHgDqm{  #Founder   }{  Population   }   5637    {#Population     }{ County   }    {   Name     }  wKg14L    {  #Name     }{  Density  }   1.50407   {#Density   }{     Area  } 1.35135{#Area}{  Seat    }BuieZzmN{ #Seat     }{   Border}  0.83929 10.63636 2.56667 12.28571  {#Border}{  Population}    8772   {#Population}{ City}   {     Url     }http://ipoPZiZV5.com {#Url }{   Mayor   } 24UGTAi9GuPi0G  {     #Mayor    }{   Border   }0.52525 1.30631 0.29762 0.98734   { #Border     }{     Name    }   cjQz1  {   #Name    }{Population    }     29036    {  #Population     }{#City}    {  #County }    {    #Territory   }{   #Country}     {#Planet}
+1
+1
+3
+qc1p7pXAPv
+1
+1
+2
+{Planet}{ Name   }    8sFuB     {#Name  }    {  Mass     }     0.37391   {     #Mass}  {   Period}1.06061  {#Period    }   {Gravity    }     0.60156    { #Gravity   }   {     Perihelion     }3.68627 { #Perihelion  }   {  Aphelion }   1.64384 {   #Aphelion}    {    ERadius}  0.96000     { #ERadius   }{  Radius     } 0.05926     {  #Radius     }{  OrbitSpeed    } 0.72289{ #OrbitSpeed  }     {Population    }12  { #Population  }     {#Planet}
+2
+{Planet}{  Name   }    qaYiPpiJB    {   #Name}     {   Mass     }     0.87640 {   #Mass}{Period   }  0.70161   {#Period    }     {  Gravity   }0.02083     {#Gravity   }    { Perihelion}1.81928  {    #Perihelion}   { Aphelion   }  0.12037  {  #Aphelion    } {    ERadius     }  0.43750   {    #ERadius}    {    Radius} 1.11458 {#Radius   }     {  OrbitSpeed } 1.63636  {   #OrbitSpeed}{    Population }  1756   {   #Population}     {#Planet}
+3
+Ui3rCmT6iU
+2
+{Planet}{ Name}    eXUDVzTcY   {#Name   }     {Mass   }5.38462 {  #Mass    }{Period     } 0.95588   { #Period   }   { Gravity }   0.51266     {  #Gravity } {  Perihelion  }   1.24638   {    #Perihelion} {   Aphelion  }   4.78261  {     #Aphelion     }    {ERadius    }    1.11712    {     #ERadius    }     {   Radius   }  0.21212{#Radius   }{     OrbitSpeed    }0.51456{  #OrbitSpeed  }     {Population } 3649     {     #Population    }     {#Planet}
+2
+{Planet}{Name}     woTOjj14     {   #Name}     { Mass }  0.19192   {  #Mass  }  { Period}    41.33333     {     #Period  }     {     Gravity}   0.77778   { #Gravity   }    { Perihelion }  0.76433   {    #Perihelion }   {Aphelion}0.67647 {#Aphelion  } { ERadius}  1.82927     { #ERadius    }{     Radius     }  0.14789  {#Radius    }{OrbitSpeed }0.92623     {   #OrbitSpeed     } {     Population  }2306  {    #Population}  {Country}  {Population } 39333    {  #Population    }{Border }  2.48000 0.75000 0.93296 0.63636{   #Border     }{Border  }   0.34555 1.02809 0.81818 0.95337 {     #Border }{   Border    }  0.85083 0.98361 0.43548 0.52410  {    #Border    }{  Border   }   0.97222 0.26286 0.75460 0.56186    {  #Border  }{   Name    }   KaPPM  {   #Name     }{  Language}  oyiyxadNP  {  #Language}{    Language}  dQZoKep   { #Language  }{     Capitol}cheTfi    { #Capitol}{ Territory    }{  Established     }  989  {    #Established  }{    Border   } 1.10294 0.05814 0.43299 1.50000   { #Border   }{     Border   } 0.43750 2.19277 1.79000 0.48052     {   #Border     }{   Name  }    QfKIqg3hf     {#Name  }{    Founder   }   J3CZMEEm3B    {    #Founder}{  Population }    22356 {     #Population     }{   County     }  {  Name   }    2QcQGk  {    #Name}{     Density    }    1.00000  {#Density  }{     Area}  0.80128     {  #Area     }{ Seat    }GKVQTbEP {     #Seat    }{     Border     }   0.94030 0.31633 0.61458 0.55714 {    #Border     }{   Border     }     0.25134 1.31293 0.75658 1.72897{  #Border }{  Population}     24395     {   #Population  }{    City}{   Url}    http://LDJf6YWu2HGf.com    {   #Url  }{   Mayor     } h9NAAHZlTVM8Br2J {     #Mayor     }{     Border     }    0.77551 3.69444 3.47059 0.47500{     #Border }{ Border   }  2.25000 1.14599 0.72464 0.42958 { #Border }{    Border}0.13208 1.27143 1.11905 0.31282     {#Border     }{   Name     } pL8Qs3wo    {     #Name   }{    Population } 30146    { #Population   }     {    #City  }     {   #County     }     {  #Territory    }{  #Country   } {#Planet}
+1
+4
+7
+5
+0.80000
+8
+6.51724
+9
+1.01342
+10
+13532
+10
+23856
+11
+in0OulsN
+5
+0.75000
+14
+3
+J9aGpyVxUkK7
+2
+{Planet}{  Name  }  XYDC7  {   #Name   }     { Mass   } 1.28462 {   #Mass     }{     Period }    1.16667     {#Period  }    { Gravity }   0.73427{     #Gravity}   {     Perihelion   }    1.47826{#Perihelion}     {  Aphelion    }    1.00000 {  #Aphelion     }  { ERadius}     0.45745 {  #ERadius} {Radius     } 0.82383    { #Radius}  {   OrbitSpeed }  0.00935   {  #OrbitSpeed }{Population    }  2070 {#Population     } {   Country }    { Population     }     24528  {  #Population  }{  Border}1.64912 0.10625 0.75758 4.52941  {#Border   }{    Name }    JcESV0bh4   {     #Name}{Language  }rpZdPJlWs     {    #Language   }{   Capitol }    jFpUMHLaT     { #Capitol }{ Territory }    {   Established  }  341{     #Established    }{Border  }  1.30827 6.36667 0.06395 0.22581  {     #Border }{  Name} BJZPpBd1h { #Name}{     Founder  }   sseEw7JgQeBTs6 {     #Founder   }{   Population    }   9012   {   #Population     }{  County } {  Name     }BEIHjp    {    #Name   }{Density   } 1.00787   { #Density    }{   Area   } 38.66667  {     #Area }{     Seat     }svFYsfdd   {  #Seat}{    Border     } 1.10303 0.41463 0.72396 5.28571{     #Border     }{     Border}     0.21583 1.01911 7.20000 0.17742{     #Border}{    Population     }  18775 {     #Population     }{     City     } {   Url  }   http://7hkNvOoSK2Pq6an.com     {   #Url  }{ Mayor     } UuVpqFnauzoQe5OlAEs {#Mayor    }{Border} 1.01579 1.03704 1.36111 0.78571     {   #Border}{  Name   }   S7Xup     {  #Name  }{Population}   10507   {   #Population }   {#City     }{    #County}     {     #Territory    }{  #Country }  {   Country     }   {     Population}   28246  {   #Population   }{Border}     0.15686 0.21591 1.33103 0.42614  {   #Border}{   Border}    0.88043 1.59615 0.09239 0.92216  { #Border }{     Border     } 0.28986 1.36522 0.77228 0.79710    {#Border  }{     Name   }izJwjq {     #Name    }{ Language    }DOqsORrg   {   #Language    }{   Capitol     } yYtlcJkZFx {   #Capitol     }{     Territory } {    Established   } 1194{     #Established }{  Border }    0.23494 0.64865 1.55469 1.03604{#Border     }{    Border    }    0.12500 0.58273 1.24510 0.43448  {     #Border   }{  Name  }     0d8C9Y  {   #Name   }{ Founder     }    jxDB9I 97ky {#Founder     }{ Population    }  33091     {   #Population  }{    County}     { Name  }   7VUfn6Id    { #Name    }{    Density} 0.08759   {#Density  }{   Area     }   0.50000    {     #Area     }{    Seat   }     EiDsRNzrvQ    {   #Seat     }{ Border}1.13043 1.05325 1.52041 3.25000{   #Border  }{ Border  }     1.29412 1.35714 0.45876 1.78261  { #Border    }{  Population   }     4067   {    #Population   }{     City   }{     Url  }http://gzpbLeqgMSx.com     {     #Url}{     Mayor  }igErj 9wmAcg8 {    #Mayor  }{    Border   }     0.87791 3.39474 0.21827 1.74286   {#Border  }{   Border}1.11290 0.48454 0.91406 1.04211     {   #Border}{    Name   }    wBT4W5Y    {   #Name}{     Population }     1864 {     #Population     }  {     #City}{ #County }{    #Territory    }{  #Country} {#Planet}
+5

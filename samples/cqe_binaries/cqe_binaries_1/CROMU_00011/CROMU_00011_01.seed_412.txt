@@ -1,0 +1,9 @@
+3VwrvSK = |"9HnV37","Z","LLp","mEj2"|+|"z9KLW1X","xNeQ"|
+idfVBK = 3VwrvSK - 3VwrvSK
+7uTrz = idfVBK - idfVBK
+RJX84C = |"ohhqo6","RBM7"|^|"c5Ox5Ks","5TI","yME7elr","ohhqo6","Go","IF","CJrx90"|
+IlP6ZENx6t = RJX84C ^ idfVBK
+yAecDHz = IlP6ZENx6t ~ 7uTrz
+E3Rw0 = 3VwrvSK + 3VwrvSK
+.p
+.l

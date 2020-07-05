@@ -1,0 +1,16 @@
+njaQe = |"ca","k2KTSA","aEdvnDt","KyYLF1D","LtXyeD","5sSgVU","WcI5"|
+VVjR3F = |"KyYLF1D","bmeynSmiHf"|
+VVjR3F@njaQe
+iLsNraY = VVjR3F + njaQe
+6X18k = iLsNraY + VVjR3F
+I65kx = |"mqEoGH","i6","YzSV","1"|-|"HcA","4OI","2","qY4","hD","mqEoGH"|
+lPw8v = |"uM","eg8N","hyIE","0t"|^|"cEbHM","vZILCd9","eg8N","ikFOC1","kDsrC"|
+406o3 = 6X18k ~ iLsNraY
+LZGhMn = |"mCtadv","08gKl8M","zrOltvs","ZW","Hhb","Dc6"|+|"4Xpl9M","08gKl8M","UBE"|
+Q07hP = |"RZKjHX4","Z50lBVS","LTE","ph8","fkr5oD4","TFBARLd","ADlliVF"|
+9EuUZhK = |"TFBARLd","ADlliVF","fkr5oD4","g90HBEq7VW"|
+9EuUZhK@Q07hP
+Y5ZxQN7 = njaQe - njaQe
+8GQvo = |"7pqt","6H","3c39d","61H8o","gu","g","2"|~|"8ufZP","8t","r6El"|
+.p
+.l

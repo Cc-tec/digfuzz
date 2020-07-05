@@ -1,0 +1,5 @@
+show
+mkfolder testfolder
+show
+echo "aaaa" > /testfolder/testfile
+show /testfolder

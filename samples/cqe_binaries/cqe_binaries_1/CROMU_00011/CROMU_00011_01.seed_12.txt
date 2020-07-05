@@ -1,0 +1,16 @@
+R4LBj3f = |"natFUuH","uzH4B","p2t00t1","jC8kG"|^|"fO"|
+8AdpS1U = |"h9VLf","g0W4","J","o","VLz","r1dX41"|+|"FyDQ3x","8aqy","o","C","3i4OE5"|
+W003TdY = 8AdpS1U + 8AdpS1U
+OHBhu = |"TTS","FdIAFn","DHvHAe","SVA","RM","pJKVfHc","xEj","wRpbvvy","zzjQk9r"|
+hqCIc = |"wRpbvvy","TTS"|
+hqCIc@OHBhu
+jOWggH = |"bnl2d9","Ae","yRDxacA","974","KnT"|+|"5O"|
+kbMm41 = |"dY","jygmU","1IPtZ","eVLhjfW","Xm4L","77"|
+oZwlL = |"eVLhjfW","Ni8Ny0QBmN"|
+oZwlL@kbMm41
+DIiur = |"CXa84v","ptAvluj","0Po"|~|"CXa84v"|
+TECN9 = R4LBj3f ^ OHBhu
+0PmxOg9 = TECN9 - kbMm41
+mpNdU = |"J3XAR","avMz","bU9lI","zI","NpSo1F","25uPftm"|-|"25uPftm","Z9qy","cw","9x","Ja"|
+.p
+.l

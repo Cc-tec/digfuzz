@@ -1,0 +1,10 @@
+bCoNl4 = |"uO","47PUj4d"|~|"yrOSi9","T0Qgk","q5zx","Ic85u","sIi7WVU"|
+DA1lTGs = bCoNl4 - bCoNl4
+xZle72K = |"4SpJ"|+|"f","L","wHKX9","S","qeSXhK","fjE5e","jNO"|
+V9l54r = |"XrrRSo","EIPF","pV","atYo"|~|"Q5","UUGfYIJ","90"|
+r4izzuY1S = bCoNl4 ^ V9l54r
+p8IST = xZle72K ^ DA1lTGs
+N3nFBMgD = p8IST ^ xZle72K
+bjADqF4 = N3nFBMgD + p8IST
+.p
+.l

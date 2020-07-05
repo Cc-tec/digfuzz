@@ -1,0 +1,14 @@
+yu11T5L = |"BS8l","hlTK","q382k3","AwV","x65","4p","N"|-|"Sr3cH","N","G","IhH"|
+VrsMbS = |"hSqFg","NLuS2fy","0BC","lXoa1r"|+|"Y8Q","nn8x","lXoa1r"|
+8A1Ss = |"U5"|~|"nSzA","efEYAM","Wn"|
+jdQq3cgR = 8A1Ss ^ VrsMbS
+46aR9 = VrsMbS ^ VrsMbS
+m0poCC = |"T5r","RCkv"|~|"nVczEI","erQQz","7a","gVDyCl"|
+Wog8A = 8A1Ss ~ jdQq3cgR
+rWAsU = VrsMbS + VrsMbS
+QNw5j = |"6kEIa","7C","UfeYl0","wez0fu","ZdkGWHd","zvN","jm","VNUyEC7","DIq7"|
+gsT1KP = |"DIq7","UfeYl0","7C","zvN"|
+gsT1KP@QNw5j
+75GQsg6 = Wog8A - Wog8A
+.p
+.l

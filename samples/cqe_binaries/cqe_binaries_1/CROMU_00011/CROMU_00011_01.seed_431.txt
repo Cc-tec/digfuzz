@@ -1,0 +1,11 @@
+Gobam = |"WIOXA","Bx98","7qXgk","VolPc","DqL5YI7","S6g"|-|"HQU","6ktAoQ","q"|
+4KJfEf7zmX = Gobam ^ Gobam
+qcAJl = Gobam ~ Gobam
+bDd3ZO = Gobam - qcAJl
+fLnSSV3 = bDd3ZO ^ qcAJl
+AbjDWTV = qcAJl ~ bDd3ZO
+M0ycV = fLnSSV3 ~ qcAJl
+Vfq2H = 4KJfEf7zmX + M0ycV
+m6CtR5 = |"MlFtQ","ysppTJb","3","AC","w6P70"|-|"w6P70","3","TByAxNx"|
+.p
+.l

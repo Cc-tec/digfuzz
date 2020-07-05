@@ -1,0 +1,15 @@
+MRQLn = |"S","hMK","GYFwkI","k3","s","fZm","WuEiAR"|+|"6BivZl","s","a06amJ"|
+MpBTIeaqQ = MRQLn ^ MRQLn
+bQ3ILTLOD = MpBTIeaqQ ^ MRQLn
+AKBT7 = MRQLn ~ MRQLn
+6Z5tJ = |"bx9Nd","eg4","vIv33K","fvM"|-|"lHiDm","H8dHrM","YXd3J9","x","s","hR"|
+2ZVKYU = MpBTIeaqQ - bQ3ILTLOD
+V9qzgZv = |"4pTc4K"|+|"SQ8MdQf","XYBP","uy","4FZwD"|
+ZFWjy = |"x","sNlp","23v","vH4N","Pvxg"|~|"CuS","2","1bj","FdYL0k5","AY8D","jk"|
+Z4qRO = |"VhxsA","q","4AjbD","CBT","SSONEf","4s3E"|~|"bgdUtly","iL"|
+dy7CB = 2ZVKYU - MRQLn
+2cEonGB = |"mS","FVP","k9BC","CP2","SU5WWu","Ea94J","dP73","GfJB","PiCuxn"|
+jpg81 = |"k9BC","CP2","FVP","mS","SU5WWu","PiCuxn","GfJB","Ea94J"|
+jpg81@2cEonGB
+.p
+.l

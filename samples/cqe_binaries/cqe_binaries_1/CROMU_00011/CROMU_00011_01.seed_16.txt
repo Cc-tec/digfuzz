@@ -1,0 +1,16 @@
+MTi8Nl = |"26imeFR","tRP","V82EVa","QCRP249","Hc77","3g","4JUtkSw","v0q","rPl2bbD"|
+CKuGA = |"tRP","26imeFR","3g","rPl2bbD"|
+CKuGA@MTi8Nl
+cEf0w = |"AqQOB1","v2xdpO7","Ktb","2N8M5"|-|"m3e9","fxK","jAv"|
+Iauk6h = |"OB7","9pdmIZ","GjMNr","LuT5EDQ","ze","hpQats9","0e","ca"|
+zG3YSk = |"OB7","ze","GjMNr","LuT5EDQ","hpQats9","Ant7hqwBkS"|
+zG3YSk@Iauk6h
+bBP6MBJ = |"wckwH","5DtK","dC","A9","4Yk8A","XoXjQ","J5sK","CvM","55dK"|
+1MwPFrJ = |"J5sK","XoXjQ","5DtK","4Yk8A","wckwH","CvM"|
+1MwPFrJ@bBP6MBJ
+NlSHU = |"rKM","3tp","DNDxh"|^|"cf","lsS","3tp","Qb","RjVnC","rbu"|
+8ojZQ5g = |"a2GU6","sQ","bjm","H","g6","y58EiZx","Ym"|~|"uxR"|
+dG4Y4yR = MTi8Nl + MTi8Nl
+1uP9Y8jce = dG4Y4yR ^ CKuGA
+.p
+.l

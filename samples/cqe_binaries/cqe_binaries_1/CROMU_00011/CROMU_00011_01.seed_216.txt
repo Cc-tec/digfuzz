@@ -1,0 +1,22 @@
+wDXW9EH = |"ll1khTs","kFeSjx","Iwpzn","qN","By","wn5O","Wy","g0Zg6jF","0ThK"|
+ryPOi = |"qN","kFeSjx","wn5O","0ThK"|
+ryPOi@wDXW9EH
+RxvFwl = |"sF1V4Rt"|+|"VT4zY","aG4"|
+uolky = RxvFwl ~ wDXW9EH
+mkscMUpF = uolky ^ ryPOi
+bU4iLI = |"oVoc","OzumsI3","fCszfw","ymgM","gDCktq","Cs"|
+A25k4OE = |"fCszfw","Cs","OzumsI3","oVoc","ymgM"|
+A25k4OE@bU4iLI
+H1PpDdf = |"2nUku7M","TN","J2vx","z4U","dfGFY","TcSdBhO","RYwo","vMgq7","8f9Mc","o7r5x"|
+oWLuqa = |"RYwo","8f9Mc","2nUku7M","J2vx","o7r5x"|
+oWLuqa@H1PpDdf
+2xEkeTv = |"oP","EmGYRn","skmxiKz"|-|"PMX","Hs","X8D","OF","skmxiKz","azZfrZA"|
+AivYrM = 2xEkeTv ~ mkscMUpF
+v2xGQJX = |"KON2Qm","9Mt","wrl6S","Bov","Cv2","Y5","KJH1o"|
+Mqelw = |"9Mt","KON2Qm","KJH1o","wrl6S","rDMu16Itej"|
+Mqelw@v2xGQJX
+JGATKO = oWLuqa ~ mkscMUpF
+ennn5 = |"HpZ","hR","ep1","8rWsR","XNFzEj","MkcA","3zG"|~|"3zG","Oe","8rWsR","g10xgtf","pb","HpZ"|
+6gM8UI2 = bU4iLI - 2xEkeTv
+.p
+.l

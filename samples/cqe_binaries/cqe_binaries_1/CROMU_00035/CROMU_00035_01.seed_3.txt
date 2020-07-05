@@ -1,0 +1,10 @@
+2014
+12
+11
+9
+28
+37
+set help
+get userlist
+set user root
+exit

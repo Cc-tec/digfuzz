@@ -1,0 +1,1 @@
+ACS+0.1[REQUEST:Server.Commands.QUERY::]ACS+0.1[QUERY:Server.Commands.REQUEST::]ACS+0.1[SEND:AML.Examples.Variableset_new:67:Set a variable [var:name:Sterling]~nThen get the variable: #name#~n]ACS-0.1[QUERY:::]

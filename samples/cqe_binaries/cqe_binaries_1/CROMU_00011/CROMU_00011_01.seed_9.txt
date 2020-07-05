@@ -1,0 +1,11 @@
+kNujZa = |"pVH","pee4","n9F","qfL6P"|-|"n9F","EY4afCG","56e","kHAcD"|
+2oyXNo = kNujZa - kNujZa
+igATd1Q = 2oyXNo + kNujZa
+pUHsPfC = |"EFQVOU","1IHABd","fCq","p09xAR","1S0GhvE","ZqhLm"|^|"sKm","6th3Yr"|
+Sctuyzd = kNujZa ^ igATd1Q
+q1IO3KBoI2 = igATd1Q ^ Sctuyzd
+oY5OT = Sctuyzd ~ kNujZa
+w6qQoha = oY5OT ~ q1IO3KBoI2
+xhrv99 = igATd1Q - q1IO3KBoI2
+.p
+.l

@@ -1,0 +1,11 @@
+Dx4IY = |"j6pNU","x6AyvtR","wxso","rxiNILU","FJ"|^|"sDI","wxso","j6pNU","rxiNILU"|
+ozW4J = |"vPq"|^|"ew","5c2","Ud","DqL22OY"|
+GJqfV = |"SSqXN","JWK6f","Ou7H"|~|"c17Nle","GjM"|
+emnPkJW = |"Gje8","coZ2ejL"|^|"bDzvFjG","0OuqjhS","CyT0"|
+JetMDzC = |"D65e","zyFRc","aguh"|~|"D65e","zyFRc","Q4","ffi","Q5eg"|
+JQn4HUw7La = Dx4IY ^ Dx4IY
+M1cR8 = |"duMBAE","Tm","QvBtkP","snmV","Zz","R5B","Zv2"|~|"7mR","h0I","OPBSM"|
+FRshcZ = Dx4IY - emnPkJW
+yLPMY = JetMDzC + M1cR8
+.p
+.l

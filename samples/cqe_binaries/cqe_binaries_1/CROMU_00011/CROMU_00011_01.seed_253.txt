@@ -1,0 +1,18 @@
+XhoqrXr = |"qN","i2jITK","d9vS","03U9DU","o6DOUXn","p6HheP"|
+YGWLx = |"03U9DU"|
+YGWLx@XhoqrXr
+Wyg8Na = |"cNCfK","ad","1AEq","uau1Cj","1Ks0F8","ZD","rG","dhwm","oWKgC","J3"|
+vSrvrbi = |"cNCfK","1AEq","rG","ZD","oWKgC","ad","J3","uau1Cj"|
+vSrvrbi@Wyg8Na
+zKkr0 = vSrvrbi + YGWLx
+Fh3Od = XhoqrXr ^ XhoqrXr
+dpuLHp = Fh3Od - Fh3Od
+odcyPI = |"Ok3"|+|"6m","U48","X8"|
+43IXyQW = |"1y","npO","rQMeQ","PXb","Y3","UCFLq","9UqPt","wqW5","Mn78Cz","dSEs"|
+SymS1Yi = |"PXb","Y3","UCFLq","npO"|
+SymS1Yi@43IXyQW
+cYb2Sk = |"zJLvS","0sFf","8FW0Ac","it4Rhh4","U6fUD","e8Jsu","ZZ","VXqYB0U","kd"|
+ixe8L2 = |"VXqYB0U","U6fUD","ZZ","e8Jsu","kd","it4Rhh4","0sFf","8FW0Ac"|
+ixe8L2@cYb2Sk
+.p
+.l

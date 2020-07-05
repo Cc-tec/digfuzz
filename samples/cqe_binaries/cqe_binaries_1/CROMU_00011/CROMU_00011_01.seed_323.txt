@@ -1,0 +1,18 @@
+VHxOM = |"Sd83bo","dpi3","2uOWgrO","G","EbA"|-|"abWs","Y","G"|
+4eIZ9Jb = VHxOM ^ VHxOM
+CngIP = 4eIZ9Jb - 4eIZ9Jb
+r1veYRT = |"W","hJW7orP","YSv4","gk"|+|"hJW7orP","Ff6PvE"|
+ebITA = 4eIZ9Jb ~ r1veYRT
+Lr0crn = ebITA - CngIP
+jg4Ph = |"8WrA","bdYAIP","Iw3T","JNAu"|^|"P5u","PW","bdYAIP"|
+LSGJRH = jg4Ph ~ r1veYRT
+xABNL = |"0zx7K","xQZ42AK","zZB","7g","WGOUVpT","xwSX"|
+qbVj5 = |"WGOUVpT","7g","xwSX","zZB","xQZ42AK","gbSBU4t5YO"|
+qbVj5@xABNL
+nc81K = |"cAK"|^|"id","ZFkz"|
+TyeVLD = |"FhL2tiR","DOj4xx","9qCZ","7zPiDE"|-|"s14","LYIR","WgZNnCX","1","Np0"|
+sHNfyk = |"EQUZVj","4Xnp","Ga"|-|"Rh7RfMK","SnNvs5v","5"|
+3amhJB = |"B46iNa","KFcl7q","nI","ku6"|^|"7G","MUao7P"|
+aqAd7G = |"N","q","E","pv1O","y"|~|"y"|
+.p
+.l

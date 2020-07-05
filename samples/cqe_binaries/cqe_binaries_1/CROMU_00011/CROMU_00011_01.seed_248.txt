@@ -1,0 +1,12 @@
+r2t7L = |"KF","o8xjNt","P","kpDvVN","C9E","dl3jl","SPDzp"|+|"EM7Z","eqNRiWY"|
+NN1dM = r2t7L + r2t7L
+SyxMqDF = |"EO5yhJc","fRgVam","RG3P9f"|+|"iFe","U9l8f","X1","s4","RG3P9f"|
+gvrE3ut = |"hRqLIe","QZ","GFX","UDmA","Eext","FT"|^|"qa44Yw8","IP2VuD","vO","XzE7","61Sr"|
+MO4yL6k = gvrE3ut ~ SyxMqDF
+sfTAneh = NN1dM - gvrE3ut
+wiBjc = SyxMqDF + gvrE3ut
+oy21SJYP = MO4yL6k ^ sfTAneh
+78lDWV = |"q"|+|"L5","rFP","fO0uN","KoRl","ScSbh","aTUtBc","bLk"|
+CnRrMc = sfTAneh - MO4yL6k
+.p
+.l

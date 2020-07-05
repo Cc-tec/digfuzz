@@ -1,0 +1,15 @@
+s46g5bV = |"l","yv","jDVJwDN"|~|"6faIX2","l","fg","2vU3","iAg"|
+DxUzEU = |"6EfwTgt","kCFCG7","itP","201"|-|"F2oR","1TLj1lK","201"|
+mUXJaFrE = s46g5bV ^ DxUzEU
+PPwYPXA = s46g5bV - s46g5bV
+0sHkn7p = s46g5bV - DxUzEU
+9FmYR = DxUzEU - s46g5bV
+4eUiY = s46g5bV - 0sHkn7p
+GBPhWq = |"qfRz","AwmV","kJPYp","Th","IU","LEG534i"|
+bM2rWie = |"kJPYp","LEG534i"|
+bM2rWie@GBPhWq
+XNX7vWD = 0sHkn7p + s46g5bV
+KErK6nJ = DxUzEU + 9FmYR
+EGjCVg = s46g5bV ~ PPwYPXA
+.p
+.l

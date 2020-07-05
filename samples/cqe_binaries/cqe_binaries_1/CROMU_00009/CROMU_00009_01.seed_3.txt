@@ -1,0 +1,2 @@
+mkfolder testfolder
+delfolder /testfolder

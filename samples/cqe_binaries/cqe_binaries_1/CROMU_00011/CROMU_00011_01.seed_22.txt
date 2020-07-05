@@ -1,0 +1,12 @@
+8vT7bZ4 = |"36o3jN","MxNq9","mBV9ikm","i1l66w","gFi"|^|"CR0tg2N","pbKW","uLe8","36o3jN"|
+mepSS = 8vT7bZ4 ^ 8vT7bZ4
+yBhOz = mepSS ~ 8vT7bZ4
+wzBUq2 = |"TE","H46BwDR","Wqpl"|-|"YY","FiY9","Wqpl","WRGCCQC","TE"|
+U44Amr = 8vT7bZ4 ~ yBhOz
+kCGXv = 8vT7bZ4 ^ U44Amr
+NG3Y8F = wzBUq2 - kCGXv
+cQMXA = U44Amr + wzBUq2
+iZPQd = |"8Tv2r","XauU","56","2"|+|"W","exF","k7QPS","Kk4l","cMS6U"|
+dvgwn9I = |"pJl","638oNZ","MnUr","KG","NxBm"|^|"KG","NxBm","1vCYa","dZdAqJ","llbyT","638oNZ"|
+.p
+.l

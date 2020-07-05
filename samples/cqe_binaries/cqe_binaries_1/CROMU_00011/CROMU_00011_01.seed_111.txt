@@ -1,0 +1,15 @@
+k9cYq = |"SVj"|~|"KnFv","B7Zb6","UAtam"|
+DSByKz = |"G","FSD","bhl8","LD","PwE8Bds","WaTzr","k1IM8Jh"|+|"Rd","9K","qI9hinp","k1IM8Jh"|
+rCpcpB = |"zq5VC"|+|"UL","kN1Y7j","rC13fYs","rGnIKWV"|
+qCGjjPA = rCpcpB ~ DSByKz
+vv3BJ = k9cYq - DSByKz
+IU0HG9KR = DSByKz ^ DSByKz
+OaEGOGGP = qCGjjPA ^ DSByKz
+zngMO = |"ULOIG","iB","Bi","2","1","Z9pKnK"|+|"d78G5"|
+qEkMTlDkY = k9cYq ^ zngMO
+4ZMTpfo = |"Okiweh","P4lr0","2oKRy","6lb77","6oh7U"|^|"QVv","DaF","FY","6OPoOr","6lb77","2oKRy"|
+v6er7 = |"T","DPZ5QX","486i2zU","JiUmb"|~|"ZwTNDa","xjZZR","uvVbQN","DPZ5QX","mV"|
+M3igJe = rCpcpB ~ IU0HG9KR
+IGWBXz = |"Lyus9D"|^|"CviNiwC","qccsE"|
+.p
+.l

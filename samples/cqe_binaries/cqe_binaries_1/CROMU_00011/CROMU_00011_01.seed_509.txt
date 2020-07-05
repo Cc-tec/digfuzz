@@ -1,0 +1,19 @@
+H7OLMk = |"lpVL","GcB","iN9gfA","sao"|+|"6p","6lYNmxr","yXAK","WrrBzt1","HGf","9Gd5uVc"|
+mEEqv = |"tr","sgRRwy","DDh2c"|^|"cis","TEG8","EVlUcfR","tr","sgRRwy","ipP","km"|
+Ftazl9 = H7OLMk ^ H7OLMk
+UnDlh = |"Qg","rama","JSg","SaK"|-|"c","Qg","MqotO3","EJbtK","m"|
+fbbsU = H7OLMk - Ftazl9
+l93Xk = |"7nRDT","BH","B2FCSb","SeB","HBqrwJe","uf","K4","xML0d","7X"|
+yHZZQq = |"7nRDT"|
+yHZZQq@l93Xk
+me8Zolj = |"5a","a0R2n","JX","uEjY","IpDz6","CAFCPd"|
+gCCTCS = |"uEjY","CAFCPd"|
+gCCTCS@me8Zolj
+k74n0zd = |"Rvi8kU","0l6","nhr7","IWtA","xA7o","HStdZ"|+|"Rvi8kU","xA7o","L0Jf","HStdZ"|
+dl7KwlbXQ = UnDlh ^ gCCTCS
+nApIaU = |"ldoE","aTK","oTWEDb","sNC4R","6k","Pep3Wz","WzHP0F7","slup3","vPV"|
+AhwdTZ6 = |"slup3"|
+AhwdTZ6@nApIaU
+VtoHdEg = dl7KwlbXQ ~ Ftazl9
+.p
+.l

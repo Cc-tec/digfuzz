@@ -1,0 +1,31 @@
+2
+{Planet}{     Name  } Ta8MFdT { #Name     }{     Mass    } 9.00000  {#Mass    }    {Period  } 0.59162     {  #Period     }    {   Gravity    }     3.34783 {  #Gravity   }    {    Perihelion  }  0.06522 {#Perihelion} {     Aphelion  } 4.08333   {    #Aphelion   }    {   ERadius }   5.45161     {   #ERadius    } { Radius     }1.18605     {   #Radius     }  {  OrbitSpeed  }     3.38235   {   #OrbitSpeed   }  {Population  }   2816    {    #Population  }   {#Planet}
+1
+3
+OOP4FIKoWY
+3
+WzHxhazMow
+4
+3
+5
+0.27523
+8
+0.48619
+5
+0.44767
+2
+1.23490
+10
+23844
+7
+1.00000
+14
+1
+2
+{Planet}{  Name  }UtTXr2gH2y { #Name     }    {  Mass }0.17293     {  #Mass    }  {     Period    }   0.80741{ #Period   } { Gravity }0.42857     {   #Gravity    }     {Perihelion  } 1.94792  {   #Perihelion     }  { Aphelion   } 0.54000   {    #Aphelion  }  {    ERadius     }  0.59119    {#ERadius   }    {   Radius    }  0.17308 {  #Radius     }    {OrbitSpeed} 0.26050   {#OrbitSpeed }  {Population     } 3087   {   #Population   }  {#Planet}
+1
+1
+2
+{Planet}{    Name   }   E4baU  {    #Name  }     { Mass}     1.03670 { #Mass    }  { Period  }   0.43443     {   #Period   }{  Gravity     }     0.90909   {#Gravity   }    {  Perihelion  }    27.33333  {    #Perihelion  }{    Aphelion    }  8.60870     {#Aphelion}  {ERadius     }     2.27778{     #ERadius }     { Radius    }4.66667     {     #Radius}     {   OrbitSpeed}  0.85165    {   #OrbitSpeed    }  {    Population }   2189    {    #Population     }   {    Country  }  {     Population   }    33484 {   #Population  }{Border     }     5.03333 0.25175 0.75135 1.54545  {#Border   }{     Border}    0.14062 0.29752 0.92593 181.00000    {    #Border    }{ Name}   lkYNCsC83{   #Name}{Language   } qqhVgrEoYh    { #Language   }{   Language }  GIZgb     {     #Language    }{   Language    } ZCyeOcCSNJ{   #Language    }{ Capitol  } LrDWVihoxh  {  #Capitol    }{Territory}    {    Established } 1527{  #Established   }{   Border   }  3.02703 0.84884 0.70667 0.93814{ #Border  }{     Name}sBjYQFyD  {#Name   }{  Founder }    o1lLoBZR1 9k   { #Founder}{     Population    } 24583     {#Population }{ County   }   {     Name} TcUJ1401   { #Name }{    Density }  0.59259     {#Density}{     Area} 1.30435{   #Area }{    Seat   }bbPwBVZW    {    #Seat   }{  Border    } 0.81564 1.74286 1.35772 0.47959  {   #Border   }{     Border } 0.23333 2.00000 8.00000 0.82716     {  #Border     }{  Border   }     0.18902 0.16949 1.02548 0.46667     {#Border     }{Population     }    21554   {  #Population }{   City  }  {     Url   }http://EDjiNw4LvGcfl.com  {    #Url }{ Mayor  }   xznhfWXSfw2H4eWwA Ck     {#Mayor    }{    Border } 3.08824 3.90476 4.17949 23.71429{    #Border    }{Name }    MBKhOZBJuA     {    #Name    }{    Population     }16947  { #Population    } {    #City }{     #County  }{  #Territory     }{   #Country }   {Country    } { Population   }  19289    {  #Population  }{    Border}   18.77778 0.54878 1.01504 4.07317  {     #Border }{    Border   }     1.18421 0.78788 1.43750 0.50685{    #Border    }{   Name}ZGcGcI1V51{    #Name}{    Language}    huOUyTi    {   #Language  }{ Language}  XFncppIkV {#Language     }{     Language   }lNWlzmv{    #Language  }{    Capitol}   nyJDNJ  {  #Capitol   }{  Territory}   {Established    }   1406  {    #Established  }{     Border }  3.92308 0.12360 0.37255 0.83146{#Border}{ Border    }   2.12963 0.96000 1.09565 0.76000    {#Border  }{    Border  }3.64706 1.55200 1.15556 0.24873   {   #Border     }{ Name}   UfX0XgV{   #Name  }{     Founder     }    e007dxKT6t4     {     #Founder }{   Population }   7592    { #Population     }{ County}   {   Name  }  nA4XaUznyd {    #Name }{   Density    } 1.75000     {#Density   }{ Area    }6.66667    {   #Area    }{    Seat  }    tAhbRoPfN    {    #Seat    }{     Border } 1.83486 1.34211 2.34783 0.19588 {   #Border   }{ Border   }   8.00000 0.44444 6.06250 0.96512  {    #Border    }{     Population     }     39470    {#Population   }{City    }    { Url } http://aQuMMa.com   {    #Url  }{   Mayor }  4DgIyjddK9f   {    #Mayor }{ Border    }     0.82292 0.95946 1.36066 1.29825    {  #Border   }{   Border   }  0.61765 0.40000 1.17391 1.01026    {#Border }{     Border }  5.33333 0.73822 3.42857 0.40513    {  #Border     }{Name  }   4e2aQrB   {#Name    }{    Population     }     4007    {     #Population }   {     #City }    {    #County     }  {    #Territory     }{   #Country   }{#Planet}
+1
+5

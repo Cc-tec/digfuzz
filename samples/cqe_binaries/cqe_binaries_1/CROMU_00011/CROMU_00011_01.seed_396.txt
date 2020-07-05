@@ -1,0 +1,17 @@
+8eDYul = |"iKLrwmx","GYspT","r5bCy9b","b","oD1Z","IkKzzX","fP"|+|"r5bCy9b","7","h87","sWYER","ct35iD2","A"|
+JEdhH3d = |"5goZFt","H13rJ","I12ZqN","cWHtt","YzuG","O3BxXnz","gb","3BGv","vL","ti1T"|
+r98obz = |"5goZFt","vL"|
+r98obz@JEdhH3d
+Mp9PQ7f = r98obz ~ JEdhH3d
+ZQrrU3t = r98obz ^ JEdhH3d
+6Pysmu = |"COPq2","au","I"|-|"y2VP312","I","au","PDxxxZz","02"|
+2U9hfzH = |"NRtaS0","OzMtGX","G82wh","Ay33gi","f","5dILqN"|-|"Ay33gi","Z","EPA4v"|
+uDJw29W = |"cgDN09D","dt","WFiryxc","5leJOMi","nlYd7z","HM","QTy"|+|"ZuMmF4","rnPeH","WFiryxc","Aq","ZX7p"|
+4qzaGw = ZQrrU3t + ZQrrU3t
+gsKkl = |"ri08d2","P2Ku","EbnWk","T","hf","iaL0Ho"|+|"hf","ri08d2","T","Ms","dnSguZz","l","iaL0Ho"|
+KQRNx2 = 6Pysmu - ZQrrU3t
+YV2yJoo = |"bfEX5","y","9KCfEO","WnEj"|-|"G6V","y","oC1S"|
+ReovF = KQRNx2 + 4qzaGw
+BiEhO7u = ReovF - Mp9PQ7f
+.p
+.l

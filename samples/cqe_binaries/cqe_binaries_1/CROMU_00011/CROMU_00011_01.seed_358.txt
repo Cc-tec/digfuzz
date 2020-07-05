@@ -1,0 +1,13 @@
+tVXPFh = |"4qU9i","iry1","rlOUaGG","Jb","6G","fKp","mC","20xKNV","LCIqIhr"|
+scaAgYQ = |"fKp","6G","Jb","rlOUaGG"|
+scaAgYQ@tVXPFh
+gkoSn = tVXPFh - scaAgYQ
+YEJMJ = |"Og0nCn","b9h","P","Tc"|+|"Og0nCn","1","kl95C","GO7QC"|
+WhaGjbb = tVXPFh + scaAgYQ
+9fpsY = tVXPFh ^ gkoSn
+IaiKIp = |"9t","HsjiQ0","BhW","NNreDSS","Hex","FzyiP5"|-|"BhW","oioNq","1f","FzyiP5"|
+8Xd9x5x = WhaGjbb + WhaGjbb
+53vnU4w = IaiKIp ~ scaAgYQ
+Y9uUUFFPo = IaiKIp ^ tVXPFh
+.p
+.l

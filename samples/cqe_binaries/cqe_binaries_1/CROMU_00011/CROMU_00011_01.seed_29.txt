@@ -1,0 +1,13 @@
+9usK2 = |"n9","wxv4"|+|"EBgs","A","XAD5xQ"|
+7zIaQ = |"cUn","35ppqT","TTI","a"|+|"Gi","cUn","FBV","uR8xRI","TTI","nI"|
+p7Pj8 = 7zIaQ + 9usK2
+pTYvby = |"7xCyI","rHHYD","pQHnxH6","i3s","2pBo24","Y3ak","YsC","LbX7ZTb"|
+xjqIA2 = |"7xCyI","OYyWMuVERQ"|
+xjqIA2@pTYvby
+qafrO = 9usK2 - 7zIaQ
+epxnmawG = qafrO ^ pTYvby
+fXIrIP4 = |"Nn6a","h","HvEE","Hq"|+|"WuLD","vypCQY","FKNye","qe3x"|
+jNIWc3E = |"pQo","Q6E","1WWX","TpcS","Z5"|+|"xR8CdJ9","2v2AGgf","Z5","CQ","q","2p80o5"|
+sAo4J = |"m1","JyESW","sHhAVu","zl","rYx5"|-|"fwnxR5Q","Cb","zl","m1","UbO","KPu","sHhAVu"|
+.p
+.l

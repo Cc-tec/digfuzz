@@ -1,0 +1,16 @@
+hTyKU = |"MT","JZx3AX9","1IOt","gAtEn8","M9KP","U"|+|"gAtEn8"|
+2iJFh7 = |"C5","4AXOzb","DWb"|~|"KxJn","wA7hCjU","66H"|
+4UcydUA = 2iJFh7 ~ hTyKU
+kvpMk = hTyKU ^ 2iJFh7
+oQTdepo = kvpMk + hTyKU
+gbmVdW = |"DAFfn"|+|"PvRpav","xl8voB","JCjP","W1D","rH","FIWttr"|
+UlMCoR = gbmVdW - gbmVdW
+14HbYA = |"vG5h","uOi0s","1lh7","rq","Ca","Xte"|
+RSdY1mK = |"Ca","Xte","496IM4DQG4"|
+RSdY1mK@14HbYA
+PXxVl2 = |"bERr","LMPsO","xT72sT","H3zCub","4pe","T9mbNRT"|
+S3lkXR6 = |"H3zCub"|
+S3lkXR6@PXxVl2
+LQKxV = |"o","s7CyIP","hdvXOj"|~|"BgiCL","fo","4","brM5Cz","u"|
+.p
+.l

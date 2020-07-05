@@ -1,0 +1,11 @@
+q5tu2 = |"UFUFurj","ilRi","xsf","qJ"|-|"Cpj6","qJ","EOG"|
+S9UfFD = |"qDfp","6Mc6CU","hr38","BFFNmD","yiji2ay","AuX","dC"|^|"2c28AlF","hqeg9S","dC","yiji2ay","BFFNmD"|
+lMDbIz = q5tu2 ~ q5tu2
+frESNH = lMDbIz + lMDbIz
+VLoRz = |"sz0I","mkZ1f","z","JDec","qAKQQkU"|-|"Udzs","Q","TQp","l1bYt","Ek0n","2lExGIZ","KV"|
+kWgS7r = |"wVmJIq","L","bHg1T","8","uIITupM","ltoVA"|-|"ZqyZ0","6F","W6c","sG","zLRh6"|
+eCe5O = |"hG1Pi9i","BEH","t","vZCPN","f4S6HSt"|~|"fpDycp","Dj"|
+PhNekyw = eCe5O ^ q5tu2
+4YicZ = frESNH - S9UfFD
+.p
+.l

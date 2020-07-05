@@ -1,0 +1,15 @@
+3
+OYYgnAC2UAF
+1
+3
+2Ha6CJY1MoZ
+3
+iTriKOr9sn
+1
+1
+2
+{Planet}{     Name  }  BkYJ7k6fG   {#Name    }  {    Mass     }    0.40000  {   #Mass   }    { Period  }     1.66667 { #Period     } {  Gravity     }    2.64789{ #Gravity     }   {    Perihelion     }    0.88832     {   #Perihelion    }     {     Aphelion  }  0.15657  {    #Aphelion     }     {  ERadius    }  0.87075  {  #ERadius    }   {    Radius   }     0.75000  {#Radius  }   {OrbitSpeed} 1.26786{#OrbitSpeed   }{Population } 2884 {#Population  }    {#Planet}
+1
+2
+{Planet}{Name   }  aQzKCA    { #Name   }  {   Mass   }     8.50000     { #Mass    }     {   Period  }     0.96842  {   #Period    }  {   Gravity }  0.17600 { #Gravity   }  { Perihelion } 0.95161 {     #Perihelion     }{     Aphelion   }  1.81481  {  #Aphelion    }     { ERadius  }    0.04965{  #ERadius     }   {  Radius}0.94203{     #Radius   }   {    OrbitSpeed}     0.59195    {   #OrbitSpeed    }   {     Population  }     3046 { #Population  }    {#Planet}
+5

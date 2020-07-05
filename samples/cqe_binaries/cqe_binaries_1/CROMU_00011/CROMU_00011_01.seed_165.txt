@@ -1,0 +1,15 @@
+ibAGp = |"6","D","fJ3Gpa","ONm","uSUod","Y8wYat"|~|"ONm","JFTgJu","DZo3nT","D","3fXT"|
+xlgDk = |"rVTYDl","LeN3zUj","HAnTulT","eNX0gge"|-|"FiJQU5i","wiomJ","7y","mI4Sv"|
+9DqDW = ibAGp + ibAGp
+tz0Nq = 9DqDW - xlgDk
+howtw5ix = 9DqDW ^ ibAGp
+HkZV3Z = |"Megu","kSu","p","hIqfBsA","Kz9v"|~|"cg","mIeF1","8j6sCE","a2","pTw","gmsMZ7j"|
+fBgm0U = |"y","H","mf"|+|"8cuIVYg"|
+EPZ6atm = fBgm0U - xlgDk
+Uzw99 = |"quNCPG","sliO","3kUTlc","00","72o"|^|"gIY"|
+UJoEvE5 = |"hxI","qA","5eSucv"|^|"TjyuFl","N2","3v","AqXs"|
+Ymn1XQX = xlgDk + 9DqDW
+XRJKW4y = |"8uart"|~|"LG","l","RML","N1QXX","AXTL","8uart"|
+BR1HtL = Ymn1XQX + UJoEvE5
+.p
+.l

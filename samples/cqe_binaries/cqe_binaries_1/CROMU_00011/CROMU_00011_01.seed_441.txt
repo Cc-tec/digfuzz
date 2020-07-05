@@ -1,0 +1,19 @@
+34VvK18 = |"MpO","ufBxx","pJ6tbp5","rO3r","xpB","jus","zB","wGPhO","9bH","ciFprFS"|
+ED1A6 = |"rO3r","jus","pJ6tbp5","ufBxx","zB","0IISfUbFBy"|
+ED1A6@34VvK18
+60fPCV = |"NjgT2PF","1efiCYz","Q8YCn","Euhn","iz","6g6ni","HJzL"|
+ZxnNM = |"NjgT2PF","iz","1efiCYz","Q8YCn","yf3kQcpKwL"|
+ZxnNM@60fPCV
+ZPPGGx = 34VvK18 - 34VvK18
+TkWJM = |"YG","rkZ5","EdPzn3","eQZHz","4x","IYI8","F3hXgJ"|~|"dJV9","eQZHz","62qw","8FELX","tn"|
+l7mJDZ3 = |"3D6MAR"|~|"n","MP3OP","l","mTAO"|
+wm55Z = ZxnNM - 34VvK18
+UpC6yFg = |"B12ts","Q3","iCzd","ck","cuKtY4","zCTBAQE","eiY","0qcAj","oVb"|
+hja3dR = |"eiY","0qcAj","cuKtY4","oVb","iCzd","zCTBAQE","B12ts","Q3"|
+hja3dR@UpC6yFg
+r1yXDdS = 34VvK18 - UpC6yFg
+mPFbRtk = |"Yr2ln","uTVEAz","gwn"|-|"ndJSIKx","gwn","E","tkZoD"|
+lmsuSqwv = 60fPCV ^ mPFbRtk
+7SH3XIy = |"D3F","z","l0LzM","6ez"|+|"E5J","Iv4","4ZgPvi","jF6","2G"|
+.p
+.l

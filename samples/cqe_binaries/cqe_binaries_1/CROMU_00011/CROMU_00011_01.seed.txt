@@ -1,0 +1,13 @@
+fqxcT1d = |"I1feK","vJkd"|^|"J2","m5dJQK","ZCDq2","MbeQTX"|
+R45Nu = |"5okVOn","oQs11","p"|-|"oQs11","HXz","ei"|
+JYD1rLc = R45Nu + fqxcT1d
+vZDvD = fqxcT1d + R45Nu
+1X7GMO = JYD1rLc ~ R45Nu
+fYcNSt1 = JYD1rLc ~ fqxcT1d
+sJZQ1y = |"a"|~|"lneZ","f7tkQE","1p","a","vmLau","K5ywQ"|
+6knIUnW = |"0NVMYfU","P","kT"|+|"N"|
+rOuVyW = 6knIUnW ~ fqxcT1d
+wx6s0pBx = JYD1rLc ^ fYcNSt1
+GnRiO = 1X7GMO - fYcNSt1
+.p
+.l

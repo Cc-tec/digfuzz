@@ -1,0 +1,17 @@
+yPF4HS8 = |"Ia","9fLq","yyvKd"|+|"KHjYFc","HS","WXXS","Ia","TYqc5f","L","go"|
+4paLz = |"V0A7Bys","o49tol","mu8pH","ZpZ","VOxAj","vC5","ycKl","GS","Jq","inBb4j4"|
+mqs3Fjw = |"vC5","GS","ZpZ","Jq","inBb4j4","mu8pH","VOxAj"|
+mqs3Fjw@4paLz
+LjnI01 = mqs3Fjw - 4paLz
+RhRBS = yPF4HS8 ~ LjnI01
+Wpt9yM = |"GBYGJKz","606m","fMTojdC","2zZr","eq","fmqpoem"|^|"aUPG","QNasWL"|
+CbFDT = 4paLz ^ 4paLz
+Ixn76 = |"68Par","ie9","HqIe","5bw","Mn","G81YO","PWGG3","vZ"|
+okLbNP = |"G81YO","vZ","ie9","68Par","eaDnzNosdQ"|
+okLbNP@Ixn76
+Jt7YH = okLbNP ~ mqs3Fjw
+VBRFMo = |"9","8ej","qJAtw"|-|"tq","8ej","pu8Ge","4VonQn","FXQ","9"|
+RR91FWe = |"HLi6","OWl4fc","XZ","44","5Rh"|-|"sQgr","PlU","deL","6XfJve","AAfrO","44"|
+Y141vzbe7 = RhRBS ^ RhRBS
+.p
+.l

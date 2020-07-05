@@ -1,0 +1,21 @@
+372nurn = |"pIVv0","TJTu","2if","ORw","T87jc1s","fooEV","TbXIPT","0bYVg","2CnG7"|
+DTwcz = |"pIVv0","T87jc1s","TJTu","0bYVg"|
+DTwcz@372nurn
+urDOl = |"3X4jkr","3gur","rQyni","xM","UXhESFd","W7"|~|"EuOBu","W7","2cmCvU6","rQyni","uD","xM"|
+5BBMmh = 372nurn + urDOl
+vu45I = |"k","KCTbYD","6x84Dm","fz2X","ZfoI"|+|"AnmbfnW","fz2X"|
+hLZnk = 372nurn + DTwcz
+uAYTV = 5BBMmh - hLZnk
+UaIPGPl = DTwcz ~ uAYTV
+RwaQq = |"lEwFiEQ","qC"|~|"lEwFiEQ","SQpwMjs","Jl","86ks40i","xr","JHCtGZ"|
+zCRDqk = vu45I ~ DTwcz
+n5nkRnD = |"wHpA","zlZVlf7","cqV0c6W"|-|"sZ","rxBN","w1Tk","r","9","dMt0rjJ","EzlT"|
+CsyxZ = |"UHo","kUH","gqC1W","t7","czC","UEsMDJ","5"|-|"MB4wC","UEsMDJ","HdKge"|
+Q9KY6by = uAYTV ^ 372nurn
+0kCRy2 = |"My","G67","3r6n"|-|"0SrA","o","4TVBe","G67"|
+Jrp0d8X = UaIPGPl ~ n5nkRnD
+HyMNo = |"XjgD","7p","3zNUv","TZx","xJ","RoD13"|
+QIkW8 = |"RoD13","TZx","XjgD","xJ"|
+QIkW8@HyMNo
+.p
+.l

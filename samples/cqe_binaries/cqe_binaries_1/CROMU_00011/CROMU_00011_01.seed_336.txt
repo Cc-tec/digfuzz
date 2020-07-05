@@ -1,0 +1,18 @@
+dA4Auyu = |"xPelQ"|~|"eu3Co","m7z10","7nPw4a","z"|
+JyQli1 = |"d1o3P","6g","lNMsM","B4i6D","TQOk4","tNHSf","TR6J","zHyqpl","B4wjXk","baq"|
+Sz2e2 = |"tNHSf","TR6J","TQOk4","baq","B4i6D","d1o3P","zHyqpl","6g"|
+Sz2e2@JyQli1
+1fT6In = |"yZbV","dpCcS","5477c9","SQsjP"|~|"SQsjP","tdgrUG","fbeNLFG"|
+iAQKD = |"hhZyutr","MGo","D32Y"|^|"ti5","O5d","Vu"|
+ZGYLJs = |"np1","efgXZj","9e","udZOWUU","HSV","h2IfMJf","eJp8"|^|"qEKANu","efgXZj","B1pm0GK","udZOWUU","Hm8zzn","epTr","Zuq1y"|
+PKRX4x = |"96KZL1","mQN","ZHx1j","LJ0p3c","oMypp","ZO"|^|"ldAUll","eEYe0E","qm"|
+Ntez8O = PKRX4x - ZGYLJs
+Cc9Ab = iAQKD ~ dA4Auyu
+V2dDfKq = |"jk","OSr","afy","N","4rnGV","0UxRm0Z"|+|"afy"|
+4Jw7bof = JyQli1 ^ dA4Auyu
+xaA8jV = |"f","Mnvj","HYjg8h","tq"|+|"BKTQUb","HYjg8h","7","cH","f","P","H9t"|
+oh7rw = |"6iGpE","mSOG","Mhik1","pOE","CjUPbh","AgLsax6","Yv2SuL","ufJ9","vxU","bgFN"|
+sINsf2u = |"Mhik1","CjUPbh","AgLsax6","vxU","bgFN","pOE","6iGpE","ufJ9","mSOG","svezbLaAeG"|
+sINsf2u@oh7rw
+.p
+.l

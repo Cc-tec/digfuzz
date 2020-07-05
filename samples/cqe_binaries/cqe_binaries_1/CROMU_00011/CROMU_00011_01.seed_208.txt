@@ -1,0 +1,12 @@
+xsbvs = |"oWg0Rr","SJDC1g","rjMR"|-|"PJ","HCh2","10nc4r","R","rjMR","NIG"|
+FY5b3n = xsbvs ^ xsbvs
+9jJBOs = xsbvs - FY5b3n
+dmvEKJ = |"UB6d","z","CZxXO","z9xaqK"|+|"wlwIoAy","FxAX","aDg","dNu","Y9"|
+Hyc5DvY = dmvEKJ - FY5b3n
+FkQOV26 = 9jJBOs + Hyc5DvY
+0OtDg = FkQOV26 - FY5b3n
+p2xJca = |"GbZC57W","Xl7L","guG2G","GUA"|^|"mPcy","vRs1BU0","p2iu","qNI","GUA","HAi"|
+8IwJMI = |"FVJS","uzFe8","I","dO6bD","S2yN","ToRalJ","0M9Qa"|-|"JrmOfDj","1","4FZO","wuP0","ToRalJ","2P2N"|
+M7Fc8 = |"LTniZt","Sb3Yk","vT8Q","rxs","l","8vOY7","ymubtJ"|+|"vT8Q","I"|
+.p
+.l

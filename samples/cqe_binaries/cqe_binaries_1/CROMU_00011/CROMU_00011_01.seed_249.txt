@@ -1,0 +1,13 @@
+fZoCU = |"bw3","bm"|^|"bw3","aM","U1"|
+H8wIl1 = |"i87x","6jn","x1W0QBM","8OpE2","BMcHlj","Vu","0rer","9g9B"|
+uBku2 = |"x1W0QBM","BMcHlj","8OpE2","22G9YGfnqf"|
+uBku2@H8wIl1
+QqAsXXu = |"zPo8","WLsv","D6Ozk"|+|"zPo8","8Ox","wZJyP","E"|
+LDoFh = QqAsXXu ^ fZoCU
+Ti6EE = |"6O20M","mG0V6c","kZ2","aUno5","JmXI","TL","Qg"|
+ohG8W = |"aUno5","mG0V6c","TL","Qg","kZ2","JmXI"|
+ohG8W@Ti6EE
+zO1f9 = ohG8W ~ LDoFh
+6vDhcC = |"n6LB","9T","Wo","tzOB5","4q6JVO"|^|"I5KOXe","jh81dqs"|
+.p
+.l

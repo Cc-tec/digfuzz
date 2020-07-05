@@ -1,0 +1,15 @@
+zw7uNB = |"IQ","mW","ZiYZS7"|^|"gX","deGRkI","3H","IQ"|
+5dU1g = |"RoQ1","Y","D","LkVkl","qEk"|~|"dXo2","Y","D","2","umxga","5vL"|
+JVvHZ = 5dU1g ~ 5dU1g
+1GmKbv = |"XmXJ","d","uVqqQPx","kYZyGe","hG","RYbYmAc","v6f"|~|"XmXJ","v6f","Dux","F5","en","Y9AmrHc"|
+Qy6hFKy = |"IWc1N","GThttB","J1","ac","dGCzv","h0yr1rX"|+|"wzl"|
+qQTWye = zw7uNB + JVvHZ
+H2lEeUC = Qy6hFKy ~ JVvHZ
+Wy7Oq = 1GmKbv ^ 5dU1g
+SHcpgFW = zw7uNB + 1GmKbv
+XCbZz = |"TcOps","PK48xU7","2K0","CmxWb4","f5b","M7Zd","SQ97dI"|
+HFPoCs = |"f5b","TcOps","CmxWb4","2K0","M7Zd","PK48xU7","mMscY52Kam"|
+HFPoCs@XCbZz
+2cy7zF = XCbZz - 1GmKbv
+.p
+.l

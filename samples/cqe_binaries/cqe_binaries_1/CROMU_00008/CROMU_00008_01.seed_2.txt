@@ -1,0 +1,21 @@
+login
+insert
+Eric
+Yaeger
+eyaeger
+9/24/37 23:50:42
+find
+username == "jdoe" 
+find
+firstname == "Eric" OR (username == "Charles" AND firstname !="Ao&Rl!dWHE2Y") 
+print
+0
+update
+0
+Chris
+Shilling!
+cshilling
+9/21/42 16:0:51
+remove
+0
+exit

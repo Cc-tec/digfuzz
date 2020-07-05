@@ -1,0 +1,14 @@
+UtNhD = |"eEdm0Z","Fw4Z7Er","BG","1pxz","qi","MEu5d","eIF"|
+bb2vzR = |"Fw4Z7Er","eIF","BG","eEdm0Z","1pxz"|
+bb2vzR@UtNhD
+koUPBq = |"Y8B1y","gu7b4","WrA","OHwC0mv","Yb9v","5R","MCuylt","9Gkk","vW82z"|
+NYB6v2s = |"gu7b4","OHwC0mv","Yb9v","9Gkk","HVQp97NeRp"|
+NYB6v2s@koUPBq
+P6qkIBq = koUPBq - koUPBq
+IyXCQon = |"ZlSakj","Cy","R8","T8te1","MPT","e3Q","gJ","5O"|
+ymzGY = |"Cy","1Q6mjnZBAt"|
+ymzGY@IyXCQon
+mcrHp = ymzGY ~ IyXCQon
+wdFRJ = |"s7Lr","z25QmYj","3UP"|-|"k","76Fcr","n"|
+.p
+.l

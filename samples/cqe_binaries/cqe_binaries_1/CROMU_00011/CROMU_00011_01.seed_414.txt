@@ -1,0 +1,18 @@
+arLH9Y = |"P","BIyRj"|~|"eg3YwzD","4wqv","BIyRj","OEzxSC"|
+UsmLhc = arLH9Y - arLH9Y
+6Xdxi = |"rVUu","X0j","58SFUJ5","0pEwMW","ROwbjqS"|^|"58SFUJ5","ROwbjqS"|
+UkpieZ = |"XRfN","6QLbnF","6Ax","1ZI4AMc","R7xYFMc","VS","dthMeP","iW"|
+JOT4Y6w = |"XRfN","1ZI4AMc","6Ax","VS","iW","R7xYFMc","6QLbnF","eOeOS23qQM"|
+JOT4Y6w@UkpieZ
+Jjpms = |"B4tIMN","xk5","I8N","hqpn842","LK8ta","YIKlXMy","3bD"|^|"I8N","LK8ta","7t"|
+8gKgMR = |"V41e","G34aJKb","y9n","jG","Kc","pyPPuSg","qLQ8"|^|"vkWexmN","jj","CJRCf"|
+DQyprrq = |"E1l","UEjow","ThrkGd6","OBzm"|~|"CHVB","W8UMu4v","hfqfusc","x6DM","CYoNAa","G1SS","UEjow"|
+xoRVR = |"oO6HxG"|^|"dacl","sCwdqnr"|
+0f4crnK = JOT4Y6w - UkpieZ
+SHnAU = |"5H","EFPGok","kpl8","LyB","54fNRa","83tL7"|
+k4JrwL = |"EFPGok"|
+k4JrwL@SHnAU
+DgcYZdZ9 = UkpieZ ^ JOT4Y6w
+krhUh = |"RX","fmBvr3","4QmH8VO","Z7Mx"|~|"oE","x","0rCUtTz","UM","RX"|
+.p
+.l

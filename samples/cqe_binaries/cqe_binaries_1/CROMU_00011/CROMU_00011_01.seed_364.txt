@@ -1,0 +1,21 @@
+HBeyrvu = |"LRTNg","rk1C","Qvap","HK4","863U","fK864C","UO","kcfYhrf","aJ"|
+B6hRs = |"rk1C","LRTNg","863U","aJ","HK4","kcfYhrf","bbEaRswYrT"|
+B6hRs@HBeyrvu
+2vwML2 = B6hRs - B6hRs
+SlIz8 = 2vwML2 ^ B6hRs
+M0vtS5 = HBeyrvu + SlIz8
+J0uuZ = 2vwML2 - B6hRs
+zLidw = |"napkJ","sK5iH","OpZ","IztskT","iLDjIuF","c44YZ","YNDA"|
+KSeEc2 = |"napkJ","csUKkoJQzG"|
+KSeEc2@zLidw
+kJy3Eg = |"DeZMKOK","ALiL","v","oRXNOy","AdxqJKH"|-|"tPth","Ux","VQOqRu","DeZMKOK","uS","D","9R4szL"|
+I4DgN = B6hRs - KSeEc2
+oEbTBUKj = KSeEc2 ^ SlIz8
+aF3oOiMiNv = KSeEc2 ^ KSeEc2
+wlmLZd = |"OdRobzV","jXv9","uLKdkQ","4oaI","lSgA","rlJqpV"|
+oohel = |"OdRobzV","4oaI"|
+oohel@wlmLZd
+ffA1c4 = |"S","0","MIbd","8bnb","YeHV","Z4QvB","92E6pH"|+|"E","S","Z4QvB","Tq8TNr","Nz","ZvyHLj","92E6pH"|
+BFkC7I = HBeyrvu ~ KSeEc2
+.p
+.l

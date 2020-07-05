@@ -1,0 +1,10 @@
+2SaS4 = |"0lnl","lnTJnS5","lGlpWK","swGcRrg","Csh6E"|^|"mh","tcXA"|
+DdTxHwU = |"HFDAo","L5dy","RqHoBl","b0","YV"|-|"2tk0Hus","YV","O6pE","06icd","Q1","8jKo","4vacf"|
+d7vlND = DdTxHwU ~ 2SaS4
+rTch5 = |"ZMkQW","0m1rI","kC8l","9YTkW0","uEK","FfnsGa","b7","4Di"|
+oP4Axb = |"uEK","ZMkQW","0m1rI","4Di","FfnsGa","kC8l","b7"|
+oP4Axb@rTch5
+od03GUd = |"pob","NXeBO","Uur87B"|-|"R9gWE","8","kcz1zBI","ttBk54"|
+mdDy5 = |"eV","ZZqjQ","lGtYa","O","QJdo"|~|"VnmcN1","lGtYa"|
+.p
+.l

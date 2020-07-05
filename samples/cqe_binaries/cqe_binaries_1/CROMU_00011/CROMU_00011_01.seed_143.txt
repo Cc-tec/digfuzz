@@ -1,0 +1,14 @@
+gmm5hpQ = |"JPVWbQ","WMKLy","Wz","OABFdZI","RcNUR","Osdf","W"|+|"Khggi","WMKLy","uw","ObE2aL5"|
+ICKr8u = |"CZ"|+|"7LSwCj0","Ydqn07","lYXsOc","Agd64M2"|
+LPvSHQM = gmm5hpQ ~ gmm5hpQ
+rBKIh9y = |"gRP9WVd","g4Kk","iz","A","Bx","R1","g01NZNY"|-|"Bx","W","g4Kk","UuT1y"|
+YmkKmwy = |"bog"|+|"K7","MBacZgX","3"|
+XfLsy = LPvSHQM + ICKr8u
+7riKB = |"sqyDxDB"|+|"lvC4Ds","2TQewU"|
+1N5Fea = 7riKB + YmkKmwy
+UWK4x = |"CiFYxN","pJP"|^|"zT","CiFYxN","uPS","ySPGxM","gSokSE","EM2xX","WxW"|
+tyPcQ = 1N5Fea - gmm5hpQ
+D4rQa = |"QiQ","Mr","2O","C","u"|+|"2O","byP","DcBZI"|
+jhUat = |"qDWPM","huBe99","qN3"|^|"huBe99","PS","RunVr8M"|
+.p
+.l

@@ -1,0 +1,18 @@
+A50YIKh = |"2UOqKec","FKU3Dx","MFn","89trZ","Pfszi","mr1"|
+fTIme = |"Pfszi"|
+fTIme@A50YIKh
+dNO33yU = |"pX4e4lh","Zp","xWW","KChhG3m"|+|"W"|
+sxscMGpR = fTIme ^ dNO33yU
+jiTivaT = sxscMGpR ^ fTIme
+OdwSY = dNO33yU + jiTivaT
+I6HJfR = sxscMGpR ~ OdwSY
+VzTO3H = |"KG45","17T","RUfNc2","6gD"|+|"vrj","KG45","uwaIql","RUfNc2","ta","R","JqhW"|
+0njsP = OdwSY - fTIme
+5vCDJjA = |"s","NUomu","ij","yDkEVP0"|-|"ZPAHRh","CE","l","z8ms","mgqLBOw","U5yAsNW","NUomu"|
+XrkmLD1 = jiTivaT + I6HJfR
+r75It = 0njsP + I6HJfR
+nRy0h = |"Pzpgx","9MkPiai","ICcKbl","7DL","2tQ","e10o58A","i1k","iL0","nmU","oaSP"|
+AVpNz = |"ICcKbl","iL0","7DL","oaSP","e10o58A","9MkPiai","nmU","Pzpgx"|
+AVpNz@nRy0h
+.p
+.l

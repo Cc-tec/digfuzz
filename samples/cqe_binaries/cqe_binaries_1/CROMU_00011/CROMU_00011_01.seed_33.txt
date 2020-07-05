@@ -1,0 +1,17 @@
+MbE5H = |"pKy"|+|"lG","nvN","82l","U","EoQ5FX","0sRFCy"|
+bAjnMa2 = |"HzOcRN"|^|"SAt","xT1ewz3","ddk","ru5ls","Yy1d"|
+49JA3W = bAjnMa2 - MbE5H
+6CjFX = 49JA3W ~ 49JA3W
+WG64LeS = 49JA3W ~ 6CjFX
+NXxyVcE = bAjnMa2 ~ WG64LeS
+YREA0 = |"py5xk","SW","OTl","ECD","csRgz","cQ","IE9Wj"|
+6XBpC = |"cQ","OTl"|
+6XBpC@YREA0
+UVSlKv = |"dbwk","7fRI"|~|"H","OM","eO","ik5n6wh","AelWmM","4hs","NNDu6"|
+hIOMhDU = |"5nX4uWe","ljvLd","Gg","ox7","SB2","vh0l0","zhz","HTed","RibYFjV"|
+zSER6k = |"RibYFjV","Gg","SB2","ox7","ljvLd"|
+zSER6k@hIOMhDU
+MjEpoYC = |"I8Xm","2G","Vhta","yxedq","zR","9EwvJn","MK6R"|+|"I8Xm","MK6R","9EwvJn","GQYYB4"|
+xNZTzA6 = |"dr","YxYYb","W"|-|"GLn","YxYYb","YEp","6CHD"|
+.p
+.l

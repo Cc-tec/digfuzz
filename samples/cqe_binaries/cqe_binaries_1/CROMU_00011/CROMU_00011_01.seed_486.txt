@@ -1,0 +1,12 @@
+aWTnu = |"6svU","GlNB","dd","Aqmg","nJ814rj"|-|"1qH6","7Kb3hc","W43AAqQ"|
+u7Mot9 = |"dbcGAPp","dTbo","VIjIt","3kP","GNJNmUY"|^|"3kP"|
+keVZn = aWTnu ~ u7Mot9
+wF6zbRF = |"NjREN"|+|"el","ndirWRs","CKXZvV","SNH","N"|
+U37sHD2 = aWTnu ^ u7Mot9
+BtFemh = |"L0LN","6UC"|+|"n","cS","ENyOHh7","l","6UC"|
+oKaxp3 = |"QMvJQg","XYEjSO","RMg","v5niQh","5b","g6u9g"|+|"GNif94Z","r6DYo","g6u9g","kPkpur"|
+LBkfL = wF6zbRF - BtFemh
+AnOzX = |"88spV","xgPU"|~|"O5Nk7A","mH","xgPU","OCV1ai"|
+eXyUz = |"G8pL","X7m","eWGaW8"|+|"90kPhq","eKq5M","qZGx","k","X7m","n"|
+.p
+.l

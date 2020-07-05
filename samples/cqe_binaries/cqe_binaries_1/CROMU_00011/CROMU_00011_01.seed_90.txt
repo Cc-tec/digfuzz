@@ -1,0 +1,16 @@
+q3BOBs = |"paHy1L","c3S","pSpsAb","CoEp","iH3P","Ft622eE"|
+wzZC1V = |"c3S","paHy1L","Ft622eE","CoEp"|
+wzZC1V@q3BOBs
+7tnze = |"bIYRLu","OHoMz7g","V3LNPC","gq","t7x4jOX","2P","fdnsNl","rAy"|
+9MmKlXt = |"gq","OHoMz7g","rAy","t7x4jOX","2P","V3LNPC","bIYRLu","igZos8mmVx"|
+9MmKlXt@7tnze
+u3l8ik8 = wzZC1V - 7tnze
+tBGEZ = |"Gm21","xp2X5d","5","T"|+|"ITN5"|
+bqZzHS = 7tnze - 7tnze
+AvroQ = |"vmdo","xcwq"|^|"NKc"|
+Q1zhR = q3BOBs - u3l8ik8
+ndBqy8 = q3BOBs - q3BOBs
+BQKtFdL = u3l8ik8 ^ u3l8ik8
+mGa08 = |"6","y1uu0D","nFN","PsdKLK","6L","0861M","yOUy"|+|"f5kAy","yOUy","oNpF","nFN"|
+.p
+.l

@@ -1,0 +1,10 @@
+VCFriM = |"A40iEzJ","MPs","io"|^|"YJMpHx","MPs","io","D9v1r","mZc","A40iEzJ"|
+TEOFe = VCFriM ~ VCFriM
+G3BDB = |"FcE","QWG","0g0KQ","u","uOCTeSR"|-|"zS","eg5jV","V3dMi","YCxB","QWG"|
+3AH8iDk = VCFriM - G3BDB
+ONjtdGAhqB = G3BDB ^ G3BDB
+rQdQ6o = G3BDB ~ 3AH8iDk
+fTtlx = |"4","Q5","vnrYL","U","EBxd","Fp7n343","AJW4S0J"|~|"U","6","8qmWB","3Fkcpnf"|
+ZPvllE5 = G3BDB - ONjtdGAhqB
+.p
+.l

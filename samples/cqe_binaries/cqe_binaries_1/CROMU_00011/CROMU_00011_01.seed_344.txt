@@ -1,0 +1,14 @@
+a2msD9 = |"YF","tb4lpg","3R","TXwyo7","SzwAL","m8H76","jY","LIumg","3xSlZ5","VF"|
+wZaTgoB = |"tb4lpg","LIumg","3R","3xSlZ5"|
+wZaTgoB@a2msD9
+LdTRIA = wZaTgoB ^ a2msD9
+NVpgwJ = LdTRIA ^ a2msD9
+OUulJyT = |"T","RHJhdK","A","Yq7","GRtJLm","WK","5Qe1"|-|"zHXkzD","R","0r","6hxe4F","ufgWBd2"|
+Fa1x7 = a2msD9 ^ OUulJyT
+BfTJOw = |"wYp","y39B89g","QNE","2S0","QlVNu","TP","vZAlgCV"|-|"wYp","9tiI","UTzB","slGFhJ"|
+9mKhD8y = |"Dg7","5","c","h1RCC","HrlDy"|~|"vV1PxLA","h1RCC","gUbio","n"|
+5aeJsiWn1F = 9mKhD8y ^ OUulJyT
+WKh2G = OUulJyT ^ 9mKhD8y
+rIT0u = |"Owm3","gfgPR","jPH4WP","aN0K","YKf","o"|~|"YKf","Ln37P","aN0K","gfgPR","ZH3F8Bg","Zf","XC2ieQ"|
+.p
+.l

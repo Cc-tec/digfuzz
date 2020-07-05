@@ -1,0 +1,11 @@
+sUOWA = |"kp","2","y5","H","LeetZ","JGx","aGmyJi"|-|"vgVW","y5","OwL3"|
+jy2Cc = |"RLRkBm"|~|"S7fiGFN","1g7sv"|
+YFj17Q = |"H","4","EE6ITja","Va5hpxj","bL5"|-|"Ef","h9aaHug","EE6ITja","bL5","x4mK5","V0Z14l"|
+uuVOejB = jy2Cc ^ YFj17Q
+VdGgdyg = sUOWA + uuVOejB
+NRZfDwe = |"NfM","VmE","6jRdDd","AdkpnXc","NUh6g","08uU5UR","l9Un"|^|"f8YKPkP","yNuq","NUh6g"|
+CIK3j = |"8KJAX"|+|"3X","o","2Dw","gx","W5T","ia","8KJAX"|
+WtF2B = VdGgdyg ~ CIK3j
+OU2wX = jy2Cc ~ sUOWA
+.p
+.l

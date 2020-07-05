@@ -1,0 +1,11 @@
+zVAgMxw = |"l"|+|"zc9WQeN","nCmVsA"|
+CZn72Nq = zVAgMxw - zVAgMxw
+Qj8FQ = CZn72Nq - CZn72Nq
+9kPyS = |"9b7OZ","pA9","oyK4T","X"|~|"bgd","n2vOYiE","qYI3c","bQ","raI","T","ql"|
+kLuUVf = |"2cxs","SKxM","A3a","InYLfvm","da17Vv","b"|+|"5joi2s","KPjAo","A3a","WJkzJ0","VLwA","QJP"|
+5NIKUR = |"QnFtD"|~|"wE"|
+OS56aav = 5NIKUR - CZn72Nq
+2oW9Z5V = OS56aav ^ 5NIKUR
+96rpZgi = Qj8FQ ^ kLuUVf
+.p
+.l

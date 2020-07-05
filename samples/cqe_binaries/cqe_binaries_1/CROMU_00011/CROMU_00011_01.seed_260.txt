@@ -1,0 +1,13 @@
+lLt7c = |"wsAaWT0","yXxK4oO","gR31d","MinNhh9","5Pyl","acRRV","SLe7"|^|"s6i","bbah","M6R","QefDtz","sjTOfZ","0isw","P19wKyG"|
+s9VxnCLt8r = lLt7c ^ lLt7c
+u1OPQi = |"LAGX","KuUPE","Cu6VHL","IZ","uqKT53J"|-|"2VT","Cu6VHL","qv"|
+Q4YH5EW = |"CR","wlUtU","Ya1h","pTvWb5"|~|"K","dd8YWd","pTvWb5","QMeiLXb","6c","2dPan"|
+7dXlYVl = |"5aT7Pkm","tkK"|^|"ng1"|
+AJUvth = lLt7c - u1OPQi
+llDEUpq = lLt7c ~ u1OPQi
+M7e8Z6R = |"Hqn6F","SW","7TZqeM","T3","tW7SG","oCJ4JP","3h"|^|"E9Nl","T3","7TZqeM","3h","SW","YPUV","29vy1UF"|
+WLFmI3Q = AJUvth - Q4YH5EW
+QW02p = lLt7c ~ AJUvth
+irLYC = |"m7pMh"|^|"mav","m7pMh","xZ","duLV"|
+.p
+.l

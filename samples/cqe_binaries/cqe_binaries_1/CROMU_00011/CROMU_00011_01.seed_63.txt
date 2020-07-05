@@ -1,0 +1,20 @@
+Ji03I = |"q","lK3sJj","v","OSGXUNL"|-|"ql","xXFUEb","Jd"|
+yFrEb = |"mQHb","ZBQmZN","1Gzu","IwLSC","DxA","BXouIj","ho4SYnV","6wMb","Jl","yzLKD"|
+8oFaYp = |"6wMb","Jl","ZBQmZN","yzLKD","BXouIj","ho4SYnV"|
+8oFaYp@yFrEb
+VfxEB8N = 8oFaYp ~ 8oFaYp
+97QTz0A = Ji03I - Ji03I
+FercWbd = |"DCTA6xg","8qI2","aLRfK","yQ"|^|"pmzs","DCTA6xg","GMEY"|
+DhQ0iZ = |"bIMidYV","7y0LA5e","vN4oJz","w","Gyo"|~|"Gyo","vNXd6G0","LKDn","Lr","6","w"|
+KdwP1 = |"K1Qkc","6fzE","Xe4Yy","ZgYGPi"|^|"Nb1","HppwQFu","si5g","Wsjfu"|
+GD1pb = |"st6hK6"|^|"FxW2EQ","k0h","st6hK6","bo","SK6ByM8","g873y9X"|
+JoOHPz7HZX = VfxEB8N ^ DhQ0iZ
+hf37h = |"tII9qgW","he","V8yJ","58I","BXLJecg","UsMV","YVO"|
+yMs2b = |"V8yJ","UsMV","tII9qgW","BXLJecg","58I","he"|
+yMs2b@hf37h
+h6b09 = |"Ad","0it","d2S96J","E1zQcDr","AKFaZlT"|^|"GckEqb","QdRMh","c1","QsPer"|
+LDLTMi = |"J5a","pxI","MT","4ar","uog","1I4J","bklCpr"|
+pyPF4 = |"pxI","uog","bklCpr","4ar","J5a","VjxnA05Tbz"|
+pyPF4@LDLTMi
+.p
+.l

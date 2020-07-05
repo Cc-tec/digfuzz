@@ -1,0 +1,15 @@
+NieXfN = |"EN1f0I","5G0","WpMfl","aN","Ql","APC","pEuj"|
+s3hnK = |"5G0","pEuj","aN","APC","WpMfl","Ql"|
+s3hnK@NieXfN
+sHfShdV = NieXfN - s3hnK
+K5n34Wn = |"TqZ","ivI","c54","Gg9T6"|-|"MzUo","NMJQx","ivI","Z5T","C","9itef","c54"|
+TgJ4d = |"mhCS21","hq","F92Z","C"|+|"k","3Am","MLn","pI78N"|
+RJrm99d = |"wpVvZZ","qd"|~|"JKI2fcy","qdk","b","ECD6","1Xd1TTg","HYk"|
+WgM4O = K5n34Wn ^ TgJ4d
+MTw8CiT = |"CIy","XUujl","Ukl"|-|"Ze","XUujl","t010SS"|
+8baLE = |"2yy7EG","H1aQL","R7Afs","DNj"|^|"TI","p7sMH30","0yUm","DNj","Jevv","EaRm"|
+luS2Y42 = |"yD","K9RAN","gTebZ","e9d","r3","bg07GK4"|^|"01GjN8","EtHHtpo"|
+5up2C = luS2Y42 - K5n34Wn
+EhaKi = |"pUJ","rKDMxI","We3","TS"|~|"D","dJpUZ"|
+.p
+.l

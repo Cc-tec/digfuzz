@@ -1,0 +1,21 @@
+QMJLYi = |"89iChB","4XP","LO","et","NR8aIE","DOYU1i","E3"|+|"RpC","Fj7qM","et","89iChB"|
+NziCbMX = |"mUEYinB","nM85B","9y","qr7DNcR","a0RBGq","P7IY","xgPk4Th","01EToP0"|
+zBa911 = |"xgPk4Th","01EToP0","P7IY","mUEYinB","qr7DNcR","9y","MQX1IuFKuq"|
+zBa911@NziCbMX
+nXidX = zBa911 - zBa911
+1gGZW = |"EKfTLP","fq"|~|"FcjP","Oad","NXTfLzL","8S","t","fq","o"|
+sCU2Zrb = |"klaMNc","w3f"|~|"hrF9","vTRP","Zb","30jdH"|
+KiRU4 = |"unY"|+|"oz94E72","6","GY","lWcBZ","o","aW4ydd","W632"|
+KV1LV = sCU2Zrb + QMJLYi
+CnIfc = sCU2Zrb ~ KiRU4
+cCSGKJw = |"3018vB","BN3","oFy6","hSN","Txq","nqxm4Y","pgDS"|^|"sG01ZHF","wSWZU","fShEfxA","sOijN"|
+4tyzpqRB4k = zBa911 ^ sCU2Zrb
+D83CVpKsi8 = KiRU4 ^ QMJLYi
+33NBmE = 4tyzpqRB4k ~ QMJLYi
+ZhOteJL = CnIfc - cCSGKJw
+NTEN1LD = |"epgY","0Q","hMsKZp","K4tkXdc","IzIl","P8W1","ele"|
+xdBHLk = |"K4tkXdc","ZkjkaEdxLw"|
+xdBHLk@NTEN1LD
+sYRYvZw = D83CVpKsi8 + nXidX
+.p
+.l

@@ -1,0 +1,17 @@
+0Vey5c4 = |"ubtgM","CDUn4O","UhziXp"|-|"kC8","tm","OcH"|
+7YX0D = |"wM2MsHe","s9oj"|^|"E2yqt","7pAo","DYY","0N7q","CYu","N1DOVp","099XR"|
+6wDao = 7YX0D ~ 7YX0D
+SjIkx = |"zFDD","nbY66g","bK","nlyFlDc"|+|"utt3Vu3","9ATT","qXTGH","nbY66g","bsVw"|
+nV2qc7 = 7YX0D + SjIkx
+L4N5oD = |"7rR","3R4t","WOE8TKR"|+|"7rR","2","xDU","WAoP","1j","m","12"|
+glv7p = |"8NBGQrt","MieaFe4","WTxqImp","wp4N7","giM2lY","tO8Yvb","s38","gPeLPD"|
+6hD7n = |"wp4N7","1tT8rc7Fdn"|
+6hD7n@glv7p
+F8l6FPY = |"0KKyvNa","aGT0Wy","dcoPdp","oawzmAg"|^|"0KKyvNa","tr","DhWFJf6","3suC1","vj"|
+BWfjbdA = |"5uANHV","Kq"|^|"YzPp","U7Y","5uANHV"|
+JnRULZ = glv7p - 0Vey5c4
+qk1l2q = BWfjbdA ~ nV2qc7
+L5FHxPS = |"i6CZG","USXDFke","gP","ZH","rQq"|^|"N3aPsV"|
+bY5OW = |"2mrCcXn","4uN","bz","pnn6"|+|"rDodhR","wpheg","pnn6","lZ","1lFZ","H"|
+.p
+.l

@@ -1,0 +1,12 @@
+1DeRfe4 = |"gCmh8i","lQqX55","YHm8Nr"|^|"lQqX55","hw3","3XrfQ","QR","8zvHS","HzSdsoi","E0N4"|
+Tfp2U = 1DeRfe4 ^ 1DeRfe4
+5lfuynI = |"WWhegw","j5epE","TuUwBai","Ovi"|^|"j5epE","9o0","6FMoVEF","M4whgd8","ytVdOc0"|
+F9d034h = 5lfuynI ~ 1DeRfe4
+Le1GFSDl = 1DeRfe4 ^ Tfp2U
+C4YDfM = |"ld","bdfMZy","LgwD3","7","E"|~|"tOY"|
+Lfeemgqw = 1DeRfe4 ^ Tfp2U
+KAQfr = Lfeemgqw ~ 5lfuynI
+KN4s02c = Le1GFSDl + 1DeRfe4
+GCSxJ = |"dKK96","3H29zJE","nAF","AocyU"|-|"3dTKKO","3H29zJE","Yhn","7dYpF"|
+.p
+.l

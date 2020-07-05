@@ -1,0 +1,16 @@
+Dl3gXE = |"buQy","6","6VJns","pj","J3rvU4d"|+|"6VJns","J3rvU4d"|
+bnyeA = |"Q6h2u","KH8","oQZG6"|~|"9d3Mcg","BAjWutU"|
+ti7Gl = Dl3gXE - Dl3gXE
+JH0qg = |"ETj","q","cJmvpd","5Od9g","1cCzq3L"|-|"U0n4NI","sRX","ZXyyG","Wm","7ffk","E","d0cyWIj"|
+XeRm1 = JH0qg - ti7Gl
+Q898OJAlse = ti7Gl ^ JH0qg
+9p4HA7 = XeRm1 + bnyeA
+nzMrGL = |"Ut","MOzGI","yhzEX","M47j","jgHE51c","GV6"|-|"W","UMWsTm","GLQ","M47j","jh5","Ng7as","GV6"|
+F0vjX0 = |"OC","fT4lMp","Ne1mZ","8Io"|-|"Zi","7I9t","srP1vi","5KnDz","zlz","Y9mvLI8"|
+OHj4kx = |"1JwGFlN","4","GSUABg","HN92","A"|+|"iYyZj","A","T","vTtBlX"|
+SyriCifMZ = Q898OJAlse ^ XeRm1
+BZ8xJ = |"M8W8bX","zM","anY"|+|"IL34","zM","p","bm","lnjh","zLx8","pP"|
+hye9w = Q898OJAlse ~ bnyeA
+HynXU = XeRm1 - OHj4kx
+.p
+.l

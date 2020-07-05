@@ -1,0 +1,22 @@
+h18nPl = |"sNBx","pf3j4PN","4i9E","9Cz6V","OHjP8QN","CkqV","1OW"|
+svnJ4 = |"9Cz6V","pf3j4PN","sNBx","7oOy58v9hK"|
+svnJ4@h18nPl
+USEuxA = |"7","J5Zw6lI","bwF","I6cU","0m","amKqB"|-|"20A","1ilz","Naz4E8","u","J5Zw6lI","0"|
+9oSEy = h18nPl - USEuxA
+Pzo8lr = USEuxA + svnJ4
+b8oHiY = |"E","pT"|+|"E","0","Ssu","pT","bogMnC","1Pb8b"|
+S0OEoKb = |"U42UvWt","4w8nLxV","CiVxD"|~|"te","4U","1","2Ua2L","kWc","r2Yvm"|
+cDUkSTA = |"EbR","P5","LOuba","TOn","16WD9","NauUO9","Z92sQ7","4qCqtV","tqhm","97ijr9c"|
+5OZn9q = |"16WD9"|
+5OZn9q@cDUkSTA
+6eGKKvN = |"R2R","lL","DQ","GW0zj0","bKxkpo","vZm3","Onu","BziAXx","BJ3","rLBr"|
+4DxN4 = |"Onu","R2R","B3LmbUmpuq"|
+4DxN4@6eGKKvN
+ZS1tt4 = USEuxA + b8oHiY
+yc441l = b8oHiY ~ b8oHiY
+TjouXs = |"l5fXO7","c07h","UlP8Y","Yb","DdT"|~|"0P","p8ye1i","3XaVD","Yb","3","f0e","MEc3D3y"|
+FjFdqKK = 4DxN4 ~ USEuxA
+kwLK9f = 9oSEy + 5OZn9q
+yPc4BgB = 9oSEy ~ 4DxN4
+.p
+.l

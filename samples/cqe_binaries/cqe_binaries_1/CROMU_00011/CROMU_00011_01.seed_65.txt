@@ -1,0 +1,13 @@
+peTbK = |"X99nvje","SQmF3","VJ","SmbF"|~|"SmbF","JBFhhIB","OUSgC","hO","o","VJ"|
+b1JaUhP = peTbK ^ peTbK
+C6aUSZ = |"B1dEN","eL","Pn","MydVLz","EXJ","0jN2xbL","69","MJVTH1","tYIAMUw","Hx"|
+PyfwIi = |"eL","0jN2xbL","EXJ","Hx","tYIAMUw","MydVLz","B1dEN","MJVTH1","69","xjmuVnVEDo"|
+PyfwIi@C6aUSZ
+CqvHo = |"8oSmMMJ","cytmkS","wZgygWv","IUX64","b5UXo","bTq11","6SllX","dr33","iRV"|
+YucLhWj = |"wZgygWv","cytmkS","dr33","6SllX","IUX64","8oSmMMJ","bTq11"|
+YucLhWj@CqvHo
+lCsG5 = |"TFiD0E7","We2","LB9","RtK","ekSUkG","j"|-|"RtK","LB9","o","TFiD0E7"|
+eZa8G = YucLhWj - b1JaUhP
+uie3Y4 = |"RI5T","XQCC8l5","ueBP8A"|~|"YvV","p","ZVESFym","F","7Jc7lt","C","ueBP8A"|
+.p
+.l

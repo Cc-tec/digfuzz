@@ -1,0 +1,14 @@
+lt2f2c = |"yV6K","Ht","o","V"|~|"PSCcs1q","V","QR8","F"|
+Zletcu = lt2f2c + lt2f2c
+wOoyGh = Zletcu - Zletcu
+2YB0rhN = wOoyGh - lt2f2c
+Lt3hlF = |"j","enhYbu","AM0NPrh","dmZDJ","ovLOd5w","34gkd","mXSeJ"|-|"mXSeJ","34gkd","enhYbu"|
+cIEVLYE = 2YB0rhN + Lt3hlF
+Ql7Ayg = Zletcu - wOoyGh
+GXtyux = Ql7Ayg + cIEVLYE
+FOpDwM = Lt3hlF + Ql7Ayg
+Xqsom = lt2f2c ~ Lt3hlF
+FEB5rpUHIw = GXtyux ^ Lt3hlF
+kYOWRmE = Lt3hlF ~ wOoyGh
+.p
+.l

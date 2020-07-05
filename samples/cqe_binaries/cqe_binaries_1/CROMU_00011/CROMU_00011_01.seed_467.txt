@@ -1,0 +1,13 @@
+Perj4 = |"zWfD","yUFIhn","dzPIh","iiqeR8","n3w3dr","2du","hA"|~|"dzPIh","kg8"|
+bJGu8 = |"wa","gHgGa0"|^|"MP7FLc"|
+gs9VC = bJGu8 ~ bJGu8
+muqltt = bJGu8 ^ bJGu8
+tpSaoP = |"N","88m5","AUnQ","l","P"|+|"8"|
+dZFGZr = |"IhJOq","Oa0PUOS","uFo","1Qinwa","XTziL"|^|"e99","aP2H","Ba3o"|
+zB9we = |"1bJs","vL","5Tn","iu8","G4lq4FB","IX","NBg","9jN","zwAgPyv"|
+3Xh8Met = |"1bJs","5Tn","VKvXzmIwmA"|
+3Xh8Met@zB9we
+jShM8u = |"koOWvV","5tKl","qpK","Os","Z","e"|+|"MnVX","9km"|
+GEuqNj = jShM8u - muqltt
+.p
+.l

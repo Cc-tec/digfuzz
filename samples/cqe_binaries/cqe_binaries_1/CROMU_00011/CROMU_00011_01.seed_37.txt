@@ -1,0 +1,16 @@
+VkSUYS = |"plIz","wge0o","x7","sCZj","tl7U5","CMwuqH3","IOpdV","DlJvlAg","sEUJT24"|
+1SbBT = |"plIz","IOpdV","sCZj","wge0o"|
+1SbBT@VkSUYS
+wycVAm = 1SbBT + VkSUYS
+J7T0xBN = 1SbBT + 1SbBT
+p2KgSny = VkSUYS - wycVAm
+6whw0Vg = |"hZsV6a","jDwt","Znk","F6BTWz","YJDna","WW"|
+yeoU5cv = |"Znk","hZsV6a","F6BTWz","WW","jDwt","9lcTZWOM8I"|
+yeoU5cv@6whw0Vg
+0Bm6Y1n = |"GX6","Kl","PS2UG9","xDu"|+|"hJKYeE","Eyn3Z"|
+4WMQuGJzkG = wycVAm ^ yeoU5cv
+uYQ2WW = VkSUYS + p2KgSny
+n7cHz4 = |"bDJtUH","wer","m84z","RNB","eS9N","kIJMhPK","Uctyb"|^|"RNB","eS9N"|
+0CmWuJ1dP9 = 6whw0Vg ^ n7cHz4
+.p
+.l

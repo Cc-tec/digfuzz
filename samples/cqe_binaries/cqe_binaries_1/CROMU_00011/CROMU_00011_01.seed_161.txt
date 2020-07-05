@@ -1,0 +1,14 @@
+xsa0A = |"pBZxA","2","mt","0","mGmL9Dr","7"|~|"Sx","5QXjbob","9UGX2","fuhdHy","mGmL9Dr","eb","d1Ul8"|
+cHB4OT = |"RXC","SOT6","KE","bs","56Nw","fN59","Oqmuzu"|+|"W","F6W2a","Oqmuzu","fziiw","56Nw","FUsxT","RXC"|
+s8f4d = cHB4OT ~ cHB4OT
+x4YNp4p = |"3buDCv","a0oR","wB3","DPXzj8","t96caie","Cj5Eod","QrIJn","Q3RDar3","oCOA"|
+Kc1Aq = |"a0oR","EV2F8w0fHH"|
+Kc1Aq@x4YNp4p
+aMCKCA = xsa0A - cHB4OT
+UydkPa = |"MJTlw5","UCj","5","wMTE","2EqRMT","jI"|-|"5","KZE7","2EqRMT","HUd","iu6TL0","1ttq"|
+lJWARLR = s8f4d ~ UydkPa
+4SdHTdF = |"XI","Gj","9SIBjV","FoHWcRq"|^|"Sib3","9SIBjV","XI","53HOR7Y"|
+6lwJv = cHB4OT + cHB4OT
+Yta2OzU = |"VLDCkM","gmiAA"|+|"VaNQ","gggj1","f6","7ULFvxG"|
+.p
+.l

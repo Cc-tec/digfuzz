@@ -1,0 +1,12 @@
+e9Vsm = |"Le4YATo","n1","jWiK6","h0a"|+|"cgR","eh5Ames","h0a","lL"|
+RPTqsFA = e9Vsm + e9Vsm
+v6vSgu = |"oq","8zr","JSdz","R9fz","wN","aKN","o8Gu","HBAS","raCBD3s"|
+ugyR6 = |"JSdz","wN","o8Gu","HBAS","Hk6LFmxdLF"|
+ugyR6@v6vSgu
+Ha8gu = ugyR6 ^ v6vSgu
+Ott9m = e9Vsm - ugyR6
+qUzY8p = e9Vsm ~ ugyR6
+ySDYd1F = |"jVheWP3"|+|"O","1","emvGFMj","f7N"|
+ackkM = Ott9m ~ e9Vsm
+.p
+.l

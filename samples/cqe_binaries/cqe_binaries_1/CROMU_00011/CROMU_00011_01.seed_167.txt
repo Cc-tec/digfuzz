@@ -1,0 +1,19 @@
+BDplt = |"ighb","OBh","cG"|-|"OOR2y","m7U5a2","tqxf"|
+1uyWi = |"3F","oeIO","44","lERi"|^|"D3OoM","3F"|
+r8lkkP = BDplt + BDplt
+vxnXoE = r8lkkP - 1uyWi
+Q6GGKY = |"rcK74Sz","ts","Ex86623","V"|+|"gQ"|
+fy0NE = Q6GGKY - vxnXoE
+5Q126jjPqv = BDplt ^ Q6GGKY
+tHALs = fy0NE + 1uyWi
+6wV2H = |"GwSef","CPfB","Y9Rn","8O","38kaB","B7","6LYaGK","aSYL8w","WhCw"|
+AgRXc0Z = |"8O","38kaB","CPfB","GwSef","eWmorbOcYv"|
+AgRXc0Z@6wV2H
+DFZQW2 = |"2t","Cj"|~|"hXkMS","Nrq","TkfBxv","74o","Cj"|
+GAXswJ = |"WJqX","uZJ","NOdTC","iduP5Il","VkB6","ik","o5XyW","Vn","5pzVs","uTcydMP"|
+Q8NLa8 = |"ik","uTcydMP","uZJ","Vn","iduP5Il","GNjhaGSHdC"|
+Q8NLa8@GAXswJ
+efX3p = |"43","gAD"|^|"h9T"|
+VrSZl = vxnXoE + Q8NLa8
+.p
+.l

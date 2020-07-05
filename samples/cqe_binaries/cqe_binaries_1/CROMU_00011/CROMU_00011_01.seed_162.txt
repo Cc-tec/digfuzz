@@ -1,0 +1,12 @@
+4ktmAw = |"cAdqy29","p8","Q","0505t","XnB"|-|"0mbx","QaJ","IgY"|
+QMrvBka = |"dBr","z2UM0z","9rHUv","WLn0s","KV07ny","aNQ0oE"|~|"fJ18","XM","fbb","j3qHRX0","7","2","BdQL"|
+X4UyJ2P = 4ktmAw ~ 4ktmAw
+8Pbv9ip = |"Ewi","yV"|~|"yV","Vqj","XS0","g9XR6","L5nsKT","Ewi"|
+WKMBC4 = QMrvBka - QMrvBka
+A4SYJ = 4ktmAw ^ QMrvBka
+rDAJVWz = X4UyJ2P - 8Pbv9ip
+RUvHE = WKMBC4 ^ WKMBC4
+4rK1Dk = RUvHE + WKMBC4
+AfsTiN = |"Xy9Ck","9k6","X5u"|^|"iJVP"|
+.p
+.l

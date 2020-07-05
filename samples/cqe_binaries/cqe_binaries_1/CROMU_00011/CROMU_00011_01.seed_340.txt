@@ -1,0 +1,18 @@
+MWHaU = |"csgQJ4","JC","veN8Z","wYYQtM"|+|"pyG","b","0TxE","PZt8sm","icN","3rX5p2"|
+VMh3tm = |"jM","c1","FcFyc6G","7pq","0mtHq"|~|"c1"|
+cqhFkj0 = |"7W5T","9D","cVPJjl","gDwmL","hhesy","HjhoV","AR","AU","9rFO","f5IZN"|
+uqn9nC = |"gDwmL","AU","f5IZN","cVPJjl","hhesy","7W5T","9D"|
+uqn9nC@cqhFkj0
+YHyh7LJ = |"Zv57yI","oxF","ri8b"|+|"ZC2","VG9","s"|
+FArDdk = |"epYJ"|~|"6","Zp","TDv"|
+g7XH6o = |"X8ewKn","o","TO","QTgQl2u","gRY042m"|~|"TO","CW4y3Vb","6t"|
+sXgGwu1 = MWHaU ~ VMh3tm
+qPS5vdp = VMh3tm + VMh3tm
+X9N9Va = |"IG3Q","SKG0O","4ydmrJ","VPVr","KZvh","qenH","2H9teW"|
+jeo9kwO = |"4ydmrJ","KZvh","2H9teW","IG3Q","VPVr","u2u8eaICz4"|
+jeo9kwO@X9N9Va
+fo1NINS = |"5","dIF","O","oKOKC","PWG"|-|"ND","iw61d","a9LU"|
+fZ7ti2X = jeo9kwO ^ X9N9Va
+vN2vp = fo1NINS - uqn9nC
+.p
+.l

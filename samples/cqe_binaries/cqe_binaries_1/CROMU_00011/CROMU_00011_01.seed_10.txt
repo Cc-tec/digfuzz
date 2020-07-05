@@ -1,0 +1,16 @@
+ygAqEwD = |"CVftiA","59v8","0vNM61"|~|"UUqfU","uTCNguw","N9eo","CVftiA","jJ","oG"|
+PI2Sx1 = |"imK","HwNGs0y","cgR","Q0ff","gLR","VV","JFt","ItadK0","LMT","E6iJq82"|
+gnboEAi = |"VV"|
+gnboEAi@PI2Sx1
+WAM4pSP = PI2Sx1 ~ PI2Sx1
+wLuwY = PI2Sx1 - ygAqEwD
+lH6yF7L = |"v74McWO","HZhyK0"|+|"G","LDKTt5t","v74McWO","I6bxv","y"|
+D0J2pR = |"g","OnGIa"|+|"7"|
+jgvbUl = |"EHAP8i","o","vAKoF","Y5k","L2X","5fr"|-|"Fgou","LsWK","UItKn","yPk","vAKoF"|
+UwCp15ASyT = ygAqEwD ^ jgvbUl
+p5juJ = D0J2pR + jgvbUl
+nK9gb = jgvbUl ^ WAM4pSP
+MPY7VfZ = jgvbUl ~ gnboEAi
+rDLPRX = D0J2pR + nK9gb
+.p
+.l

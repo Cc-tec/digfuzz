@@ -1,0 +1,17 @@
+eWA4dpx = |"NJoe","GSqo","cdXuTpc","LpxRRz","5q6","qr7jlo","JJZe"|^|"HBAZuek","mk4J","Vc"|
+YuAnQ = |"nVB","q","R","FgG2I","k3z","ZgeG","MdDda"|~|"l4","m3GbC6m","KH","rBy","MdDda","WeREux","k3z"|
+ahm5me = YuAnQ + YuAnQ
+Jz0eS = |"hV","lFICP","VW6F"|-|"gGIv","hV","VW6F","eZV"|
+xP1UT = eWA4dpx ~ eWA4dpx
+7gQR3mW = xP1UT + eWA4dpx
+ORaehB = eWA4dpx ^ YuAnQ
+QEETaA = xP1UT ^ ORaehB
+maPuC = |"tdeR","KoC","aA","fYqvM","giI","uGU","Q5lE","kAdFQ"|
+aVxtQ = |"aA","fYqvM","uGU","giI"|
+aVxtQ@maPuC
+Cnkiv = |"ffy","4zXwBlk","I70jOW7","VmgFUu3","3nJ"|-|"tbCf","I","U","gUcH4","nM2226","3nJ"|
+y9gel1 = Cnkiv - Jz0eS
+eiF8I = |"kUU9ad","uigZ","r"|-|"2He","uigZ","8Q","o2","Lb4HTE","lj8","lOm"|
+kSqMF = |"Kn"|+|"cGu","isBC","Eou","wpcH6ue","7W","Kn","jz"|
+.p
+.l

@@ -1,0 +1,12 @@
+OoGM8 = |"mv","hY8Qzm","H1MwgTS","qusmUAW","DV","V3T8d","K2zXcNF"|-|"DV","HEYl","w","x"|
+du9QzK = OoGM8 ~ OoGM8
+aH3YVWgsn = du9QzK ^ OoGM8
+GEzOh = OoGM8 + aH3YVWgsn
+T8PHDB = |"Nun","DKrQUKf","q","k"|+|"f","q","zCCr","1b1Y3G9","Fu","sn"|
+sKG31 = |"c","5zR6feb","k0kcgZ","ro1UniI","7zA83K"|~|"7zA83K","PTTrcK8","N","o","4O","hk","2U"|
+mn40G = aH3YVWgsn ^ T8PHDB
+31PqOY = |"TGRnKe"|+|"ym9NUAf","ay6RuD","vZG","5zDR","cUtkQxJ","vlEqs5i","Q"|
+yI9uu = mn40G - 31PqOY
+8u1mDi = |"9","BEYQ","Fbh","41","4I","RMK2N","K1L"|-|"BEYQ","1","rV9Sc","LMFF","9"|
+.p
+.l

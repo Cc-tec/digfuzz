@@ -1,0 +1,14 @@
+ecILeZZ = |"h5gq6","dJSXme","6t","m6nR","Z4lmo","EK","lCjqm"|
+HRpBh = |"Z4lmo","lCjqm","h5gq6","HmWjT5hGOv"|
+HRpBh@ecILeZZ
+ht62a = |"Q8A","BS","QlU7B","eZe","Y2fzk","7C"|^|"J5MQap","xHAjZOO"|
+5NISv = |"v7phL"|+|"de5","TK","PDwHGN"|
+m3QFmL = 5NISv ^ HRpBh
+jMm1cH = |"4KS","D","C9","wzb8CU"|+|"4KS","BUgtTV"|
+cPnF4 = |"u8NGH","DESwF","JW0M"|-|"maGvtEW","I","kX","LZ","u3"|
+uA0E5o = |"rA657","5z","fCNhJXy"|~|"5vZZ","YKv2","ttyU2","fCNhJXy"|
+rnEyA2S = |"M41W"|+|"xV"|
+VErDXa = rnEyA2S ^ ht62a
+zyiQL = |"FyY","Efezx","BSiI","8MR1Bg","Jxm6","nNL","ldp"|~|"PV"|
+.p
+.l

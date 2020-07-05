@@ -1,0 +1,12 @@
+9Qcrd = |"b"|+|"w5","U7z4","wHz","htw"|
+nFbbtLU = |"LC1e2","mqfrn","hmCPtV","HvtM","gORPwv1","YU1PctV","S"|+|"z8np"|
+SoM93bc = 9Qcrd - nFbbtLU
+kiPNn = |"uNDM9K","tIvaw","j7AfRAy","D13t","Dosi2V4","f"|-|"1ZfBSF","cWWJDF","tIvaw","lBe2Ym4"|
+CYHieP = |"yKkal","r3vhg2g"|+|"0Z","Jg","zdL","CX","r3vhg2g"|
+g6PQa = 9Qcrd - SoM93bc
+ml8oYN8z = nFbbtLU ^ kiPNn
+9KCft = CYHieP - kiPNn
+O1HCm = |"b","UOiY","x2Gc","M1u","k","yX94tR","kdE4"|-|"xig","kdE4","Ln"|
+LjxDHP = |"f9kuu","Cihz","PFWTch"|-|"Yx","EBH5tS","k6","H","gLl","U3"|
+.p
+.l

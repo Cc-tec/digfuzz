@@ -1,0 +1,16 @@
+hFIwC = |"iNr","M5m4bV","r2X","UAdL","xwgX"|+|"rA"|
+m3yaxT9 = |"sPOSE0","Erdw","ifK3v","9TZig","M2GzcbP","LTp85YO","7Rgx"|-|"0KeqjW7","sPOSE0","9TZig"|
+U4qG7bfo = hFIwC ^ m3yaxT9
+ZIELo7 = hFIwC ~ U4qG7bfo
+xeFII = |"I","iFrOw","Rz","Cj","E","z7qgc"|~|"hU","U","z7qgc","oW2z"|
+lURAr = |"e","Y","nUvSfph","eLMqB6","2qJ","4n7E3Va"|+|"e"|
+qG4fR2i = lURAr ^ U4qG7bfo
+9JALx = lURAr + xeFII
+roWHQ7 = |"4N","lFd0MK","PQC","im"|^|"fli","RscJr2t","lFd0MK","TnC4C","lS5CKZ","nKTv60V"|
+2qy3N0m = |"JSCPG","qpJ2ziT","He8kOM","i3bSz","5N","dCN34"|-|"dCN34","UJCelq","5N","ZBGxkCN","92o"|
+pLJuxmj = |"Z0","Xdwllsw","zZAiS2","SoF8zc","sgkp","DF","Uam"|+|"DF","fM734","Y7G","sH"|
+DIqviQ = U4qG7bfo ^ 2qy3N0m
+ivTujGb = |"Bu","007cH","4Lc","rSE","g8M8V3"|-|"2j5a","rSE","9MSSlJ","UlTzPU"|
+Jfnd8L = |"gNNfOQQ","VxBt7","j"|+|"gNNfOQQ","u","j","G","VxBt7","B","xy"|
+.p
+.l

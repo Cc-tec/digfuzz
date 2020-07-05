@@ -1,0 +1,13 @@
+sNeKXGg = |"m","g2q9uU","KET8"|+|"A1Ph72","m","sc","2AZLL"|
+kovL8U = sNeKXGg - sNeKXGg
+xEbT8 = |"0Q"|+|"oOd"|
+7aGzlIyf0I = sNeKXGg ^ xEbT8
+SKGKOn = |"z8","WP","MY2mI","YU","jaimh","aYfZbY"|+|"Zb9Hu1","7BT","9z","z8","k9","fm","QaB0F"|
+NGIbIdJ = |"l9U","9XjqZw","0duOoH","a","Fgx20K"|-|"U2D","0duOoH","pZ","NaO","u1"|
+YUEyR = kovL8U ^ NGIbIdJ
+ldBKg = NGIbIdJ ~ sNeKXGg
+EJIbfAX = sNeKXGg ~ xEbT8
+r4pbTX = YUEyR + ldBKg
+GsCvzNNAW = YUEyR ^ kovL8U
+.p
+.l

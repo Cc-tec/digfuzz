@@ -1,0 +1,16 @@
+caRuRQ3 = |"KQ","rKNSTT","gVdSAYx"|-|"7cyoI","RLxkX","p9","4n2dcR","YfCjHAu"|
+j9xFiW = caRuRQ3 + caRuRQ3
+ZAZRX = caRuRQ3 + j9xFiW
+pwfPDx = j9xFiW - caRuRQ3
+QTumw = caRuRQ3 - ZAZRX
+rMWnJ = caRuRQ3 - j9xFiW
+pvyvRl = caRuRQ3 + pwfPDx
+Gr1zQKk = QTumw ~ rMWnJ
+shhuYF = pvyvRl ~ rMWnJ
+83bmeHQ1 = Gr1zQKk ^ caRuRQ3
+UV9S0L9 = ZAZRX - j9xFiW
+QHbXyo = UV9S0L9 ~ 83bmeHQ1
+D8NsLZ4 = pwfPDx ~ UV9S0L9
+AUU2o = |"LK0"|~|"54S","WVpeEp"|
+.p
+.l

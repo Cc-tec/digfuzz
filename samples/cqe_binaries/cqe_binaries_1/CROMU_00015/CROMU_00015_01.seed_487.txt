@@ -1,0 +1,32 @@
+3
+khzBdTN9Rk
+3
+7SlpTOPXHM6
+1
+2
+{Planet}{Name    }  UHQhd7fFl     {   #Name     }{Mass }  0.01258    {#Mass    }{  Period    }   0.88387  {   #Period     } {   Gravity}0.18817 {  #Gravity    }  {Perihelion }   0.84817{#Perihelion    }   {   Aphelion   } 2.47222  { #Aphelion     }     {  ERadius }0.53704 { #ERadius } { Radius  }    5.71429{     #Radius}  { OrbitSpeed }   2.80392   { #OrbitSpeed}     {    Population}     1171     {#Population   } {#Planet}
+4
+2
+3
+0.76119
+11
+neDe0CNC
+8
+0.46939
+4
+0.73377
+4
+2.66667
+5
+0.97241
+5
+1.32192
+8
+2.55000
+14
+3
+rtJ2IbwGOxyr
+2
+{Planet}{    Name    } Akit8     {  #Name     } {Mass  }   2.20930{   #Mass     }     {     Period     }     1.16522{   #Period }    {   Gravity} 2.23944  {    #Gravity   }  {   Perihelion   }  0.93939  {#Perihelion }    { Aphelion}   4.75862{    #Aphelion   }   {   ERadius }1.21739    { #ERadius     }{  Radius}0.18182     {   #Radius  }     { OrbitSpeed } 9.55000   {#OrbitSpeed }  {Population     }1495{#Population   }   {#Planet}
+1
+5

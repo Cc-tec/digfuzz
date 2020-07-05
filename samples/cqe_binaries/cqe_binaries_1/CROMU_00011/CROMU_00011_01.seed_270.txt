@@ -1,0 +1,18 @@
+yvFGZW = |"PLf0","tsSSYs","SrDIbrA","Dd"|^|"PLf0"|
+bQYyAI = yvFGZW - yvFGZW
+Vct7c = |"L2Sk","i","dkMet","5j","1qOYRJN"|~|"Hw","lNtA","aKkcP","sW","QoyMS","dkMet"|
+hwPvKQhYyZ = yvFGZW ^ bQYyAI
+NcdAB = |"gX0","SiXjd","NWqCQl","AvA8clz","q8ndDGh","OA"|
+hz8SiTB = |"NWqCQl","gX0","N4lRpkVsFX"|
+hz8SiTB@NcdAB
+UpwJO = yvFGZW ~ Vct7c
+Ely5e = Vct7c ~ NcdAB
+DtKYs = |"dPq","3","9kjRTS","y","bzru","rIZfXt"|+|"B","72tfUkY","u9RGkT","dHzWCzm","b","rIZfXt"|
+08MfGb = |"7E9","iRL","laNTs5","afko","4yklcH"|^|"cLhG","zbf1fuI"|
+CB9DyvH = bQYyAI ~ hz8SiTB
+k5Ts7Dem = Ely5e ^ CB9DyvH
+AldySRN = |"M1RM","k"|~|"D5h","SJa","ZeR","e7zCYrb","IAiduA","Z"|
+VDIOR3 = |"RXJMQ","t","7CK","CYl"|-|"7CK","c","t"|
+xDTl7 = VDIOR3 + bQYyAI
+.p
+.l

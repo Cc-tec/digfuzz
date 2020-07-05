@@ -1,0 +1,16 @@
+cHH4cgP = |"6gmKgf","Dsj"|~|"zWHPBY","gx4"|
+oJslwpa = |"jekMDu","TlZnNkr","Xh"|~|"OMv"|
+c5wIQX = cHH4cgP + oJslwpa
+XeUl1oo = |"PZ0","xWpYt","4S8uK","6Npquk"|+|"7K","r0u","4IwmQP","4BFgx3","lEUkD","DyYF","da"|
+DbSWa = cHH4cgP ~ cHH4cgP
+dScJW = |"B2R","b1D1Sf8"|+|"cwL0qk","bs","b1D1Sf8","RBP6T","A","Fc7"|
+EDEQxR4b5V = DbSWa ^ XeUl1oo
+qiIWO3a = |"o46FPe","S","BpuXv7p","1lqvgi5","KYo"|+|"Z","zpkGh","1lqvgi5","RxM2ax","o4EIO"|
+KfF8w = c5wIQX + EDEQxR4b5V
+im3D6r = |"y9pkW","XO6csK","BMuX8"|^|"Gwr","rY3MrF","5rK","dL","Y2oOEM","paOD"|
+BKrrygpF = EDEQxR4b5V ^ qiIWO3a
+hpA8YB = |"af3dL","zrx4","bT5D","7HV","f7sT"|^|"JymV6","zrx4"|
+pjLxTZ = DbSWa - c5wIQX
+Fu4x2l = oJslwpa ~ pjLxTZ
+.p
+.l

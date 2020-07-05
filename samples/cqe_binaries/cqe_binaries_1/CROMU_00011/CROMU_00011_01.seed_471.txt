@@ -1,0 +1,11 @@
+kKbjc = |"hZMBAd0"|^|"hZMBAd0","rT8J","sHx4","ZYq","wfLWI","ycALlQ","VJd7rsH"|
+5ds3mCHMV = kKbjc ^ kKbjc
+FmN5o4 = 5ds3mCHMV - 5ds3mCHMV
+qRnWFs9 = |"eLb"|^|"Qona"|
+Z0Tmxr = 5ds3mCHMV - 5ds3mCHMV
+obHMj = qRnWFs9 - kKbjc
+maLlmh = Z0Tmxr ^ qRnWFs9
+q1Q8L3 = FmN5o4 - qRnWFs9
+XuOIYPW = |"6M","C2","xCO","WOe","8","BvJ4"|~|"LOF6","kNs","Gd","NqOTUXb"|
+.p
+.l

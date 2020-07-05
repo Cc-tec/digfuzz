@@ -1,0 +1,18 @@
+2014
+9
+5
+17
+39
+16
+get group
+add group svrojEB44B
+add group tEuHaKtd
+add user aHzcE2afCR
+add group IBxAtf
+set group IBxAtf
+add usertogroup aHzcE2afCR
+get group
+set help
+add file DqLMOQbE3A 51
+KzjSzLPBwk6kaKUu9MQC0TgtcZyN5LMBTrZy2qiprG0IQmap29odelete filebytes DqLMOQbE3A 50
+exit

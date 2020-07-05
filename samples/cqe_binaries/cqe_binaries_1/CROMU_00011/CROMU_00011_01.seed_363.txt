@@ -1,0 +1,13 @@
+Kuu2E = |"KjBcnW","L","vqDg2","7Svtw","1Ezg","BtY7t"|~|"Nm"|
+cBuDyAT = Kuu2E - Kuu2E
+xhs2TyC = cBuDyAT + cBuDyAT
+c4pfM93 = |"16y5vjk","oirHx"|~|"5z3","oirHx","BVUX"|
+D5wxr3 = |"OEUvmf","RnUTaG","Wl0TuL","VqGd","KKw","lc","BJBM"|^|"c1mpRX","RnUTaG","asF3Es9","kmz","rlXdhVp","JrN7M","lc"|
+3c7DR = Kuu2E ^ cBuDyAT
+tF7fGkZ = cBuDyAT + c4pfM93
+XX0lLDu = cBuDyAT + 3c7DR
+tyRE1L = |"oC2Wi","l8"|^|"xWjMbOV","l8","7BUYt","kXMlq","HyN"|
+DtHmy = tyRE1L ~ xhs2TyC
+ZdmRQ = c4pfM93 ~ tF7fGkZ
+.p
+.l

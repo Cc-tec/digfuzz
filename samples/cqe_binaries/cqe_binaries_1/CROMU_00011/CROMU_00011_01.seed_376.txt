@@ -1,0 +1,18 @@
+pguRp = |"TkUC8","t2NnK","EyxX6P0","fgt","l","Z"|~|"W0rrWB","P54","yn","rQK"|
+B8RIy = pguRp ~ pguRp
+pG9an = |"WBqjR","6GC","BSoFls","gIno","TVeE5","s"|~|"619gzK8","BjZ0a","V","TVeE5","SAS","n5"|
+zzofaz = |"BNw2VM","ZEci","g3xI8","zNt","03i"|+|"wJ","x2J"|
+g0Cy9Wa = |"Xd","A5Xw","Al","G","r"|~|"kLNZKX","vpv","Y","2hzhDG","qseBGCe","y9ssaN","Xe1"|
+sVDlzI = g0Cy9Wa - pguRp
+t0O8m = g0Cy9Wa ^ sVDlzI
+QvroLIN = |"AXfn","Latj","fBuXwq2","Ge"|^|"txG"|
+6aE6z = g0Cy9Wa ~ g0Cy9Wa
+0atECD = t0O8m ~ t0O8m
+GOk19p = pG9an - g0Cy9Wa
+9ihtXXG = pguRp - zzofaz
+vT40Yy = |"WT","354lA","HviKC","che8NT","KS8CbG","g0AKf","xo4ao","0LZH","UAGvHc","Hlh"|
+hQkhUPe = |"HviKC","g0AKf","cnt4l9jCtq"|
+hQkhUPe@vT40Yy
+io14rm = B8RIy ^ pG9an
+.p
+.l

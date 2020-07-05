@@ -1,0 +1,15 @@
+zrQBEl = |"mh","bZfdaE","cWfctQx","UzM","yVnV","vJuS","IK3"|
+Iobd1G = |"mh","cWfctQx","yVnV","Lt8bf6DrWG"|
+Iobd1G@zrQBEl
+5JXvJej = |"Z8R","HTPj","iVlC","1mM"|~|"4d","iVlC"|
+MbMlRCbT = Iobd1G ^ 5JXvJej
+hi0T4tS = |"zkk","QBXKK","M9p3Ze3","HC","z"|~|"bUZ4AWj"|
+1U7XO4 = MbMlRCbT ~ zrQBEl
+plocqV = |"iN5BdF","DR","Bv62P51","c"|-|"uRlWwR","N","wP2i","PxS","m"|
+5qYYY = |"5fhCe","SwHQqmn","4DQ2s","3ZpA","kWwrL","H","5s35R6p"|-|"o","4br2MJ","SwHQqmn","y7V","H"|
+U99mFXJ = |"6E","rd0s","Ft","vyY","8G","EW"|+|"VvDvwqK"|
+f29M9b = U99mFXJ ~ zrQBEl
+RtEImKp = f29M9b ^ plocqV
+DEAowQ4 = |"Qzwr","9sMqb2","tibE"|-|"jKy","GdS","DB6g9T","NRISN","I4","Qzwr","zIOOJ"|
+.p
+.l

@@ -1,0 +1,15 @@
+UUqR3aP = |"1d3","2zh3","kccE8M","N","8bt5oiy"|-|"OF6","N","Wazu37Z","I"|
+oollm = UUqR3aP ~ UUqR3aP
+DxeBAn = |"N","lV8L","VRG","PZL"|~|"Ib","be68dcJ","n7Aq","IDKCbZ","VRG"|
+qWF8fh = |"GTPPi","jS","wYT","Ra6QAFG","qGTZ"|+|"GTPPi","i","Ra6QAFG","9tnWPX","qGTZ","o","jS"|
+WUYK19 = DxeBAn - DxeBAn
+Ba1YF = UUqR3aP + qWF8fh
+w3SukEf = |"NF5Q","NU","tED","GBsSqWW","FChN","Dl","QB","qe6ze","eR6","gH"|
+k6BjxXH = |"qe6ze","NF5Q","FChN","gH","NU","eR6","tED","CbcMUeurZj"|
+k6BjxXH@w3SukEf
+U2rNmxa = |"Jl4","v4yg","25E","PsMEbi3","Pa"|+|"7x2kR","W","PWXJY","iLB"|
+BUTzEd = WUYK19 - w3SukEf
+TSRss4 = UUqR3aP - U2rNmxa
+ju5vb6 = |"BXQBt"|^|"lrTf"|
+.p
+.l

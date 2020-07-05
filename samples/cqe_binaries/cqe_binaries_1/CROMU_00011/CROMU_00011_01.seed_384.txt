@@ -1,0 +1,11 @@
+aqJU54Y = |"3iVMH","BG7","Enl","LcceAZc"|+|"x","Q0JTbQw","74"|
+MQqF9c1 = aqJU54Y + aqJU54Y
+BIfcGYM = |"mL","m3z","N5uSx48","6ZJ","QR","FPOm"|
+v5CUtD1 = |"6ZJ","mL","QR","FPOm","D1jrm36DhH"|
+v5CUtD1@BIfcGYM
+z5TYi1a = BIfcGYM - v5CUtD1
+SN4wOqI = BIfcGYM - BIfcGYM
+99VOf = aqJU54Y ^ z5TYi1a
+uAaCk = |"7kUld8x","YC","ok","Jngsa"|-|"ok","YC","hIiql0Y","q","tW","wjTt3"|
+.p
+.l

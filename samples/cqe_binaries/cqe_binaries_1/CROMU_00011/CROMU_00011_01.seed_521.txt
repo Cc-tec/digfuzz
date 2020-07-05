@@ -1,0 +1,9 @@
+Ro6I2 = |"gF","afq0MXW","h1r","Ehh"|+|"uJ","2","U3eQR","V","k9pxyc"|
+c5Ua7We = Ro6I2 ~ Ro6I2
+Gr3lo0y = Ro6I2 ~ c5Ua7We
+ZJzMc = |"5mR8yGB","ri","kpJH23","PQ"|~|"q4u9iVp","z7"|
+Uyp5DN = Gr3lo0y - c5Ua7We
+sTL9LF = Uyp5DN - Ro6I2
+SSgjp7eJ9 = c5Ua7We ^ sTL9LF
+.p
+.l

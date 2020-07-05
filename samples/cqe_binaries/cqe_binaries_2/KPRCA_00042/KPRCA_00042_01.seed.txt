@@ -1,0 +1,27 @@
+4 login
+root
+CpgUSdKzFzUN
+1 list
+4 login
+YLilPrhjVtLy
+2 rent
+6
+4 login
+root
+YWdOgLkTPTNwoUGhG
+4 login
+root
+DAjrsjXmdaerhQOepb
+2 rent
+1
+1 list
+9 invalid
+4 login
+root
+hCXNRAWXdDfQVIPJyw
+4 login
+root
+RLnsKwfUwAcnR
+8 invalid
+6 invalid
+5 quit

@@ -1,0 +1,21 @@
+DtAUR = |"jUhi7","0w9x","UCLaGwH","QXeM","khcLe","QcWWr"|
+xAXAy = |"jUhi7","UCLaGwH"|
+xAXAy@DtAUR
+oI4h9 = |"XZ1c"|+|"qW"|
+peTA3 = |"xLOIpes","2JJaa","TTZr","fE6ux","Txu7"|~|"ZM","0O0","TTZr","Txu7"|
+FeNLZCA3w = oI4h9 ^ peTA3
+rhQEtP = FeNLZCA3w ~ peTA3
+80tPV = DtAUR - DtAUR
+2gIkfRU = oI4h9 - 80tPV
+SnWIdZj = |"LBe","x","2Wxru","T","nWuAM"|~|"LBe","ImbXZ","xqCDa","IS8"|
+8ZVvJ = 2gIkfRU - SnWIdZj
+UmQEQ = peTA3 ^ 8ZVvJ
+o2EzO = |"x4","2H","2jB","yMJ","g","QA"|~|"qBU7"|
+3cGbQq = oI4h9 ~ 2gIkfRU
+DR3jQCz = |"Em4MmXv","msXlp","xVrn0g","jBKMm","F0b0","ev1J8k","eykJyw","aQeXT"|
+Gi1Ap = |"F0b0","jBKMm","aQeXT","msXlp","gmIsphenaG"|
+Gi1Ap@DR3jQCz
+0BRjtZPbQ4 = 2gIkfRU ^ oI4h9
+22gPGC1 = |"ahFYw93","CMNY"|^|"1NUS1O","P8E4","ahFYw93"|
+.p
+.l

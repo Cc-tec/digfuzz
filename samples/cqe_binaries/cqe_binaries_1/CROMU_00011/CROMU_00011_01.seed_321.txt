@@ -1,0 +1,17 @@
+ikeSZk = |"iBQaUWL","tyyl4n","w","y1J","oUYjj","6"|+|"6","tyyl4n"|
+Na0JA = ikeSZk - ikeSZk
+RZp9I1 = Na0JA + ikeSZk
+xf6Af3J = ikeSZk ^ ikeSZk
+wsygP = xf6Af3J + xf6Af3J
+MEeBF3 = |"YqMG7","7H5Nm","j42g"|^|"l6fRNu","7H5Nm"|
+8iEytq8 = RZp9I1 - ikeSZk
+hgTNG = RZp9I1 ^ MEeBF3
+if6xljtEkH = MEeBF3 ^ 8iEytq8
+xSfJzrA = hgTNG + 8iEytq8
+cz53w = |"dHo7UT","D8iA","8ElwpC","Gl3qxTE","G94u9"|-|"CkZwf","HYrML","G94u9","CXzqog","VIQ","Gl3qxTE","F1TWVbF"|
+pJdVC = hgTNG - cz53w
+dR0cnzD = |"MmSh","ycU","T7M3xJ2","Q8","ZTqEC7","T"|-|"1gD0","C48MhX","a1fILWq","pizMlF","2LJH2"|
+3Pp8u = |"H4I8Ylc","kvlaj","DXPhk","43GMH","Dz","RTeK"|-|"kvlaj","43GMH","LODXCA"|
+oZbCjm = |"T8gKFms","Bex","Aid","a","kKZD","FLFRQ"|+|"Zxpejh","Aid","a","1YKUo","T8gKFms"|
+.p
+.l

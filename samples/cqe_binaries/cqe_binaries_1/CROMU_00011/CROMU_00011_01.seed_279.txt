@@ -1,0 +1,12 @@
+Rj0nlB = |"l","i","MV972"|-|"EhyfeZ0","Jj0Qr","W0B","5CYZp","bVsmnR"|
+oFZEXV2 = Rj0nlB + Rj0nlB
+wzuJh = oFZEXV2 ~ Rj0nlB
+AdhzUQx = wzuJh ~ Rj0nlB
+17AgQuL = oFZEXV2 + Rj0nlB
+zNaaa = |"7m66mcK","hAfgf","wz","aGLLOb"|+|"9jp3Be"|
+qnGnw = 17AgQuL + zNaaa
+8buus = Rj0nlB ^ qnGnw
+PrRKjq = qnGnw - AdhzUQx
+fR6qo = |"1uBcJ","YE7G9K","aVuRl","t1y","fuR"|^|"zls9M3"|
+.p
+.l

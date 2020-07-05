@@ -1,0 +1,13 @@
+weNKhM = |"X","Sb97LY","HiEoX","snoC","Hg3nXZR","5","nkJ15K"|-|"H","HiEoX","JL3k6","l0","gbnN4Tv"|
+max8Yu = |"5dFM","cpj","3Bm6O","OVJl","g"|-|"HuL","l","5dFM","h","cpj","VUWy2J"|
+NR9o7S = max8Yu - weNKhM
+mU8fNh = |"IUB7A","hDo","FFz","dX6MBcJ"|~|"dX6MBcJ","RnvNad","hDo"|
+MKPheR = |"2Oz","SSp","7ah","ew3c8jf","rHReRF","R6p","gM"|^|"2Oz","EEdAlG","R6p"|
+0EUpe = |"7"|+|"MdIf","gMRZA","umy9P","Uh"|
+9nMKp8 = mU8fNh - mU8fNh
+CAdvb = 9nMKp8 ~ 0EUpe
+t8rV4bVaw = mU8fNh ^ MKPheR
+nCGUD = |"qh"|~|"B","6yzeT","Fmyu","oJOd","AYT"|
+HCXXW = nCGUD ^ nCGUD
+.p
+.l

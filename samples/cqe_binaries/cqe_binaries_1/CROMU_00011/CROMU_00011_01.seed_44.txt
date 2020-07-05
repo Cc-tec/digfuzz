@@ -1,0 +1,12 @@
+Rc7nEj = |"qgy7Pq","28vIHtn"|^|"5oMdM"|
+uuvBK = Rc7nEj + Rc7nEj
+WbDkv = Rc7nEj - Rc7nEj
+AYs1ag = uuvBK + Rc7nEj
+XjX6K = WbDkv ^ uuvBK
+VXXp5 = uuvBK ~ AYs1ag
+tye5yS = VXXp5 ~ uuvBK
+tsdg4J = tye5yS + XjX6K
+C34kjS = |"esLcNwL","6X6c0US","ST4S1g","uRh"|^|"ikTZ","O99FD"|
+sGOuM = |"UizS7","MToV","z6re","aQGXp","A0v"|^|"z6re","35"|
+.p
+.l

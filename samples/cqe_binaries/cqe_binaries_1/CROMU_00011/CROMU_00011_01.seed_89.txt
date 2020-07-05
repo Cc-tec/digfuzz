@@ -1,0 +1,13 @@
+cutR49u = |"N0zO9ez","TNP"|^|"MiA","q7LCw","L9Jtsja","TNP","OFNd"|
+qZALKL = |"UKo2Sv","z","V","wOTjlP"|+|"z","JU7wbOg","wOTjlP"|
+wxUsO = cutR49u - qZALKL
+0p7kLN = cutR49u - wxUsO
+qs8SzGd = wxUsO + 0p7kLN
+kvJZd2n = |"gIVX","xj","53hT","4VE","HGSj19a","XM","WmAtpl","qp6YwI","Hwfi","aF"|
+BEV5Ci = |"HGSj19a","4VE","xj"|
+BEV5Ci@kvJZd2n
+Skn2TM = qs8SzGd ^ wxUsO
+vDPXK = wxUsO ^ qs8SzGd
+YlL9V2 = 0p7kLN + Skn2TM
+.p
+.l

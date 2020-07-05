@@ -1,0 +1,9 @@
+5oYGZgq = |"e","23D8UT8","xquqRb","U","Q1z"|+|"iouBN4O","Q98kPW","49ozzF","FAuYJ","fsS","lduc","V"|
+jSZT26vG = 5oYGZgq ^ 5oYGZgq
+COfSb = |"TwgleH","H8A","G320p","wjrkBr","rzN","Jtx"|^|"w1ibNxF","wx9l52V","TwgleH","ww3t","yJt","qHxolbl"|
+mqIM6 = 5oYGZgq + COfSb
+yUHf0 = COfSb + mqIM6
+0zaNlAN = |"g","x","w2ST6bn"|-|"M","Nt","Lx"|
+5rx49G7 = mqIM6 ^ yUHf0
+.p
+.l

@@ -1,0 +1,28 @@
+login
+insert
+Angie
+Redding
+aredding#
+11/12/7 104:41:31
+insert
+Angie
+Redding
+aredding
+12/15/31 9:24:18
+find
+bd >12/13/95 10:0:47
+remove
+892
+find
+ln <"ft 1srWvuTl6Vf6Wh" 
+error
+insert
+Kyle
+Bed!ford
+kbedford
+9/9/84 21:10:24
+find
+bd == 7/18/0 18:38:2 OR un == "aredding" OR ln == "Bed_ford"
+print
+all
+exit

@@ -1,0 +1,21 @@
+urski = |"h","8qtO","vmKB5Jx"|-|"kss","Zw","s2vFA","rqX"|
+qx7FD = |"xC","N","nidy","FA","2XTxkN"|~|"jq3Knu","fn"|
+5Jgn3jG = |"nm","YknEu97","fo","mX3KwB7","Q9"|~|"mX3KwB7"|
+rqVAm = 5Jgn3jG ~ 5Jgn3jG
+EkHrcxJ = |"keBhf","8laWv5","v3bmTBx","PwcceR","HCj","LQ"|
+iSzcKsl = |"keBhf","LQ","PwcceR"|
+iSzcKsl@EkHrcxJ
+3yq9R = iSzcKsl - 5Jgn3jG
+8szT0 = |"kbI","VFOG","7v","aL","TMl","p5","7CqYj4"|^|"7v","p5","p2jk","56wR9u"|
+zjImRft = |"tvth4A","FqC3","Lv","zTDik","uL","O"|+|"W4tIDv","tvth4A","Lv","tFPE"|
+k7Hghn = rqVAm ~ zjImRft
+JuPGQLg = |"G9","fWPgj","S1cvzu","1vO","sa","Ln9cmu","mnS"|~|"A","LS0Xf9","G9","Anz2oH","RMvUaV3","G3TEd","eOybxa"|
+8slOuxA = 3yq9R + 3yq9R
+HxkHXZl = |"00nRxXE","5QIiL0B","R6JKEy","ScEjg4","fd","wO5","YWnxzim","TRgW9"|
+PaXSyBx = |"TRgW9","wO5","5QIiL0B","00nRxXE","fd","YWnxzim"|
+PaXSyBx@HxkHXZl
+dItaiV = |"vfCOo4","X3tP5nm","Y4Kdy","exH1EO","TK7vY","RmQGzHc","ZbU","AqcRfz","jEHbkIE","dY"|
+cc8cUE = |"exH1EO","vfCOo4","RmQGzHc","jEHbkIE","X3tP5nm"|
+cc8cUE@dItaiV
+.p
+.l

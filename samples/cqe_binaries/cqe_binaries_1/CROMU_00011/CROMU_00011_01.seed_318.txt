@@ -1,0 +1,23 @@
+QpzfMm = |"CT","xx5Azwy","SFmZ","pj08aYq","LMH","iK","y4NK"|^|"HlezTR","qKzMTms","xx5Azwy"|
+pq36rsI = |"9UiVUF"|+|"r6"|
+vPfSU = QpzfMm + pq36rsI
+xpFMo = vPfSU - vPfSU
+FANsn90 = |"uTx","GkKFmhF","Zdm","GXJ4taM","UK4r0","yfj","beU2ZD"|
+A2XbO = |"Zdm","GkKFmhF","beU2ZD","UK4r0","GXJ4taM","uTx","xN4qEeu9um"|
+A2XbO@FANsn90
+MQcg7an = |"kVSb","WpMqNwf","jaZ","Ge4CK2","nc0","hFYv5"|
+WbNZr = |"Ge4CK2"|
+WbNZr@MQcg7an
+JCsRyKg = |"k62","hd2WvDt","22"|^|"j1Hp","qtmdgL","hd2WvDt","Wxe7GEj","zIPp","FT","t7Mfc"|
+3IcCh = |"AZd","2","f2MxbH","vyW5g5K","bC","cdP"|-|"bC","K9D","2","y7","AZd","WbrsvQ","Y"|
+pFfQ3y0 = pq36rsI ~ vPfSU
+s6HwZT1 = WbNZr ~ vPfSU
+rNUgL9e = 3IcCh ~ vPfSU
+znccDk = |"vlDn","dKHtaL","pieMvNk","BBaI","96","sGslk","2iI","k9TrK"|
+wDwYd = |"pieMvNk","2iI","vlDn","nr1dwdkuEq"|
+wDwYd@znccDk
+YjtWX = |"Iq","Zg27","XETFBP","YESXEj","p2s","89NoxG","gJ","eP","KvuMKRF"|
+C1JCV = |"eP","Iq","89NoxG","Zg27","KvuMKRF","s6We1aVcDq"|
+C1JCV@YjtWX
+.p
+.l

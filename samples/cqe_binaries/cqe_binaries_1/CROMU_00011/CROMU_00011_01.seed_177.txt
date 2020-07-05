@@ -1,0 +1,21 @@
+VMzag = |"Z6","K","SVVa","vtME","x"|-|"Z6","VcEkkl6","5d","Oy2","nl"|
+ll1MwP = VMzag ~ VMzag
+EkIWUxf = VMzag ~ VMzag
+LG9cHl = |"9g6","N8f"|^|"A6pEwc","ive","aR0KTC","I99","En"|
+fdtkW = EkIWUxf + ll1MwP
+RCUWG = VMzag ~ fdtkW
+jiMpM = |"oDQx6","UA","yr","6i","3E4go","klbKQU","cadHrw","FMj"|
+dr8IrNu = |"3E4go","oDQx6","yr","UA"|
+dr8IrNu@jiMpM
+tG2Alrz = |"91BDMe","iK","rB3Kfkn","lfmNs"|-|"V","EpUw7n","O","IL3Ml7"|
+f2tiA = |"bfgQg","DForII","5gNw2","aY6dMy5"|+|"9"|
+Mfndu = |"lE","6","z9osg"|-|"m0O9","W","x","HesI","0nkQ","QoMfnVl"|
+K3Azo = |"Xmr","8yKClfK","Zvb","bqFYPDT","ZyOq","yTPv","bfNVZex"|~|"h32z","fg","Zvb","bqFYPDT"|
+1j5Ox = |"ns5","rB5DKk","okr3Od","Lw","guj","MG8pl"|
+htcWuo = |"ns5","okr3Od","MG8pl","jCbxWAFKPc"|
+htcWuo@1j5Ox
+sLtk3 = |"v2dV9ik","ZogCL","G","H","Iuz"|~|"Z6C"|
+DHbX9Ad = jiMpM ~ dr8IrNu
+wz1Z3 = fdtkW ^ RCUWG
+.p
+.l

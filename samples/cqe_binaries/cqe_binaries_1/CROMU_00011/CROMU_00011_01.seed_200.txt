@@ -1,0 +1,17 @@
+giBj3b = |"1T","r8ubd2T","Tzr3fz","snWi","aUcK","IbGujZ5","DCs","URQ","U5EUSy"|
+nt1d4 = |"URQ","r8ubd2T","U5EUSy","snWi"|
+nt1d4@giBj3b
+LgvZWrK = |"w9","jP9xVN","4UzX"|~|"0fiGQ"|
+EQNSt = giBj3b ^ giBj3b
+x29O9 = giBj3b - giBj3b
+nQNEuu = nt1d4 - EQNSt
+YXIFEofM = EQNSt ^ LgvZWrK
+KdPGi = |"kw","aIhO","Er30","aCk","crYIn","ugl"|-|"aIhO","pqnj","NMK","7fvw","kw","0UGLZxr","x5RUWQd"|
+jQzMW = KdPGi + nQNEuu
+93qc8 = |"fT","yn5ecTt"|^|"xYAGD","uEIs1m","Vab"|
+MhHAnN = |"K","kKIS","bHVgqrc","z","RaM","FCt"|+|"kKIS","eaW0","O5iNi","K","bHVgqrc","RaM"|
+9XUnsR = |"xV","8JqT","qv9","nOZi","NS"|-|"nOZi","JLQS","qv9","8JqT","h","g4eAa"|
+8P8ar = |"fD"|~|"0DrDiE","U"|
+Qg1YMa = MhHAnN + nt1d4
+.p
+.l

@@ -1,0 +1,10 @@
+W2RiLLn = |"Kt2v","sgySbjl","oe0g"|^|"Ur","Cy5wz2","HcIfJ","lp","3UYNFLI","BQ6VCMh"|
+EXCQZ = |"L6H8v","Pvmx9A","wX","hg8zl","xi565"|+|"Oza","VA","KUk","RPM9X5"|
+mBrlZ = |"PORiHER","Lzzc7","DHS9b","TwRYj"|^|"CdK","I4m","L4KrjfK","DHS9b","Lzzc7","1k3BSsE"|
+U7sPNv = EXCQZ + mBrlZ
+f8UrI = mBrlZ ~ W2RiLLn
+eFoJj9P = W2RiLLn - EXCQZ
+OnhqbCH = eFoJj9P - EXCQZ
+NtYOE = |"9TCPBX"|~|"JQtzyy","j","v3Y3L"|
+.p
+.l

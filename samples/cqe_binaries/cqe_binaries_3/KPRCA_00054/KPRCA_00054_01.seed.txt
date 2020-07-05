@@ -1,0 +1,7 @@
+cat 
+close_all
+open knfXiHNUr
+new 
+delete UaRdFtPhPOggbX
+? quit
+exit

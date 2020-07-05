@@ -1,0 +1,19 @@
+gZqm8l = |"bK","GyT0","YWxPva","QRbf"|-|"bV","OC8hvS","iwb"|
+i6fHY = gZqm8l - gZqm8l
+WsZIpK4 = |"OcbwR","3hDMcvP","yV4uS","SKhcL2L","fySRX","fpQO","MC"|^|"3hDMcvP","mLIqjk","SKhcL2L","lqTrfJ","OcbwR"|
+KVchz = |"H","I","aK","WrqG","OzwB"|-|"9Rxz9H","0FruwMj","nRXx","Wskp1J","I"|
+Ry7IrZp = i6fHY + WsZIpK4
+KXkM2Fq = |"M7E3T3","qEJvv","7C5FDqT","iXObCAP","VXqeY2","4XM","UkOnm"|
+hCgPm = |"VXqeY2","M7E3T3","7C5FDqT","iXObCAP","qEJvv","UkOnm","CnuUU8wDjO"|
+hCgPm@KXkM2Fq
+7dNQao = |"HJG7LP2","6Wl1h20","Q","SYc","ArT8NC","vfs","ol6"|-|"ol6","SYc","k4a1CN","qllNRi"|
+4jO80 = |"0","yfU","JdK4t"|-|"dIStX","0","eGU"|
+384ZguW = 7dNQao ^ WsZIpK4
+irSiGn = 7dNQao ~ Ry7IrZp
+XdtPP0 = |"l0g0","3k3En","djF","g","mZx6Pi","dNwiW","fvm"|+|"E7MWE0W","dNwiW","2w","mZx6Pi","bG"|
+ffldM = |"KzmqHJ","1OGPr","6"|~|"6","0CFE9Xl","iy0k","vVMyx","sTy"|
+9u3zOM = |"jt8DihT","rN","4Bp","mJBr8YW","nta","7nSsA"|
+onCPwfw = |"nta","jt8DihT","4Bp"|
+onCPwfw@9u3zOM
+.p
+.l

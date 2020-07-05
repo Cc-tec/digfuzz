@@ -1,0 +1,12 @@
+B3wIj82 = |"MF3"|~|"SV","N0Q","y0OU","mlKH9Ac","MKzVu7b"|
+BKi6WZc = |"o3"|^|"akDdM5","T2","ajy5D","m4K","CH"|
+wFO7qFA = |"S8ksS"|^|"vIiKZnL","UebmEV","wZF","XcZWeT"|
+QlTW7 = B3wIj82 - BKi6WZc
+YLarX = QlTW7 ~ QlTW7
+WbjZk = B3wIj82 ~ BKi6WZc
+Yl0dZzVTx = QlTW7 ^ YLarX
+2CqM0u = |"co2t","VfJOn","fRQpd","V2p9"|-|"pD","nW5SQ","G1K1Lr"|
+11D9u = BKi6WZc - wFO7qFA
+YQBRf = |"MMjYf","4aJI","2e","MpKt"|^|"Z8"|
+.p
+.l

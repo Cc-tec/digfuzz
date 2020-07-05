@@ -1,0 +1,13 @@
+p1fPN = |"rd","Cff","xe9y","K5Sa","CZn","l9G"|
+3BseC = |"xe9y","l9G","rd","CZn"|
+3BseC@p1fPN
+YXfR2RS = |"gxJ","DiTLW","guxcA4d","gL8Gozo","1piLuL","xdOBt1","dI"|^|"KJI3o","o3"|
+I8ONFO6 = YXfR2RS ~ YXfR2RS
+8Y1kOb = p1fPN - p1fPN
+1c0DFmx = |"D5CMO7","nbA","NSgO","T","Qx16p8","xmtiv"|-|"Yy","Qx16p8","D5CMO7","Rf1LZ","T"|
+ZQsO3k = |"1S"|^|"Aq","ruvIrB","C4MOnHL"|
+WLplRV = ZQsO3k - I8ONFO6
+UpWDA = |"aUpZYh","pbPZaKy","2","0","j","mI"|+|"l9A9ff","0VJj8F","Cu","i7V","mI"|
+m43B1 = 8Y1kOb + 1c0DFmx
+.p
+.l

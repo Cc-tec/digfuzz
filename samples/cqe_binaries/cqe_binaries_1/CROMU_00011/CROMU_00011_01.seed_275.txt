@@ -1,0 +1,11 @@
+d0IUPl = |"TUFQnKw","6a7","1nr162","ufmg","CK","kT0","Zwm","aND5Fh","JtK","7lBJO"|
+SnKKqn3 = |"TUFQnKw","JtK","kT0","C7RGoQafTF"|
+SnKKqn3@d0IUPl
+udpZ1Bp = |"W","x99R2pI"|+|"W","AaFB","N6rm","989t"|
+SIrtz = d0IUPl + d0IUPl
+46eYi49 = udpZ1Bp - d0IUPl
+fjohba = 46eYi49 + udpZ1Bp
+UbfO5nI = udpZ1Bp ~ d0IUPl
+vKHGO = d0IUPl + SnKKqn3
+.p
+.l

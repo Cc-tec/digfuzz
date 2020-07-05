@@ -1,0 +1,14 @@
+6iIex6 = |"Tyxb31N","W1","mkQMN","bvZw8"|-|"hETet7","NX","TUQZ","O6C5Z","cn6o1","mkQMN"|
+qrmj2EpGz = 6iIex6 ^ 6iIex6
+zozFk = 6iIex6 ^ 6iIex6
+nTuce9B = zozFk - zozFk
+3APAwyt = qrmj2EpGz ^ qrmj2EpGz
+ExOpz1 = 3APAwyt ~ nTuce9B
+KkNAQ1 = nTuce9B ~ ExOpz1
+h1Ipe = |"diY","zUWf","a52oZC"|+|"e5GCXnT","CwW66k0","Y3XnPP2","8xjuG","jLO"|
+lOB8GG = |"Wc","WZ","0s1","G","9HIhxOs","QdDBKv"|-|"RW","JNf","puIh"|
+28OOiK1 = nTuce9B + zozFk
+5ZAr3vS = |"U","71zsY","k","5x","7p"|+|"d","0cn","U","HPua","h","7p"|
+Wg6C2E = |"1ixL7","P","ut2Uj4","76RoHh"|-|"C","2","HkB7","2Y0J"|
+.p
+.l

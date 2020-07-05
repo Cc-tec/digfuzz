@@ -1,0 +1,14 @@
+3BSeEG = |"ewQ","pkk3cn","Lc5","NF2K","fIh3bx","mBs4Mun","oVpr"|^|"qn4","oVpr","fIh3bx"|
+TSN5TG = 3BSeEG - 3BSeEG
+xfMNO5 = 3BSeEG ~ TSN5TG
+ZFAlg0 = |"3BL","6p3","KqYJV"|-|"Z9bab","4am","wlCNs","n","rvf2h"|
+sGC36 = |"uqU"|^|"ztqyDEX","xzc"|
+W2CaJi = |"m0","EGo","0ZRkhE","cmb","rXtZ","PaL","cHt"|-|"EGo","cHt","j","3e","4jjI"|
+3EmX4tX = xfMNO5 - ZFAlg0
+ZrXfRv = |"6nwIsA","NI2O","K"|+|"1BmFr","Ze","TAp","a0p"|
+UVsTh = |"TpFo","hL","uKjZIl","uQ0","Tp","7m7dp5d"|
+C6N8y = |"7m7dp5d","uQ0","Tp","TpFo","hL"|
+C6N8y@UVsTh
+biR2V = 3BSeEG + C6N8y
+.p
+.l

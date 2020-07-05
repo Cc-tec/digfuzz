@@ -1,0 +1,13 @@
+irwqXqH = |"be1c6j","o7D5ZJ","o5xf","a"|~|"o5xf","X","o7D5ZJ"|
+tLMnva3 = irwqXqH ~ irwqXqH
+P5iPC = |"GFiW4","wM"|^|"SzNXKda","dy"|
+FUPYO3j = |"QJ9M"|~|"R","QJ9M","wvvGWqL","j"|
+NGHRo = |"eXilc","9Wy","YkB","B3tJ","V8mKS0z"|-|"eXilc","kCLX","9","9Wy"|
+LYnXDpy = NGHRo + FUPYO3j
+DtsFLcH = |"1Du28","u","Wi8O","xGL","OVYK"|~|"m","a090b"|
+Ungtd = |"Ld4PBQZ","K50q","Ewy1","z2YmH6P","qT","VHV","XdI2"|^|"V65","gIoQhy","Ld4PBQZ","VHV","Up","nXN"|
+mUxcoal = P5iPC - LYnXDpy
+PG63Jq = NGHRo ~ FUPYO3j
+cCynH = FUPYO3j - P5iPC
+.p
+.l

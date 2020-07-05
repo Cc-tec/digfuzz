@@ -1,0 +1,21 @@
+JBb5G = |"G9HZ0cs","5E","jRkq6"|+|"LgXuc","rLU7iY","kELcwZA","vBgJgGp","W2mh","7f3"|
+AaJsU = |"SeHRgCF","I5","G6dYdfd","88LR","jUooP4Q","vTC","NgZi"|
+edRMPMx = |"NgZi","vTC","88LR","SeHRgCF","jUooP4Q"|
+edRMPMx@AaJsU
+VdU4eL = |"865Y","TP","T0hyBOE"|-|"3visDb","dS17dEe","TP"|
+StxjS = |"iVor"|^|"XdA3CCT","CzKP1E"|
+wNbX4T = edRMPMx + JBb5G
+zzWRFG = AaJsU ^ edRMPMx
+Notwfk = |"qMCYD"|+|"gAgujwj","4X","d","3"|
+q3WqgRfj = zzWRFG ^ zzWRFG
+fWMKHLp = q3WqgRfj + zzWRFG
+0EDeLE = |"74CRDz","iBrn847","HoGihcb","rfidbo","itdLk","MRIBrao"|
+8IHQqs = |"HoGihcb","iBrn847","MRIBrao","74CRDz"|
+8IHQqs@0EDeLE
+YrxKv = |"yC4xmM","mvj8","xEmWX1","06","zM2jRN","INEpJU8"|
+Mpuik = |"xEmWX1","lAAG9MuMra"|
+Mpuik@YrxKv
+WV25eXye = fWMKHLp ^ Notwfk
+84s9v3X = Mpuik ^ StxjS
+.p
+.l

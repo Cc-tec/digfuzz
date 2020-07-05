@@ -1,0 +1,12 @@
+oTdqj = |"meviZ","j","9C"|~|"vuxdY","i52LjM","BjrJY","sHY","pAzJF"|
+kuXAOiA = oTdqj + oTdqj
+GLERA = kuXAOiA ~ kuXAOiA
+9uaLWCD = oTdqj ~ GLERA
+gf9fv = |"yj","8e8","Z","cG","Wh","li"|+|"5Dw","y"|
+x1zzTp = |"Zny","KwKwbeI","PGwIB"|+|"PGwIB"|
+MJO5AKq = |"666Dv04","y6y","lnp","gpZ","EaZBrFy","U6xFtOn"|^|"lnp"|
+3T65v3L = |"d","B","6H0ZP"|+|"6H0ZP","2sFzF9","1A0","x2tHfET","WZ","3"|
+Cn4yZ = |"t","9mzboxC","mVsFWLJ","52r7Qwi","6w"|-|"PO3QY0","52r7Qwi","p","0Byr6n"|
+zHJs09K = Cn4yZ - GLERA
+.p
+.l

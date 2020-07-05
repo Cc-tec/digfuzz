@@ -1,0 +1,12 @@
+nS4Pg = |"F","Ac","Kz2hMNk","yqSb","fuxbPeS","1RIzrvo","pAb77wr"|+|"Ac","9nm","wkVWy1","1RIzrvo","pAb77wr"|
+ufVGB = |"XJi","O9","Bk","g1iWU"|^|"muQ9","sAn","O9","GYM"|
+5c4Z2 = |"DPyhLH","LEvlTx8","pi","74xaM4","ZCTnmC","OhQwE"|+|"IpvP","LEvlTx8","8ndqHZ","I","E"|
+Zk4mH6i = |"RWdfE"|+|"Q","rFVAwk"|
+W7ezuia = |"AG","0WYXi","jA","bvhLY8","ffIb"|^|"jA","0fpsgF","bvhLY8","6zn"|
+PxITY = 5c4Z2 - nS4Pg
+aTafvtw = |"Z5llE","J7FNI","KNXNwa","2vl5uj","z61UwZ2"|^|"Z5llE"|
+CrMS3S = ufVGB - ufVGB
+1doYpRR = ufVGB + aTafvtw
+ymZIuq = PxITY ^ ufVGB
+.p
+.l

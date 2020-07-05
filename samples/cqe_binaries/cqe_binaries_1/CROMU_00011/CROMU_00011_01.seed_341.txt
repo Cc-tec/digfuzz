@@ -1,0 +1,20 @@
+2ObGFP = |"fo","AX","CbAcZv1","bOv","Pzo","al","5ElHL","fyveO","QpvY6A","xqmtGD"|
+K49w4Hv = |"fyveO","fo","AX","xqmtGD","OK3tuivvHc"|
+K49w4Hv@2ObGFP
+gYwxN = |"e1SueZI","JcqYFyP","6Pj","PBK","fW","Ru0","DanG"|~|"a4","mYFcH","yX","pL3Z","Ru0","6Pj","DanG"|
+J6P1LYT = K49w4Hv + 2ObGFP
+Uajy2 = |"D","PvxPtO","sVF","51","tt1k","D7yJL9t"|+|"D","z3Qcwyq","Uqr9uQP"|
+BHld6Cj = |"bmrNhR","luSynLK","pGQ","Nj","WC3jpK","1q","6TrrW","YR","4vid"|
+H4hnYVe = |"WC3jpK","6TrrW","Nj"|
+H4hnYVe@BHld6Cj
+3gNCz = |"pfz","ZZe","MWYm","oqSsj5","tUM0","f9"|+|"oqSsj5","f9","bQy1"|
+geKL6Ue = |"6P1OW","zS","eO7"|-|"iUZD","uA8yV","6P1OW","kL","sD"|
+kLGEr = H4hnYVe - geKL6Ue
+myBvN = Uajy2 - Uajy2
+tP1pe = 3gNCz ^ J6P1LYT
+n5QqIu = |"PV8uC0S","zACb","bQu","gI49","zE","6op","0U","0DdT","KI"|
+4J8NI65 = |"0DdT","PV8uC0S","gI49","zACb","DvpCdm6QDm"|
+4J8NI65@n5QqIu
+WzudK = |"O","zwbSFj4","G","v7PD1","is","dPt","Hci3"|+|"Z9kj","5M","rlXUTa","O"|
+.p
+.l

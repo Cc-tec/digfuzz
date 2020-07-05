@@ -1,0 +1,16 @@
+PVdof = |"PN","J","vaaRzg","qU"|+|"6XU","PEID","3row","e7","qU","rkUcv"|
+cOVC119G = PVdof ^ PVdof
+SyX8Mk = PVdof ^ cOVC119G
+70n3JC = |"7z","0xCh7","YDgM","pWgem3V","fd4VF","xLXdGb","HJO"|
+2PTzq = |"0xCh7","YDgM","fd4VF","HJO","xLXdGb"|
+2PTzq@70n3JC
+tIUo0 = SyX8Mk ^ cOVC119G
+TaLbd = |"Ih"|~|"ooaX","3Ah7"|
+hOhjVJJ = |"OzJI","sJPp","my"|~|"FL6x","3xlI","K0PGQ","h"|
+l6TsHQ = |"eoL8y","yqD5","zFTiRAy","lbH","Vv"|+|"eoL8y","3Z"|
+gpXAycf = SyX8Mk + PVdof
+X6eGF9 = cOVC119G ^ tIUo0
+ZTaGr4 = cOVC119G + TaLbd
+Muo0FN = cOVC119G ^ SyX8Mk
+.p
+.l

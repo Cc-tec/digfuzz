@@ -1,0 +1,11 @@
+FcCWT3 = |"kAS","v","rBUc","EVe","Q92lf"|+|"EKaZp","GEUaH","qtvRB7","oqh","v"|
+N5VjDv = |"d07m","fAVW","35ynzfs","V1Wv4w0","xa0jpRF","JHNzU","Lwn"|^|"cwY","JHNzU","zsr6jA3","Yk"|
+Ccn5XF = N5VjDv + N5VjDv
+QVDdd = FcCWT3 - N5VjDv
+NhiH3i = N5VjDv ~ N5VjDv
+CUXCy3h = Ccn5XF ~ FcCWT3
+C6PMUH = |"ats","CkYAS","UH","e4dtUzy","0OG0Ysx","bzIJ","bHoqkT"|^|"ats","YjK"|
+dobbKW = |"2FuqCpx","9iKo","snWj4T","HwP","C"|+|"cMQ"|
+Zdl22C = NhiH3i + Ccn5XF
+.p
+.l

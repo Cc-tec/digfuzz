@@ -1,0 +1,17 @@
+jO0rgX = |"Ob2","72hI","ABjrPy"|^|"ABjrPy","hlBWT","2GDDN","0BKrH","Ub","RoAvrN4","4mY8"|
+tecEZk = jO0rgX ~ jO0rgX
+6ThvoYm = tecEZk - tecEZk
+qvOVlQ = 6ThvoYm ~ tecEZk
+ZanuU0v = qvOVlQ ~ qvOVlQ
+ZbdAd = |"W4fN8","72ocG","U"|-|"q8I","4fovBW","7FX","9E","PUkOfWA","sKY0","n"|
+QMXMd = |"n8A8lOX"|+|"62jJP","nVSa6G0","YG5"|
+CDp07U2 = QMXMd ~ ZbdAd
+vzHyPL = |"Tu","EqP3","E6AlQC","ESDM","HKmRcm"|-|"Tu","7","w","ae0B9E"|
+Jx7SCe3 = |"CXXyT"|~|"u","meaFo","tfmu"|
+BgXfzZB = tecEZk + CDp07U2
+9nLEfB = |"Fdg3Le","JkIqykV","iEAuKc","JAtq","dvq","hZn7","Fc"|~|"TGD","Mgds1","DUhEpY","l6sb","iEAuKc","CeSr"|
+IQ513 = QMXMd - 9nLEfB
+1xDLvxJ2QN = Jx7SCe3 ^ 9nLEfB
+whCASpz = |"E0QHK8V","tbpS"|~|"tbpS"|
+.p
+.l

@@ -1,0 +1,13 @@
+2
+{Planet}{  Name   }   1I1oRnjijo    {  #Name}    {  Mass  }  0.44615   {#Mass  }  {  Period   } 1.85000 {   #Period     }  { Gravity   }0.66082{ #Gravity     }     {  Perihelion }  1.64516     {     #Perihelion     }     {    Aphelion     }  0.26519     {     #Aphelion    } {   ERadius     }    0.82000   {  #ERadius     }{Radius   }  1.39773   {  #Radius   }   {OrbitSpeed    }     1.91304{   #OrbitSpeed    }{     Population } 1349 {    #Population  }   {   Country}     {    Population  }     15032   { #Population   }{Border     }  2.65278 0.35065 4.54545 0.26087{ #Border     }{Border  } 8.30435 4.39474 0.82353 2.25000  {    #Border   }{  Border  }    4.77778 22.00000 0.13873 0.51163{     #Border  }{     Name }a3cFd385y     {    #Name }{     Language     }    PckyDgC  {     #Language}{    Capitol     }     rDPjfB  { #Capitol}{    Territory    }  {    Established} -346   {   #Established     }{     Border   }     2.71429 8.41667 0.60714 1.37624    {  #Border}{Name  } DCvWtz5{    #Name    }{  Founder }     j1HGbExchGU { #Founder   }{    Population     }39065    {   #Population     }{   County }   {Name }S0gWZ1Knw{  #Name    }{    Density }  33.33333{   #Density    }{    Area}    21.66667    {    #Area}{     Seat     }     VZomI   {     #Seat    }{  Border } 1.35043 1.11888 0.12281 0.06452{   #Border    }{    Population   }   38649   {   #Population   }{  City}     {   Url  }    http://b78UkSSpo.com  {#Url}{     Mayor    }     VKCAlO6djwH   {  #Mayor  }{  Border }     2.00000 0.15464 1.11024 0.62162   {   #Border     }{   Border } 0.60811 1.93750 0.07971 2.18367    {#Border}{   Name }  fdlAmHWpO   {     #Name    }{     Population}   10709   {    #Population  }  { #City }     {     #County     }  {   #Territory   }{ #Country }   {#Planet}
+1
+1
+3
+nBXTiydCzeyi
+3
+aMv5NgLQGF
+1
+1
+3
+31F7DZr7JS
+5

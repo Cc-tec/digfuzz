@@ -1,0 +1,11 @@
+4Zt8y = |"V","tL","R"|~|"uRI","7","on","UD8xHI","V","5X"|
+0gZz87 = |"As"|^|"mPTAhw7","pDCw","58W","N99AjE"|
+I2BUC = 4Zt8y ^ 0gZz87
+UAp3T = |"99NABw1","eWPnLJi","zH"|~|"Xzbv6","3bEVQ","gm","DMv"|
+yuzL2wFut = 4Zt8y ^ 0gZz87
+62cpl = 0gZz87 ^ 4Zt8y
+AikHu = |"Q3e","3iA","hI"|-|"Mi5oVBc","ovdIxw","9u9","h","IA","m","KE"|
+Gvcku = AikHu ~ AikHu
+Gx9ZpkM = |"e","UupvZ","L"|-|"Xo3HUx","3T","u"|
+.p
+.l

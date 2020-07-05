@@ -1,0 +1,18 @@
+waaCTi = |"pnBYmCH","db","5W5","BP","oSy","yvL","jk","rF8pid","kFwJzA"|
+fPXdI = |"kFwJzA"|
+fPXdI@waaCTi
+CDGMLr = |"1a","dTE","2kgt1R","4mbkw8","cF","Lfeu7wj","fkS1n"|~|"fdEiaN","gdN","2kgt1R"|
+JM7r2Ldx1 = fPXdI ^ CDGMLr
+3eBiX = |"goHOajC","LLh","o"|+|"J","goHOajC"|
+paKClbc = |"vyqhf","JEP","Jzz","YPnlrv","5o","OhniMRB","pwdZGX","QUWC","4s7"|
+vHKbC = |"QUWC","4s7"|
+vHKbC@paKClbc
+Wks6Po = paKClbc ^ CDGMLr
+5aIUVGZ = vHKbC ~ CDGMLr
+xEjRXKZ = JM7r2Ldx1 + 5aIUVGZ
+AZtSr = |"4IfWb","sr","Ym80Wx","GnD3nH","jU","8h","wzZE74h","Y4vu28S"|
+0JV65 = |"jU","sr","GnD3nH","wzZE74h","4IfWb","8h","Y4vu28S"|
+0JV65@AZtSr
+Db3s5n = |"NSY3","5","NbV"|+|"h8j1","NSY3","W"|
+.p
+.l

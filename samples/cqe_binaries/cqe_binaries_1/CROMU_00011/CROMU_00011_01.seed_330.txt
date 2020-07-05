@@ -1,0 +1,18 @@
+9hztJV = |"BfGr","yTuX","T3","kX2","lBuCux","9X","1qWucCS","afi9"|
+7WaufXr = |"T3","BfGr","afi9","9X","1qWucCS","lBuCux","10ByPMMwj2"|
+7WaufXr@9hztJV
+AGpjmX5 = |"KRg","7W","K63FnzR"|^|"20T2Dvd","7WDaDB","QGPn"|
+mMliL6 = |"s","AIl1ub7","wE","HQo58i"|-|"s","3G","AIl1ub7","N"|
+7UR8AhY = |"6q","KyjNLh","fmD"|^|"6Za"|
+xdzunC = |"ZS6"|+|"YG0"|
+AavuE = AGpjmX5 - mMliL6
+zo2sF = |"ui","vefAl","HR","kPD","8rQ","SegXn6","PamxPQ","K9dKG","nu"|
+gdTfiY = |"8rQ","kPD","vefAl","PamxPQ","K9dKG","HR"|
+gdTfiY@zo2sF
+EyHrVEE = zo2sF ~ xdzunC
+TR96nZwnc = zo2sF ^ mMliL6
+brgcBre = |"z","FRD","ALihT4d","vn","jVrZ7","Th","Ame"|+|"CXyDzB","vn","z","Y","TWAM","lg0iY5S","wo"|
+CQugRkS = xdzunC ^ 7UR8AhY
+7tZSB = |"na","Kedb6","NDMwbY"|-|"dS","LrxgPyx","Kedb6","wLPyoPI"|
+.p
+.l

@@ -1,0 +1,12 @@
+login
+update
+664
+update
+851
+insert
+Charles
+William
+cwilliam
+8/2/91 15:7:31
+^#&$^!
+exit

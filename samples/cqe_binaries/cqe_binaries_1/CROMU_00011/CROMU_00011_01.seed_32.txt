@@ -1,0 +1,13 @@
+v3wWknC = |"NUN6One","x2yv","1","Kei","J8tI0Zs","f68TCH8","Q3"|-|"x2yv","yFEgPz7","9Pab"|
+88ucNO = |"1aWUj","gjk0T4I","7","fV3","2tOXgAv"|-|"6bpjzOu","gjk0T4I","7","qbV","ZOhjD4y","2Q","0D6iRk"|
+47PO4 = |"Zwlu","TT9OVA","1Vlr","9kMj","vEbtMHD","6o"|
+J72qCxh = |"Zwlu","vEbtMHD"|
+J72qCxh@47PO4
+AZWwD = J72qCxh ~ 47PO4
+yhZb7 = 88ucNO - 88ucNO
+PrCoNf = |"FA","d80","3xAgPD","m6GZ","JkWumDm","zV7YnX"|^|"d80","m6GZ","nv","Te5blC1","zV7YnX","WW","abii"|
+aLd9Uq = |"pfAu6","RGoAfMP","3Kts","xpZ","K4","JzCZ"|^|"2vRF","Flk","fHFN","RGoAfMP","JzCZ"|
+ZPQf5s = v3wWknC ~ v3wWknC
+sBs05g = ZPQf5s ^ PrCoNf
+.p
+.l

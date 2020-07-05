@@ -1,0 +1,15 @@
+hUCff = |"7bNe","nB7i","2z2t1O"|^|"nB7i","Mh","lEf2","qz7","BvY"|
+HX6tPDU = |"T1","kKlY","9R0pf","XbkTDm","VWJsD","RIDizX","MGn","kpgq","iq","O0x"|
+rLKxO = |"O0x"|
+rLKxO@HX6tPDU
+Lx6EGZc = |"v","Ky9rJha","x","JPTb","MjU","dxBAd","Ryf"|~|"hAjR","Xs"|
+H9rKFf = |"4q","2zEjI1","z1Oxp3","z"|-|"V","4q","atAmq","1","wg14tdv","mK4"|
+U94Zhvd = hUCff - H9rKFf
+3shuWu = HX6tPDU + U94Zhvd
+wAgIc = HX6tPDU - H9rKFf
+rpGwq = wAgIc - U94Zhvd
+yalih = |"sc","ca"|~|"y","Vivq9jK","sc","CG","im","k"|
+lTWtHqO2 = hUCff ^ rpGwq
+OI1WG = lTWtHqO2 ~ lTWtHqO2
+.p
+.l

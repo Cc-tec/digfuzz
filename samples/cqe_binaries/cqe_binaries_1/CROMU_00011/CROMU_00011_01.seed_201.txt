@@ -1,0 +1,11 @@
+cPzqN = |"F","xBHg9"|+|"7","d8q2Y","89WRH","iZfYoOY","IHhk","TAmoQut"|
+lxbvv = cPzqN + cPzqN
+RAwMf = |"YHct6YT","7hn","TW","Tu","F4","Q8M7Gz","klX","z2q","IY","TiXS"|
+BAZcnZc = |"Tu","7hn","Q8M7Gz","f2W8ABkZSn"|
+BAZcnZc@RAwMf
+SekgJd = cPzqN ~ lxbvv
+AQYwZS = cPzqN + cPzqN
+kKHJa = lxbvv - AQYwZS
+tAzDEfB = |"ydJ2G3"|~|"nYgEGmI","XddLgD","LzB","ydJ2G3"|
+.p
+.l

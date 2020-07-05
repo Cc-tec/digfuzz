@@ -1,0 +1,12 @@
+OThZay = |"1wC","nzRDTE7","YXrXwVF","JR8xQS","bXV1dmU","gU","KVX"|~|"1wC","qj","YXrXwVF"|
+1V1mWPo = OThZay ~ OThZay
+277cJGv = |"WKTKxX","FgxRHz","bQRzPMv","WbX"|^|"9z"|
+bXYrFr = |"V6J6","9mlJaW8"|~|"nAtv","V6J6"|
+apCnaQ = |"aocaD","uRC"|^|"CW7","F7zA8","TabiJc","AWFdua","aMfwQyQ"|
+WdzrI3 = bXYrFr ^ OThZay
+S59rIY6 = |"CWvP","FOqO","PWV","8NVbY","2b8n","xNR"|^|"zs","GWPfO","Ot","8NVbY"|
+k6QGti7 = |"AM03dl","Ej78","AmOjuZP","TuP","R","gG1QU"|-|"9LzSUcL","gG1QU","AM03dl","HAT6","R","f2t1z","OCXK8T"|
+vYlLH1 = WdzrI3 + 277cJGv
+gIJ5Zl = S59rIY6 ~ 277cJGv
+.p
+.l

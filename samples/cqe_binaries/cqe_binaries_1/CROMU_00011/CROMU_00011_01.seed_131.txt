@@ -1,0 +1,12 @@
+1HoBXp = |"1t","WWPm","S0K7vd","tq5","KoY","jc","tR"|+|"DR","W","Z","ya","GbZne"|
+lF7PAko = 1HoBXp ~ 1HoBXp
+YcgJd = lF7PAko + lF7PAko
+ZkR9W = YcgJd + 1HoBXp
+iHS3j5q = |"y6","FitMlu","kCqMc1","kRIcn","rEAI4D","l3d4dpd","8lW"|^|"rEAI4D"|
+wgkYcdVtk = 1HoBXp ^ ZkR9W
+0KByPb = |"RpWO10L","KuxaL0","sGM","UfwGH7","9Y","HMDFd"|^|"Y6","Ov7","KC5"|
+cDwRh = |"pjbEtmz","HQ9hAC1","O4z","KCi","dY2Wa1","LIsrdWo"|-|"pjbEtmz","HQ9hAC1","i90","63","p","dY2Wa1","qqJ8HI"|
+gy1vhPqx = wgkYcdVtk ^ cDwRh
+vFiSF8q = |"O82AA","Cjqm"|+|"Cjqm","r","O82AA","HqQPYR2","iF"|
+.p
+.l

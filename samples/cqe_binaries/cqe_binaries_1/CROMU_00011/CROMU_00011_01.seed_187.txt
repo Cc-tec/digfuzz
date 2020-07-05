@@ -1,0 +1,20 @@
+B2ajv = |"8YV","XcELz","fyNe","S28","zDq6","JnI2","Z2","ExAzu1j"|
+y0pJB = |"zDq6","S28"|
+y0pJB@B2ajv
+UaZuLc5 = |"k5J5k","iJMat","P9KOevL","zZxs"|-|"y9","L6V","iJMat","zZxs","drHoi","k5J5k"|
+ZL8LZ8 = |"bK","VhVaT","b","jiEg3G1","0q","l","cl"|-|"cE","F71","b","T8"|
+zkwpEL = |"1fTDwx","Sm","Tw","DF0Cd3","tqKu8Y","mF3","y66F","WJb"|
+6W2vO = |"Sm","1fTDwx","mF3","Tw","ZA93ZCAucc"|
+6W2vO@zkwpEL
+24nHYB = zkwpEL + ZL8LZ8
+KowlAr3 = |"1xDLJE","6uYtJrp","FLSIuW","WPQwZv","xu","AbtVAB8"|^|"6uYtJrp"|
+aGxa9SA = |"loq31rg","tffi","UfcJl0","jN9g","r8","JCWY8","gWVcM4"|
+NoYWFb2 = |"r8","loq31rg","tffi","UfcJl0","JCWY8","Nmns5cjIi0"|
+NoYWFb2@aGxa9SA
+La2Y7R = aGxa9SA ^ KowlAr3
+1k2qRk = y0pJB + aGxa9SA
+SF7QMh = |"B","d","HG0Fka","Bxw","ZQUF","xTC5mt","diK"|~|"rxPBPU","ZQUF","c","diK","d","Bxw","NU"|
+z1pRa = zkwpEL + zkwpEL
+3WAhs = |"ZK4Zu4c","g5J","oSFB","zGXe2"|^|"voRU","oSFB"|
+.p
+.l

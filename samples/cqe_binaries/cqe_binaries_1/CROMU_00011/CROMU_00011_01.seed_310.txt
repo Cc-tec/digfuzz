@@ -1,0 +1,13 @@
+VNbSH = |"4eA8"|~|"U","Rf7AA4"|
+lgKL5zl = VNbSH ^ VNbSH
+cOpII = lgKL5zl - VNbSH
+4bUKF = cOpII + lgKL5zl
+bCiH5 = lgKL5zl + lgKL5zl
+0NBKt = 4bUKF + VNbSH
+UUfYS = 4bUKF ~ 0NBKt
+yyDvnQA = |"mksu","k6hpglk","ZDAjhh0"|-|"k6hpglk","nbLPFWl","C"|
+RjyZ3 = |"XPt","O8g","Vr5egz","pbuuZYW","75","0K0U","AK8"|
+0y91s = |"O8g"|
+0y91s@RjyZ3
+.p
+.l

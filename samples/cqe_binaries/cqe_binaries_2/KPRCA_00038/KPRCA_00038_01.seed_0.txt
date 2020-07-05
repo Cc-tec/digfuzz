@@ -1,0 +1,115 @@
+BEGIN { print "begin"; }
+/2/ {
+    print "this is 2";
+}
+$2 == 1 {
+    print "this is 1";
+}
+{
+    # test fields and concat
+    print $1 $2;
+    print $1, $2;
+
+    # test OFS variable
+    OFS = "a";
+    $3 = "foo";
+    print;
+    OFS = " ";
+
+    # test for loop
+    for (i = 0; i < 10; i+=1)
+        print i;
+
+    # test do-while and decrements
+    j = 10;
+    do {
+        print j--;
+    } while (--j);
+
+    # test while, assign expr, negative numbers
+    j = 8;
+    while ((i = j) > -10)
+    {
+        print i;
+        j += -3;
+    }
+
+    # test break
+    for (i = 0; i < 10;)
+    {
+        print i;
+        break;
+    }
+
+    # test continue
+    for (i = 0; i < 2; i++)
+    {
+        print i;
+        continue;
+        while (1) { }
+    }
+
+    # test arithmetic
+    i = 10;
+    i = 6 + i;
+    print i;
+    i += 7;
+    print i;
+    i = 10;
+    i = 6 - i;
+    print i;
+    i -= 7;
+    print i;
+    i = 10;
+    i = 160 / i;
+    print i;
+    i /= 7;
+    print i;
+    i = 10;
+    i = 18 % i;
+    print i;
+    i %= 7;
+    print i;
+    i = 10;
+    i = 6 * i;
+    print i;
+    i *= 7;
+    print i;
+    print 1 + 2 + 3;
+
+    # test logical
+    print 0 && 1;
+    print 1 && 1;
+    print 0 && 0;
+    print 0 || 1;
+    print 1 || 1;
+    print 0 || 0;
+    i = 2;
+    print 1 || (i = 3);
+    print i;
+    print 0 && (i = 4);
+    print i;
+    print !i !0 !1;
+
+    # test conditional
+    i = 7 <= 5 ? 6 : 10 >= 9 ? 1 : 2;
+    print i;
+
+    # test format string
+    printf "#s#x#s", "hello!", 567, ORS;
+    printf "#d", foobar;
+    printf "#s#s", foobar, ORS;
+
+    # test regex
+    print "foobar" ~ /^[_a-zA-Z][_a-zA-Z0-9]*$|^[-+]?([0-9]+\.?|\.[0-9])[0-9]*([eE][-+]?[0-9]+)?$/;
+    print "0e0" ~ /^[_a-zA-Z][_a-zA-Z0-9]*$|^[-+]?([0-9]+\.?|\.[0-9])[0-9]*([eE][-+]?[0-9]+)?$/;
+    print "foo\&bar" ~ /^[_a-zA-Z][_a-zA-Z0-9]*$|^[-+]?([0-9]+\.?|\.[0-9])[0-9]*([eE][-+]?[0-9]+)?$/;
+
+    # test next
+    next;
+
+    print "foobar";
+    while (1) { }
+}
+END { print "end"; }record 1
+record 2

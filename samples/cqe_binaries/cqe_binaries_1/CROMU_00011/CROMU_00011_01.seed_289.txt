@@ -1,0 +1,11 @@
+zV3Kp1 = |"Os560U","f8w2dX","6uO3thF"|~|"5ZWVIr","EI0s","eM5zht","f8w2dX","m","V","Szl"|
+kcn4Xy = zV3Kp1 ~ zV3Kp1
+s29aEpa = kcn4Xy - zV3Kp1
+uMgvno50JF = s29aEpa ^ s29aEpa
+oUmxpllY = uMgvno50JF ^ s29aEpa
+c6Wzgs = zV3Kp1 + zV3Kp1
+9spyPXM = kcn4Xy + c6Wzgs
+wTxuBSFi = uMgvno50JF ^ s29aEpa
+z2gB3TT = wTxuBSFi + wTxuBSFi
+.p
+.l

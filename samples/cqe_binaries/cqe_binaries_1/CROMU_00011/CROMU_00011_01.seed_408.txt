@@ -1,0 +1,18 @@
+OJGuvq = |"vE","Ye4","zzrPFa","LY7","DxM"|~|"ueMBq"|
+d1LRjMrJB = OJGuvq ^ OJGuvq
+3rx7LZ = |"cTMnbyN","E0","Pii"|^|"sono","cTMnbyN"|
+tttYp = 3rx7LZ ^ d1LRjMrJB
+nOPABWf = |"EaMod","hl787A","s6rWtX","oDmCPfc","BlUb","K0ts","JH87","nXPy","GL3"|
+esPoW = |"EaMod","oDmCPfc","BlUb","s6rWtX"|
+esPoW@nOPABWf
+R9AW2 = esPoW + d1LRjMrJB
+CzC77xI = |"xrAgz","w3GfX","BXN","BnH0bW","xRW4XYr"|~|"U","j3","O997R","YZ"|
+0vq1E3 = OJGuvq + CzC77xI
+gInP62 = 0vq1E3 - d1LRjMrJB
+bobcRXm = nOPABWf - d1LRjMrJB
+YuzNkA0 = |"lPUXI9","MsOY"|^|"KdB","viw","XcER","yoWDQEt"|
+HBaAqb = |"7j","pO9","US6fL","nK24","HYVjqv3","XkSP","p0Y","S6"|
+GIfvBD2 = |"HYVjqv3","7j","S6","w4c77hGYe6"|
+GIfvBD2@HBaAqb
+.p
+.l

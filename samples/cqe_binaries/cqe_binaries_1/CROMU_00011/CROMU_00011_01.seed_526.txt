@@ -1,0 +1,17 @@
+VUmr0pe = |"Ul48qh","x4Zc","inEhD82","5","AE","C5gYh"|+|"GaTPx","zUSAV","inEhD82"|
+Tb7xxXh = |"FS4","0tA6rao","SYX","OviXp2","b3X","ff6M","Imt4","Qt"|
+KLz8xY = |"FS4","b3X","0vozhltBXD"|
+KLz8xY@Tb7xxXh
+aJzIErG = |"uP90oe"|~|"en7A","1q7R","J83j","uP90oe","1jcq"|
+buvU4 = |"hK5"|~|"sNC1RVr","OX","JZDJnt","RKXiKuG","C3","2BpPiT8","134HH"|
+dnghI = |"J8T","S8JDm1K","fRK","5VDLoN","Wl89CE3","rl69","ae","K59"|
+tR3go = |"J8T","5VDLoN","ae","rl69","K59"|
+tR3go@dnghI
+wHe9eB = |"TL","U3Y","NCfg7Ba","mz4iedJ"|~|"bRs3dzZ","b","TtD","OQKNjz","mz4iedJ","y"|
+eU2gscE = |"vu","j","z3Qhq","v","l","aicjH"|~|"FALlvqF","Anr","vxu5zR","j","BTw3Q"|
+xUbEomE = KLz8xY ~ dnghI
+gfyEtuGX = Tb7xxXh ^ KLz8xY
+VTO5I8 = eU2gscE + tR3go
+q6zC54 = dnghI - Tb7xxXh
+.p
+.l

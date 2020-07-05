@@ -1,0 +1,10 @@
+aiFHNi = |"Cur","atFTwRo","rg","bXp3Lf","jDoS","9lkvBXg","BY"|
+iWT1lB = |"bXp3Lf","Cur","rg","atFTwRo","9lkvBXg","jDoS","kWfdcB49hh"|
+iWT1lB@aiFHNi
+CTzoZ = iWT1lB + aiFHNi
+Fxw1a = |"M9oX5t"|+|"j5uc","mC"|
+XxNsVfu = |"Vjg","BVw"|^|"kbk","BVw","oM","1BYfU","If7vmi9","gn"|
+CxlkN4L = |"d4n","zZL","ZWX"|+|"wM","zZL","d4n"|
+K4T8ww5 = aiFHNi ~ CxlkN4L
+.p
+.l

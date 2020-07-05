@@ -1,0 +1,12 @@
+BQxVIJE = |"Y8","6","BLR1E","2iZ","h"|-|"2iZ","R0CI","h","r","NoeT","z2Z1cQ","ulB"|
+MtPX2c = BQxVIJE - BQxVIJE
+YCLyX = MtPX2c ^ MtPX2c
+47xod0g = |"8YpV","xh4Z"|^|"IcGkb","l5K15","xh4Z"|
+VpDME9 = |"CzJEk1","8"|+|"vcJx","vdPqRU","k","QEKdfa","lI"|
+6VX9Pg = |"FO1w","ar0Onu"|~|"johGnz","B"|
+WvDNP = |"fNzD","qDFaFe"|^|"2w","Ayy"|
+aVOQDv = MtPX2c + YCLyX
+RMM4DIs = |"Py","pL8","PNJ"|-|"iu","Q","R8ZQcI","e8","Py","TL"|
+Vf92bT = |"FsekS2","rltapw"|+|"Xq"|
+.p
+.l

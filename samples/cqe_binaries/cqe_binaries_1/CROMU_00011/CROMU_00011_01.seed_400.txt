@@ -1,0 +1,16 @@
+Vk9KN5 = |"1X1C","KQyLzio","BfC","mic"|+|"EGm","BfG","1X1C","mic","MLGCQ","g","VfaGSq"|
+28zoJUq = |"ISHqg","0DPvmBD","dyMk","iY2","Hp5Ljyo","EdNQHcd"|^|"eS","62vZ","EdNQHcd","Sb6oZCu","0DPvmBD","Sxd"|
+YEJlMec = |"MC66M","g5Tz","Prz","jKU","PsmS9ta","vcqrV","Fg5XkGr"|^|"Prz","g5Tz","p3O","Jh"|
+xecZH = |"Ac","mLH","hy8SArN","KiZ","Q2yQPVL","7oUjQT"|+|"mLH","G6WltT2","Q2yQPVL","4yhIjc","OYL","f","KBbmrdx"|
+rBgrnhF = 28zoJUq ~ xecZH
+zXsnnYv = |"m6","LzGHmp","50b"|-|"RNOJe","ioH","5F","fQ9eUH","m6"|
+QEKUXQIjT = YEJlMec ^ rBgrnhF
+VbKq2ef = |"25w","bW4","z7oJOra"|~|"leN","q3","bW4","e7mKAMH"|
+AJkfy1nHK = xecZH ^ Vk9KN5
+dYFfSmg = |"K","Q","1gmB","Eon"|~|"Uh","Nwk"|
+RjraNf = |"w0c","be","8k0","Mk4uofK","TSW1dFi","S5gZ3","R6p"|-|"Mk4uofK","qbakZw","It22mH","x"|
+T4SNk = xecZH ~ YEJlMec
+jNefirj = VbKq2ef + 28zoJUq
+BC0PB = |"i6v","lL2m","r1","bqt"|-|"ebc","X","LjaA"|
+.p
+.l

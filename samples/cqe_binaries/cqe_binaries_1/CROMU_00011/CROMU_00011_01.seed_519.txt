@@ -1,0 +1,18 @@
+BPiU1dB = |"Q7XLT1","8","MUqgwF"|~|"THa","N","5y0gpga","BEm14","Kg"|
+Z5iPYYU = BPiU1dB - BPiU1dB
+Fl6aep = |"ZbwOkbE"|~|"rxsv","ZbwOkbE","MjxvI","s","03eh","reCC"|
+p4bSGr = Fl6aep - Z5iPYYU
+ykXuO = |"ZAFt","mYxXc","2FKUY","6Dd","QWpGxTw","s7","DU","OCBd","YZVwdYR","EaB"|
+sStCNtP = |"DU","6Dd","YZVwdYR","s7","kEfQ9tz81a"|
+sStCNtP@ykXuO
+Y91lLHu = BPiU1dB ~ sStCNtP
+5BQYL = ykXuO + Fl6aep
+FbtG2 = |"PGDJm","1X","pb3uM","2R","LRU","UntEUu","98eCMg","BMCWq","Y7QhR","NL"|
+IXWpLZy = |"pb3uM","Y7QhR","BMCWq","98eCMg","NL","UntEUu","Oen1xjc6Xg"|
+IXWpLZy@FbtG2
+TzkjITf = |"yGYO3t","1b8SZEC","Ux8","R","OA","14a88c","P"|+|"bz3zeHM","9Qu","4oza","yGYO3t","1b8SZEC","dPbI"|
+Zed0sifac = Fl6aep ^ TzkjITf
+H9N4F = |"29","Tbp1ylm","SwFM"|~|"6NCaA","Tbp1ylm"|
+0wTO7EXI = 5BQYL ^ TzkjITf
+.p
+.l

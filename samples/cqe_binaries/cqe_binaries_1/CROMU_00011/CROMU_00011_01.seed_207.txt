@@ -1,0 +1,14 @@
+LeaerWw = |"KcscLf","QPa4tV","KMLu","LVNdO3D","5Pqy","ZX6Lmm","HsUL4","w6HKP","eaTU75","ExVkDU4"|
+WRNpCfW = |"eaTU75","KcscLf","w6HKP","5Pqy","HsUL4","ExVkDU4"|
+WRNpCfW@LeaerWw
+Vq2AIjW = WRNpCfW ~ WRNpCfW
+B9Wvs = |"brfOZH","pUg6Ag","SAoYh","3ytdnH","6","xFqr"|+|"F3eKNAj","tRK","Z4Pt","SAoYh","6"|
+Qt5HOL = WRNpCfW ~ LeaerWw
+vX3SM1 = |"Cd","IxsjX75","V","5GKtA","js","3a9DyD","oAPKT"|-|"Cd","3a9DyD","93","5GKtA","js"|
+BcvIUN17nN = Vq2AIjW ^ B9Wvs
+sSsSH = Qt5HOL + BcvIUN17nN
+p0Vyk = |"SUcE","Rp5O2","qPnu","HTl","ZFWW","WY7kZP"|-|"X1BQ","QEVwkt","ZFWW"|
+AmLr3 = |"0Kbvb","EwZpva","YKGLZrX"|^|"0Kbvb","Io","RB3SO","ZapmNpx","hGW4K","Ik","YrrAs"|
+UhQzI = WRNpCfW + Vq2AIjW
+.p
+.l

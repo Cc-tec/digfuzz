@@ -1,0 +1,4 @@
+mkfolder testfolder
+echo "aaaa" > /testfolder/testfile
+fsinfo
+bye

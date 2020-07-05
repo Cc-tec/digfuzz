@@ -1,0 +1,11 @@
+CvR7qYK = |"g91ZjM","j9","nWpBUb","Y74Xm","Pq","wa","glglyr"|+|"G3","j9"|
+WPJbvDGMI = CvR7qYK ^ CvR7qYK
+O7uPMi = |"Q1T"|+|"mTWYaTr","iVF","9B","jDLSBKP"|
+6L0hW9 = WPJbvDGMI ^ CvR7qYK
+KIDRoPb = 6L0hW9 + CvR7qYK
+ICJb9 = KIDRoPb ~ O7uPMi
+DdFOHJy = |"XjJI2","0R1","jr7","InlUkd"|^|"3WpXt","OYlnw"|
+Ubgjb7 = DdFOHJy ~ CvR7qYK
+j4XM7j = |"9R","FHZeJff","k4XQZn"|~|"C","9U4mP","wsrWV7G","zEu","rtz","UzC","rmAH"|
+.p
+.l

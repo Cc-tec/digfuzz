@@ -1,0 +1,13 @@
+gXzgxmW = |"Kh","f2uO2s","4RppK"|^|"Kh","YO","qOp","YgB","4RppK","M3"|
+1YSbt = gXzgxmW + gXzgxmW
+ax4vVEf = |"d47B","vE","1t","0JF78y","H1Piy","1DrN","L3"|
+dk371w = |"vE","0JF78y"|
+dk371w@ax4vVEf
+A4Ncib = dk371w + 1YSbt
+KNgJFBF = |"l2b","ibYCb","G1zW","PwgkL1","UDw","XI"|~|"c","W","XI","7","wmI","DNmT","GTF04"|
+9SBcK = |"622j","n8tib","XkCoz6o","LGDyJ93","q","1Dv","Z3ig"|+|"622j","4ilVSBZ"|
+3no3kdT = KNgJFBF - 1YSbt
+VclKum = |"GVQm","wyj","3tHx","DBe","kT9wmrT"|-|"A10","gaxa","LKzZhS","QYfP"|
+JMfmlC = 3no3kdT ~ 3no3kdT
+.p
+.l

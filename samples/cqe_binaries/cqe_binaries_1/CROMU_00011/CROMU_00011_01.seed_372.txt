@@ -1,0 +1,14 @@
+CPccIs = |"tn","fS6","76h","UBEWAu","RtxqWO","myQ6y"|^|"a9"|
+vebLTqb = CPccIs - CPccIs
+CIMDE = vebLTqb - vebLTqb
+oV5ivGo = |"KlY8bJc","GX","4m2e","6LVpM","rNUHW","zeQ","cyAJsn"|
+OnYV1H = |"GX","KlY8bJc","6LVpM","RDJbm80Zwh"|
+OnYV1H@oV5ivGo
+l7pDYgz = oV5ivGo - CIMDE
+xQSi6 = CIMDE ^ CIMDE
+KoRheA8 = OnYV1H ~ oV5ivGo
+ApUXWTB = vebLTqb + CPccIs
+gBkb9 = |"9ANf7UI","fk5"|+|"1H","e","leH6","kJhZls8","jt"|
+RO5ZgWC = KoRheA8 ^ l7pDYgz
+.p
+.l

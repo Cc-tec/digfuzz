@@ -1,0 +1,10 @@
+pwCHfcW = |"d6Sh00"|+|"eTwiB","BkP","S","a4uV"|
+fkyvAf = |"uoS"|~|"cJ","A49Uuh","k","FAxJy","uy"|
+8UtO5 = fkyvAf ~ pwCHfcW
+eW4V5m3 = |"y0G2ckA","ZM","5","MN"|-|"ZM","j4Ub","y0G2ckA","Bb9wb40","oEDWK","WO"|
+aBggN = |"t80Gu7i","Gj6YAk","JCgA"|~|"XzuHPP6"|
+ntpIt = |"SKSQ","oJsZ1","EW5s19","l3","S7HA","FqKW","IJv7giU"|-|"fpxtS","B","ilpOQ5","wQtXU5"|
+UF4MdV = eW4V5m3 + ntpIt
+kgMXUi = eW4V5m3 ~ aBggN
+.p
+.l
