@@ -6,8 +6,8 @@ import time
 import datetime
 import logging
 
-binary_list = ["nm","size","exiv2","xmlwf","cjpeg","infotocap","jhead","pdfimages","pdftohtml",
-                "pngfix","readelf","sam2p"]
+binary_list = ["nm","size","exiv2","xmlwf","cjpeg","infotocap","jhead","pdfimages","objdump",
+                "pngfix","readelf","tiffdump"]
 afl_path = "/home/whu/fuzz_job/mcts_on_cqe/start_hybrid_fuzzer.py"
 binary_base = "/home/whu/fuzz_job/binaries"
 out_base = "/home/whu/fuzz_job/fuzzer_results_qsqs"
